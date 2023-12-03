@@ -1,0 +1,7295 @@
+
+0 
+Procedure   - >  _ Begin Descriptions Operators End 0 0 
+Begin   - >  _ procedure ProcedureName ; begin 0 0 
+
+1 
+Begin   - >  _ procedure ProcedureName ; begin 1 0 
+ProcedureName   - >  _ Id 0 1 
+Id   - >  _ Letter 0 1 
+Id   - >  _ Letter Id 0 1 
+Letter   - >  _ a 0 1 
+Letter   - >  _ b 0 1 
+Letter   - >  _ c 0 1 
+Letter   - >  _ d 0 1 
+Letter   - >  _ e 0 1 
+Letter   - >  _ f 0 1 
+Letter   - >  _ g 0 1 
+Letter   - >  _ h 0 1 
+Letter   - >  _ i 0 1 
+Letter   - >  _ j 0 1 
+Letter   - >  _ k 0 1 
+Letter   - >  _ l 0 1 
+Letter   - >  _ m 0 1 
+Letter   - >  _ n 0 1 
+Letter   - >  _ o 0 1 
+Letter   - >  _ p 0 1 
+Letter   - >  _ q 0 1 
+Letter   - >  _ r 0 1 
+Letter   - >  _ s 0 1 
+Letter   - >  _ t 0 1 
+Letter   - >  _ u 0 1 
+Letter   - >  _ v 0 1 
+Letter   - >  _ w 0 1 
+Letter   - >  _ x 0 1 
+Letter   - >  _ y 0 1 
+Letter   - >  _ z 0 1 
+Letter   - >  _ A 0 1 
+Letter   - >  _ B 0 1 
+Letter   - >  _ C 0 1 
+Letter   - >  _ D 0 1 
+Letter   - >  _ E 0 1 
+Letter   - >  _ F 0 1 
+Letter   - >  _ G 0 1 
+Letter   - >  _ H 0 1 
+Letter   - >  _ I 0 1 
+Letter   - >  _ J 0 1 
+Letter   - >  _ K 0 1 
+Letter   - >  _ L 0 1 
+Letter   - >  _ M 0 1 
+Letter   - >  _ N 0 1 
+Letter   - >  _ O 0 1 
+Letter   - >  _ P 0 1 
+Letter   - >  _ Q 0 1 
+Letter   - >  _ R 0 1 
+Letter   - >  _ S 0 1 
+Letter   - >  _ T 0 1 
+Letter   - >  _ U 0 1 
+Letter   - >  _ V 0 1 
+Letter   - >  _ W 0 1 
+Letter   - >  _ X 0 1 
+Letter   - >  _ Y 0 1 
+Letter   - >  _ Z 0 1 
+
+2 
+Letter   - >  _ n 1 1 
+Id   - >  _ Letter 1 1 
+Id   - >  _ Letter Id 1 1 
+Id   - >  _ Letter 0 2 
+Id   - >  _ Letter Id 0 2 
+ProcedureName   - >  _ Id 1 1 
+Letter   - >  _ a 0 2 
+Letter   - >  _ b 0 2 
+Letter   - >  _ c 0 2 
+Letter   - >  _ d 0 2 
+Letter   - >  _ e 0 2 
+Letter   - >  _ f 0 2 
+Letter   - >  _ g 0 2 
+Letter   - >  _ h 0 2 
+Letter   - >  _ i 0 2 
+Letter   - >  _ j 0 2 
+Letter   - >  _ k 0 2 
+Letter   - >  _ l 0 2 
+Letter   - >  _ m 0 2 
+Letter   - >  _ n 0 2 
+Letter   - >  _ o 0 2 
+Letter   - >  _ p 0 2 
+Letter   - >  _ q 0 2 
+Letter   - >  _ r 0 2 
+Letter   - >  _ s 0 2 
+Letter   - >  _ t 0 2 
+Letter   - >  _ u 0 2 
+Letter   - >  _ v 0 2 
+Letter   - >  _ w 0 2 
+Letter   - >  _ x 0 2 
+Letter   - >  _ y 0 2 
+Letter   - >  _ z 0 2 
+Letter   - >  _ A 0 2 
+Letter   - >  _ B 0 2 
+Letter   - >  _ C 0 2 
+Letter   - >  _ D 0 2 
+Letter   - >  _ E 0 2 
+Letter   - >  _ F 0 2 
+Letter   - >  _ G 0 2 
+Letter   - >  _ H 0 2 
+Letter   - >  _ I 0 2 
+Letter   - >  _ J 0 2 
+Letter   - >  _ K 0 2 
+Letter   - >  _ L 0 2 
+Letter   - >  _ M 0 2 
+Letter   - >  _ N 0 2 
+Letter   - >  _ O 0 2 
+Letter   - >  _ P 0 2 
+Letter   - >  _ Q 0 2 
+Letter   - >  _ R 0 2 
+Letter   - >  _ S 0 2 
+Letter   - >  _ T 0 2 
+Letter   - >  _ U 0 2 
+Letter   - >  _ V 0 2 
+Letter   - >  _ W 0 2 
+Letter   - >  _ X 0 2 
+Letter   - >  _ Y 0 2 
+Letter   - >  _ Z 0 2 
+Begin   - >  _ procedure ProcedureName ; begin 2 0 
+
+3 
+Letter   - >  _ a 1 2 
+Id   - >  _ Letter 1 2 
+Id   - >  _ Letter Id 1 2 
+Id   - >  _ Letter 0 3 
+Id   - >  _ Letter Id 0 3 
+Id   - >  _ Letter Id 2 1 
+Letter   - >  _ a 0 3 
+Letter   - >  _ b 0 3 
+Letter   - >  _ c 0 3 
+Letter   - >  _ d 0 3 
+Letter   - >  _ e 0 3 
+Letter   - >  _ f 0 3 
+Letter   - >  _ g 0 3 
+Letter   - >  _ h 0 3 
+Letter   - >  _ i 0 3 
+Letter   - >  _ j 0 3 
+Letter   - >  _ k 0 3 
+Letter   - >  _ l 0 3 
+Letter   - >  _ m 0 3 
+Letter   - >  _ n 0 3 
+Letter   - >  _ o 0 3 
+Letter   - >  _ p 0 3 
+Letter   - >  _ q 0 3 
+Letter   - >  _ r 0 3 
+Letter   - >  _ s 0 3 
+Letter   - >  _ t 0 3 
+Letter   - >  _ u 0 3 
+Letter   - >  _ v 0 3 
+Letter   - >  _ w 0 3 
+Letter   - >  _ x 0 3 
+Letter   - >  _ y 0 3 
+Letter   - >  _ z 0 3 
+Letter   - >  _ A 0 3 
+Letter   - >  _ B 0 3 
+Letter   - >  _ C 0 3 
+Letter   - >  _ D 0 3 
+Letter   - >  _ E 0 3 
+Letter   - >  _ F 0 3 
+Letter   - >  _ G 0 3 
+Letter   - >  _ H 0 3 
+Letter   - >  _ I 0 3 
+Letter   - >  _ J 0 3 
+Letter   - >  _ K 0 3 
+Letter   - >  _ L 0 3 
+Letter   - >  _ M 0 3 
+Letter   - >  _ N 0 3 
+Letter   - >  _ O 0 3 
+Letter   - >  _ P 0 3 
+Letter   - >  _ Q 0 3 
+Letter   - >  _ R 0 3 
+Letter   - >  _ S 0 3 
+Letter   - >  _ T 0 3 
+Letter   - >  _ U 0 3 
+Letter   - >  _ V 0 3 
+Letter   - >  _ W 0 3 
+Letter   - >  _ X 0 3 
+Letter   - >  _ Y 0 3 
+Letter   - >  _ Z 0 3 
+ProcedureName   - >  _ Id 1 1 
+Begin   - >  _ procedure ProcedureName ; begin 2 0 
+
+4 
+Letter   - >  _ m 1 3 
+Id   - >  _ Letter 1 3 
+Id   - >  _ Letter Id 1 3 
+Id   - >  _ Letter 0 4 
+Id   - >  _ Letter Id 0 4 
+Id   - >  _ Letter Id 2 2 
+Letter   - >  _ a 0 4 
+Letter   - >  _ b 0 4 
+Letter   - >  _ c 0 4 
+Letter   - >  _ d 0 4 
+Letter   - >  _ e 0 4 
+Letter   - >  _ f 0 4 
+Letter   - >  _ g 0 4 
+Letter   - >  _ h 0 4 
+Letter   - >  _ i 0 4 
+Letter   - >  _ j 0 4 
+Letter   - >  _ k 0 4 
+Letter   - >  _ l 0 4 
+Letter   - >  _ m 0 4 
+Letter   - >  _ n 0 4 
+Letter   - >  _ o 0 4 
+Letter   - >  _ p 0 4 
+Letter   - >  _ q 0 4 
+Letter   - >  _ r 0 4 
+Letter   - >  _ s 0 4 
+Letter   - >  _ t 0 4 
+Letter   - >  _ u 0 4 
+Letter   - >  _ v 0 4 
+Letter   - >  _ w 0 4 
+Letter   - >  _ x 0 4 
+Letter   - >  _ y 0 4 
+Letter   - >  _ z 0 4 
+Letter   - >  _ A 0 4 
+Letter   - >  _ B 0 4 
+Letter   - >  _ C 0 4 
+Letter   - >  _ D 0 4 
+Letter   - >  _ E 0 4 
+Letter   - >  _ F 0 4 
+Letter   - >  _ G 0 4 
+Letter   - >  _ H 0 4 
+Letter   - >  _ I 0 4 
+Letter   - >  _ J 0 4 
+Letter   - >  _ K 0 4 
+Letter   - >  _ L 0 4 
+Letter   - >  _ M 0 4 
+Letter   - >  _ N 0 4 
+Letter   - >  _ O 0 4 
+Letter   - >  _ P 0 4 
+Letter   - >  _ Q 0 4 
+Letter   - >  _ R 0 4 
+Letter   - >  _ S 0 4 
+Letter   - >  _ T 0 4 
+Letter   - >  _ U 0 4 
+Letter   - >  _ V 0 4 
+Letter   - >  _ W 0 4 
+Letter   - >  _ X 0 4 
+Letter   - >  _ Y 0 4 
+Letter   - >  _ Z 0 4 
+Id   - >  _ Letter Id 2 1 
+ProcedureName   - >  _ Id 1 1 
+Begin   - >  _ procedure ProcedureName ; begin 2 0 
+
+5 
+Letter   - >  _ e 1 4 
+Id   - >  _ Letter 1 4 
+Id   - >  _ Letter Id 1 4 
+Id   - >  _ Letter 0 5 
+Id   - >  _ Letter Id 0 5 
+Id   - >  _ Letter Id 2 3 
+Letter   - >  _ a 0 5 
+Letter   - >  _ b 0 5 
+Letter   - >  _ c 0 5 
+Letter   - >  _ d 0 5 
+Letter   - >  _ e 0 5 
+Letter   - >  _ f 0 5 
+Letter   - >  _ g 0 5 
+Letter   - >  _ h 0 5 
+Letter   - >  _ i 0 5 
+Letter   - >  _ j 0 5 
+Letter   - >  _ k 0 5 
+Letter   - >  _ l 0 5 
+Letter   - >  _ m 0 5 
+Letter   - >  _ n 0 5 
+Letter   - >  _ o 0 5 
+Letter   - >  _ p 0 5 
+Letter   - >  _ q 0 5 
+Letter   - >  _ r 0 5 
+Letter   - >  _ s 0 5 
+Letter   - >  _ t 0 5 
+Letter   - >  _ u 0 5 
+Letter   - >  _ v 0 5 
+Letter   - >  _ w 0 5 
+Letter   - >  _ x 0 5 
+Letter   - >  _ y 0 5 
+Letter   - >  _ z 0 5 
+Letter   - >  _ A 0 5 
+Letter   - >  _ B 0 5 
+Letter   - >  _ C 0 5 
+Letter   - >  _ D 0 5 
+Letter   - >  _ E 0 5 
+Letter   - >  _ F 0 5 
+Letter   - >  _ G 0 5 
+Letter   - >  _ H 0 5 
+Letter   - >  _ I 0 5 
+Letter   - >  _ J 0 5 
+Letter   - >  _ K 0 5 
+Letter   - >  _ L 0 5 
+Letter   - >  _ M 0 5 
+Letter   - >  _ N 0 5 
+Letter   - >  _ O 0 5 
+Letter   - >  _ P 0 5 
+Letter   - >  _ Q 0 5 
+Letter   - >  _ R 0 5 
+Letter   - >  _ S 0 5 
+Letter   - >  _ T 0 5 
+Letter   - >  _ U 0 5 
+Letter   - >  _ V 0 5 
+Letter   - >  _ W 0 5 
+Letter   - >  _ X 0 5 
+Letter   - >  _ Y 0 5 
+Letter   - >  _ Z 0 5 
+Id   - >  _ Letter Id 2 2 
+Id   - >  _ Letter Id 2 1 
+ProcedureName   - >  _ Id 1 1 
+Begin   - >  _ procedure ProcedureName ; begin 2 0 
+
+6 
+Begin   - >  _ procedure ProcedureName ; begin 3 0 
+
+7 
+Begin   - >  _ procedure ProcedureName ; begin 4 0 
+Procedure   - >  _ Begin Descriptions Operators End 1 0 
+Descriptions   - >  _ var DescrList 0 7 
+
+8 
+Descriptions   - >  _ var DescrList 1 7 
+DescrList   - >  _ Descr 0 8 
+DescrList   - >  _ Descr DescrList 0 8 
+Descr   - >  _ VarList : Type ; 0 8 
+VarList   - >  _ Id 0 8 
+VarList   - >  _ Id , VarList 0 8 
+Id   - >  _ Letter 0 8 
+Id   - >  _ Letter Id 0 8 
+Letter   - >  _ a 0 8 
+Letter   - >  _ b 0 8 
+Letter   - >  _ c 0 8 
+Letter   - >  _ d 0 8 
+Letter   - >  _ e 0 8 
+Letter   - >  _ f 0 8 
+Letter   - >  _ g 0 8 
+Letter   - >  _ h 0 8 
+Letter   - >  _ i 0 8 
+Letter   - >  _ j 0 8 
+Letter   - >  _ k 0 8 
+Letter   - >  _ l 0 8 
+Letter   - >  _ m 0 8 
+Letter   - >  _ n 0 8 
+Letter   - >  _ o 0 8 
+Letter   - >  _ p 0 8 
+Letter   - >  _ q 0 8 
+Letter   - >  _ r 0 8 
+Letter   - >  _ s 0 8 
+Letter   - >  _ t 0 8 
+Letter   - >  _ u 0 8 
+Letter   - >  _ v 0 8 
+Letter   - >  _ w 0 8 
+Letter   - >  _ x 0 8 
+Letter   - >  _ y 0 8 
+Letter   - >  _ z 0 8 
+Letter   - >  _ A 0 8 
+Letter   - >  _ B 0 8 
+Letter   - >  _ C 0 8 
+Letter   - >  _ D 0 8 
+Letter   - >  _ E 0 8 
+Letter   - >  _ F 0 8 
+Letter   - >  _ G 0 8 
+Letter   - >  _ H 0 8 
+Letter   - >  _ I 0 8 
+Letter   - >  _ J 0 8 
+Letter   - >  _ K 0 8 
+Letter   - >  _ L 0 8 
+Letter   - >  _ M 0 8 
+Letter   - >  _ N 0 8 
+Letter   - >  _ O 0 8 
+Letter   - >  _ P 0 8 
+Letter   - >  _ Q 0 8 
+Letter   - >  _ R 0 8 
+Letter   - >  _ S 0 8 
+Letter   - >  _ T 0 8 
+Letter   - >  _ U 0 8 
+Letter   - >  _ V 0 8 
+Letter   - >  _ W 0 8 
+Letter   - >  _ X 0 8 
+Letter   - >  _ Y 0 8 
+Letter   - >  _ Z 0 8 
+
+9 
+Letter   - >  _ a 1 8 
+Id   - >  _ Letter 1 8 
+Id   - >  _ Letter Id 1 8 
+Id   - >  _ Letter 0 9 
+Id   - >  _ Letter Id 0 9 
+VarList   - >  _ Id 1 8 
+VarList   - >  _ Id , VarList 1 8 
+Letter   - >  _ a 0 9 
+Letter   - >  _ b 0 9 
+Letter   - >  _ c 0 9 
+Letter   - >  _ d 0 9 
+Letter   - >  _ e 0 9 
+Letter   - >  _ f 0 9 
+Letter   - >  _ g 0 9 
+Letter   - >  _ h 0 9 
+Letter   - >  _ i 0 9 
+Letter   - >  _ j 0 9 
+Letter   - >  _ k 0 9 
+Letter   - >  _ l 0 9 
+Letter   - >  _ m 0 9 
+Letter   - >  _ n 0 9 
+Letter   - >  _ o 0 9 
+Letter   - >  _ p 0 9 
+Letter   - >  _ q 0 9 
+Letter   - >  _ r 0 9 
+Letter   - >  _ s 0 9 
+Letter   - >  _ t 0 9 
+Letter   - >  _ u 0 9 
+Letter   - >  _ v 0 9 
+Letter   - >  _ w 0 9 
+Letter   - >  _ x 0 9 
+Letter   - >  _ y 0 9 
+Letter   - >  _ z 0 9 
+Letter   - >  _ A 0 9 
+Letter   - >  _ B 0 9 
+Letter   - >  _ C 0 9 
+Letter   - >  _ D 0 9 
+Letter   - >  _ E 0 9 
+Letter   - >  _ F 0 9 
+Letter   - >  _ G 0 9 
+Letter   - >  _ H 0 9 
+Letter   - >  _ I 0 9 
+Letter   - >  _ J 0 9 
+Letter   - >  _ K 0 9 
+Letter   - >  _ L 0 9 
+Letter   - >  _ M 0 9 
+Letter   - >  _ N 0 9 
+Letter   - >  _ O 0 9 
+Letter   - >  _ P 0 9 
+Letter   - >  _ Q 0 9 
+Letter   - >  _ R 0 9 
+Letter   - >  _ S 0 9 
+Letter   - >  _ T 0 9 
+Letter   - >  _ U 0 9 
+Letter   - >  _ V 0 9 
+Letter   - >  _ W 0 9 
+Letter   - >  _ X 0 9 
+Letter   - >  _ Y 0 9 
+Letter   - >  _ Z 0 9 
+Descr   - >  _ VarList : Type ; 1 8 
+
+10 
+VarList   - >  _ Id , VarList 2 8 
+VarList   - >  _ Id 0 10 
+VarList   - >  _ Id , VarList 0 10 
+Id   - >  _ Letter 0 10 
+Id   - >  _ Letter Id 0 10 
+Letter   - >  _ a 0 10 
+Letter   - >  _ b 0 10 
+Letter   - >  _ c 0 10 
+Letter   - >  _ d 0 10 
+Letter   - >  _ e 0 10 
+Letter   - >  _ f 0 10 
+Letter   - >  _ g 0 10 
+Letter   - >  _ h 0 10 
+Letter   - >  _ i 0 10 
+Letter   - >  _ j 0 10 
+Letter   - >  _ k 0 10 
+Letter   - >  _ l 0 10 
+Letter   - >  _ m 0 10 
+Letter   - >  _ n 0 10 
+Letter   - >  _ o 0 10 
+Letter   - >  _ p 0 10 
+Letter   - >  _ q 0 10 
+Letter   - >  _ r 0 10 
+Letter   - >  _ s 0 10 
+Letter   - >  _ t 0 10 
+Letter   - >  _ u 0 10 
+Letter   - >  _ v 0 10 
+Letter   - >  _ w 0 10 
+Letter   - >  _ x 0 10 
+Letter   - >  _ y 0 10 
+Letter   - >  _ z 0 10 
+Letter   - >  _ A 0 10 
+Letter   - >  _ B 0 10 
+Letter   - >  _ C 0 10 
+Letter   - >  _ D 0 10 
+Letter   - >  _ E 0 10 
+Letter   - >  _ F 0 10 
+Letter   - >  _ G 0 10 
+Letter   - >  _ H 0 10 
+Letter   - >  _ I 0 10 
+Letter   - >  _ J 0 10 
+Letter   - >  _ K 0 10 
+Letter   - >  _ L 0 10 
+Letter   - >  _ M 0 10 
+Letter   - >  _ N 0 10 
+Letter   - >  _ O 0 10 
+Letter   - >  _ P 0 10 
+Letter   - >  _ Q 0 10 
+Letter   - >  _ R 0 10 
+Letter   - >  _ S 0 10 
+Letter   - >  _ T 0 10 
+Letter   - >  _ U 0 10 
+Letter   - >  _ V 0 10 
+Letter   - >  _ W 0 10 
+Letter   - >  _ X 0 10 
+Letter   - >  _ Y 0 10 
+Letter   - >  _ Z 0 10 
+
+11 
+Letter   - >  _ b 1 10 
+Id   - >  _ Letter 1 10 
+Id   - >  _ Letter Id 1 10 
+Id   - >  _ Letter 0 11 
+Id   - >  _ Letter Id 0 11 
+VarList   - >  _ Id 1 10 
+VarList   - >  _ Id , VarList 1 10 
+Letter   - >  _ a 0 11 
+Letter   - >  _ b 0 11 
+Letter   - >  _ c 0 11 
+Letter   - >  _ d 0 11 
+Letter   - >  _ e 0 11 
+Letter   - >  _ f 0 11 
+Letter   - >  _ g 0 11 
+Letter   - >  _ h 0 11 
+Letter   - >  _ i 0 11 
+Letter   - >  _ j 0 11 
+Letter   - >  _ k 0 11 
+Letter   - >  _ l 0 11 
+Letter   - >  _ m 0 11 
+Letter   - >  _ n 0 11 
+Letter   - >  _ o 0 11 
+Letter   - >  _ p 0 11 
+Letter   - >  _ q 0 11 
+Letter   - >  _ r 0 11 
+Letter   - >  _ s 0 11 
+Letter   - >  _ t 0 11 
+Letter   - >  _ u 0 11 
+Letter   - >  _ v 0 11 
+Letter   - >  _ w 0 11 
+Letter   - >  _ x 0 11 
+Letter   - >  _ y 0 11 
+Letter   - >  _ z 0 11 
+Letter   - >  _ A 0 11 
+Letter   - >  _ B 0 11 
+Letter   - >  _ C 0 11 
+Letter   - >  _ D 0 11 
+Letter   - >  _ E 0 11 
+Letter   - >  _ F 0 11 
+Letter   - >  _ G 0 11 
+Letter   - >  _ H 0 11 
+Letter   - >  _ I 0 11 
+Letter   - >  _ J 0 11 
+Letter   - >  _ K 0 11 
+Letter   - >  _ L 0 11 
+Letter   - >  _ M 0 11 
+Letter   - >  _ N 0 11 
+Letter   - >  _ O 0 11 
+Letter   - >  _ P 0 11 
+Letter   - >  _ Q 0 11 
+Letter   - >  _ R 0 11 
+Letter   - >  _ S 0 11 
+Letter   - >  _ T 0 11 
+Letter   - >  _ U 0 11 
+Letter   - >  _ V 0 11 
+Letter   - >  _ W 0 11 
+Letter   - >  _ X 0 11 
+Letter   - >  _ Y 0 11 
+Letter   - >  _ Z 0 11 
+VarList   - >  _ Id , VarList 3 8 
+Descr   - >  _ VarList : Type ; 1 8 
+
+12 
+VarList   - >  _ Id , VarList 2 10 
+VarList   - >  _ Id 0 12 
+VarList   - >  _ Id , VarList 0 12 
+Id   - >  _ Letter 0 12 
+Id   - >  _ Letter Id 0 12 
+Letter   - >  _ a 0 12 
+Letter   - >  _ b 0 12 
+Letter   - >  _ c 0 12 
+Letter   - >  _ d 0 12 
+Letter   - >  _ e 0 12 
+Letter   - >  _ f 0 12 
+Letter   - >  _ g 0 12 
+Letter   - >  _ h 0 12 
+Letter   - >  _ i 0 12 
+Letter   - >  _ j 0 12 
+Letter   - >  _ k 0 12 
+Letter   - >  _ l 0 12 
+Letter   - >  _ m 0 12 
+Letter   - >  _ n 0 12 
+Letter   - >  _ o 0 12 
+Letter   - >  _ p 0 12 
+Letter   - >  _ q 0 12 
+Letter   - >  _ r 0 12 
+Letter   - >  _ s 0 12 
+Letter   - >  _ t 0 12 
+Letter   - >  _ u 0 12 
+Letter   - >  _ v 0 12 
+Letter   - >  _ w 0 12 
+Letter   - >  _ x 0 12 
+Letter   - >  _ y 0 12 
+Letter   - >  _ z 0 12 
+Letter   - >  _ A 0 12 
+Letter   - >  _ B 0 12 
+Letter   - >  _ C 0 12 
+Letter   - >  _ D 0 12 
+Letter   - >  _ E 0 12 
+Letter   - >  _ F 0 12 
+Letter   - >  _ G 0 12 
+Letter   - >  _ H 0 12 
+Letter   - >  _ I 0 12 
+Letter   - >  _ J 0 12 
+Letter   - >  _ K 0 12 
+Letter   - >  _ L 0 12 
+Letter   - >  _ M 0 12 
+Letter   - >  _ N 0 12 
+Letter   - >  _ O 0 12 
+Letter   - >  _ P 0 12 
+Letter   - >  _ Q 0 12 
+Letter   - >  _ R 0 12 
+Letter   - >  _ S 0 12 
+Letter   - >  _ T 0 12 
+Letter   - >  _ U 0 12 
+Letter   - >  _ V 0 12 
+Letter   - >  _ W 0 12 
+Letter   - >  _ X 0 12 
+Letter   - >  _ Y 0 12 
+Letter   - >  _ Z 0 12 
+
+13 
+Letter   - >  _ c 1 12 
+Id   - >  _ Letter 1 12 
+Id   - >  _ Letter Id 1 12 
+Id   - >  _ Letter 0 13 
+Id   - >  _ Letter Id 0 13 
+VarList   - >  _ Id 1 12 
+VarList   - >  _ Id , VarList 1 12 
+Letter   - >  _ a 0 13 
+Letter   - >  _ b 0 13 
+Letter   - >  _ c 0 13 
+Letter   - >  _ d 0 13 
+Letter   - >  _ e 0 13 
+Letter   - >  _ f 0 13 
+Letter   - >  _ g 0 13 
+Letter   - >  _ h 0 13 
+Letter   - >  _ i 0 13 
+Letter   - >  _ j 0 13 
+Letter   - >  _ k 0 13 
+Letter   - >  _ l 0 13 
+Letter   - >  _ m 0 13 
+Letter   - >  _ n 0 13 
+Letter   - >  _ o 0 13 
+Letter   - >  _ p 0 13 
+Letter   - >  _ q 0 13 
+Letter   - >  _ r 0 13 
+Letter   - >  _ s 0 13 
+Letter   - >  _ t 0 13 
+Letter   - >  _ u 0 13 
+Letter   - >  _ v 0 13 
+Letter   - >  _ w 0 13 
+Letter   - >  _ x 0 13 
+Letter   - >  _ y 0 13 
+Letter   - >  _ z 0 13 
+Letter   - >  _ A 0 13 
+Letter   - >  _ B 0 13 
+Letter   - >  _ C 0 13 
+Letter   - >  _ D 0 13 
+Letter   - >  _ E 0 13 
+Letter   - >  _ F 0 13 
+Letter   - >  _ G 0 13 
+Letter   - >  _ H 0 13 
+Letter   - >  _ I 0 13 
+Letter   - >  _ J 0 13 
+Letter   - >  _ K 0 13 
+Letter   - >  _ L 0 13 
+Letter   - >  _ M 0 13 
+Letter   - >  _ N 0 13 
+Letter   - >  _ O 0 13 
+Letter   - >  _ P 0 13 
+Letter   - >  _ Q 0 13 
+Letter   - >  _ R 0 13 
+Letter   - >  _ S 0 13 
+Letter   - >  _ T 0 13 
+Letter   - >  _ U 0 13 
+Letter   - >  _ V 0 13 
+Letter   - >  _ W 0 13 
+Letter   - >  _ X 0 13 
+Letter   - >  _ Y 0 13 
+Letter   - >  _ Z 0 13 
+VarList   - >  _ Id , VarList 3 10 
+VarList   - >  _ Id , VarList 3 8 
+Descr   - >  _ VarList : Type ; 1 8 
+
+14 
+Descr   - >  _ VarList : Type ; 2 8 
+Type   - >  _ integer 0 14 
+
+15 
+Type   - >  _ integer 1 14 
+Descr   - >  _ VarList : Type ; 3 8 
+
+16 
+Descr   - >  _ VarList : Type ; 4 8 
+DescrList   - >  _ Descr 1 8 
+DescrList   - >  _ Descr DescrList 1 8 
+DescrList   - >  _ Descr 0 16 
+DescrList   - >  _ Descr DescrList 0 16 
+Descriptions   - >  _ var DescrList 2 7 
+Descr   - >  _ VarList : Type ; 0 16 
+Procedure   - >  _ Begin Descriptions Operators End 2 0 
+VarList   - >  _ Id 0 16 
+VarList   - >  _ Id , VarList 0 16 
+Operators   - >  _ Op 0 16 
+Operators   - >  _ Op Operators 0 16 
+Id   - >  _ Letter 0 16 
+Id   - >  _ Letter Id 0 16 
+Op   - >  _ Id := Expr ; 0 16 
+Op   - >  _ case Expr of Options end ; 0 16 
+Letter   - >  _ a 0 16 
+Letter   - >  _ b 0 16 
+Letter   - >  _ c 0 16 
+Letter   - >  _ d 0 16 
+Letter   - >  _ e 0 16 
+Letter   - >  _ f 0 16 
+Letter   - >  _ g 0 16 
+Letter   - >  _ h 0 16 
+Letter   - >  _ i 0 16 
+Letter   - >  _ j 0 16 
+Letter   - >  _ k 0 16 
+Letter   - >  _ l 0 16 
+Letter   - >  _ m 0 16 
+Letter   - >  _ n 0 16 
+Letter   - >  _ o 0 16 
+Letter   - >  _ p 0 16 
+Letter   - >  _ q 0 16 
+Letter   - >  _ r 0 16 
+Letter   - >  _ s 0 16 
+Letter   - >  _ t 0 16 
+Letter   - >  _ u 0 16 
+Letter   - >  _ v 0 16 
+Letter   - >  _ w 0 16 
+Letter   - >  _ x 0 16 
+Letter   - >  _ y 0 16 
+Letter   - >  _ z 0 16 
+Letter   - >  _ A 0 16 
+Letter   - >  _ B 0 16 
+Letter   - >  _ C 0 16 
+Letter   - >  _ D 0 16 
+Letter   - >  _ E 0 16 
+Letter   - >  _ F 0 16 
+Letter   - >  _ G 0 16 
+Letter   - >  _ H 0 16 
+Letter   - >  _ I 0 16 
+Letter   - >  _ J 0 16 
+Letter   - >  _ K 0 16 
+Letter   - >  _ L 0 16 
+Letter   - >  _ M 0 16 
+Letter   - >  _ N 0 16 
+Letter   - >  _ O 0 16 
+Letter   - >  _ P 0 16 
+Letter   - >  _ Q 0 16 
+Letter   - >  _ R 0 16 
+Letter   - >  _ S 0 16 
+Letter   - >  _ T 0 16 
+Letter   - >  _ U 0 16 
+Letter   - >  _ V 0 16 
+Letter   - >  _ W 0 16 
+Letter   - >  _ X 0 16 
+Letter   - >  _ Y 0 16 
+Letter   - >  _ Z 0 16 
+
+17 
+Letter   - >  _ a 1 16 
+Id   - >  _ Letter 1 16 
+Id   - >  _ Letter Id 1 16 
+Id   - >  _ Letter 0 17 
+Id   - >  _ Letter Id 0 17 
+VarList   - >  _ Id 1 16 
+VarList   - >  _ Id , VarList 1 16 
+Op   - >  _ Id := Expr ; 1 16 
+Letter   - >  _ a 0 17 
+Letter   - >  _ b 0 17 
+Letter   - >  _ c 0 17 
+Letter   - >  _ d 0 17 
+Letter   - >  _ e 0 17 
+Letter   - >  _ f 0 17 
+Letter   - >  _ g 0 17 
+Letter   - >  _ h 0 17 
+Letter   - >  _ i 0 17 
+Letter   - >  _ j 0 17 
+Letter   - >  _ k 0 17 
+Letter   - >  _ l 0 17 
+Letter   - >  _ m 0 17 
+Letter   - >  _ n 0 17 
+Letter   - >  _ o 0 17 
+Letter   - >  _ p 0 17 
+Letter   - >  _ q 0 17 
+Letter   - >  _ r 0 17 
+Letter   - >  _ s 0 17 
+Letter   - >  _ t 0 17 
+Letter   - >  _ u 0 17 
+Letter   - >  _ v 0 17 
+Letter   - >  _ w 0 17 
+Letter   - >  _ x 0 17 
+Letter   - >  _ y 0 17 
+Letter   - >  _ z 0 17 
+Letter   - >  _ A 0 17 
+Letter   - >  _ B 0 17 
+Letter   - >  _ C 0 17 
+Letter   - >  _ D 0 17 
+Letter   - >  _ E 0 17 
+Letter   - >  _ F 0 17 
+Letter   - >  _ G 0 17 
+Letter   - >  _ H 0 17 
+Letter   - >  _ I 0 17 
+Letter   - >  _ J 0 17 
+Letter   - >  _ K 0 17 
+Letter   - >  _ L 0 17 
+Letter   - >  _ M 0 17 
+Letter   - >  _ N 0 17 
+Letter   - >  _ O 0 17 
+Letter   - >  _ P 0 17 
+Letter   - >  _ Q 0 17 
+Letter   - >  _ R 0 17 
+Letter   - >  _ S 0 17 
+Letter   - >  _ T 0 17 
+Letter   - >  _ U 0 17 
+Letter   - >  _ V 0 17 
+Letter   - >  _ W 0 17 
+Letter   - >  _ X 0 17 
+Letter   - >  _ Y 0 17 
+Letter   - >  _ Z 0 17 
+Descr   - >  _ VarList : Type ; 1 16 
+
+18 
+VarList   - >  _ Id , VarList 2 16 
+VarList   - >  _ Id 0 18 
+VarList   - >  _ Id , VarList 0 18 
+Id   - >  _ Letter 0 18 
+Id   - >  _ Letter Id 0 18 
+Letter   - >  _ a 0 18 
+Letter   - >  _ b 0 18 
+Letter   - >  _ c 0 18 
+Letter   - >  _ d 0 18 
+Letter   - >  _ e 0 18 
+Letter   - >  _ f 0 18 
+Letter   - >  _ g 0 18 
+Letter   - >  _ h 0 18 
+Letter   - >  _ i 0 18 
+Letter   - >  _ j 0 18 
+Letter   - >  _ k 0 18 
+Letter   - >  _ l 0 18 
+Letter   - >  _ m 0 18 
+Letter   - >  _ n 0 18 
+Letter   - >  _ o 0 18 
+Letter   - >  _ p 0 18 
+Letter   - >  _ q 0 18 
+Letter   - >  _ r 0 18 
+Letter   - >  _ s 0 18 
+Letter   - >  _ t 0 18 
+Letter   - >  _ u 0 18 
+Letter   - >  _ v 0 18 
+Letter   - >  _ w 0 18 
+Letter   - >  _ x 0 18 
+Letter   - >  _ y 0 18 
+Letter   - >  _ z 0 18 
+Letter   - >  _ A 0 18 
+Letter   - >  _ B 0 18 
+Letter   - >  _ C 0 18 
+Letter   - >  _ D 0 18 
+Letter   - >  _ E 0 18 
+Letter   - >  _ F 0 18 
+Letter   - >  _ G 0 18 
+Letter   - >  _ H 0 18 
+Letter   - >  _ I 0 18 
+Letter   - >  _ J 0 18 
+Letter   - >  _ K 0 18 
+Letter   - >  _ L 0 18 
+Letter   - >  _ M 0 18 
+Letter   - >  _ N 0 18 
+Letter   - >  _ O 0 18 
+Letter   - >  _ P 0 18 
+Letter   - >  _ Q 0 18 
+Letter   - >  _ R 0 18 
+Letter   - >  _ S 0 18 
+Letter   - >  _ T 0 18 
+Letter   - >  _ U 0 18 
+Letter   - >  _ V 0 18 
+Letter   - >  _ W 0 18 
+Letter   - >  _ X 0 18 
+Letter   - >  _ Y 0 18 
+Letter   - >  _ Z 0 18 
+
+19 
+Letter   - >  _ b 1 18 
+Id   - >  _ Letter 1 18 
+Id   - >  _ Letter Id 1 18 
+Id   - >  _ Letter 0 19 
+Id   - >  _ Letter Id 0 19 
+VarList   - >  _ Id 1 18 
+VarList   - >  _ Id , VarList 1 18 
+Letter   - >  _ a 0 19 
+Letter   - >  _ b 0 19 
+Letter   - >  _ c 0 19 
+Letter   - >  _ d 0 19 
+Letter   - >  _ e 0 19 
+Letter   - >  _ f 0 19 
+Letter   - >  _ g 0 19 
+Letter   - >  _ h 0 19 
+Letter   - >  _ i 0 19 
+Letter   - >  _ j 0 19 
+Letter   - >  _ k 0 19 
+Letter   - >  _ l 0 19 
+Letter   - >  _ m 0 19 
+Letter   - >  _ n 0 19 
+Letter   - >  _ o 0 19 
+Letter   - >  _ p 0 19 
+Letter   - >  _ q 0 19 
+Letter   - >  _ r 0 19 
+Letter   - >  _ s 0 19 
+Letter   - >  _ t 0 19 
+Letter   - >  _ u 0 19 
+Letter   - >  _ v 0 19 
+Letter   - >  _ w 0 19 
+Letter   - >  _ x 0 19 
+Letter   - >  _ y 0 19 
+Letter   - >  _ z 0 19 
+Letter   - >  _ A 0 19 
+Letter   - >  _ B 0 19 
+Letter   - >  _ C 0 19 
+Letter   - >  _ D 0 19 
+Letter   - >  _ E 0 19 
+Letter   - >  _ F 0 19 
+Letter   - >  _ G 0 19 
+Letter   - >  _ H 0 19 
+Letter   - >  _ I 0 19 
+Letter   - >  _ J 0 19 
+Letter   - >  _ K 0 19 
+Letter   - >  _ L 0 19 
+Letter   - >  _ M 0 19 
+Letter   - >  _ N 0 19 
+Letter   - >  _ O 0 19 
+Letter   - >  _ P 0 19 
+Letter   - >  _ Q 0 19 
+Letter   - >  _ R 0 19 
+Letter   - >  _ S 0 19 
+Letter   - >  _ T 0 19 
+Letter   - >  _ U 0 19 
+Letter   - >  _ V 0 19 
+Letter   - >  _ W 0 19 
+Letter   - >  _ X 0 19 
+Letter   - >  _ Y 0 19 
+Letter   - >  _ Z 0 19 
+VarList   - >  _ Id , VarList 3 16 
+Descr   - >  _ VarList : Type ; 1 16 
+
+20 
+VarList   - >  _ Id , VarList 2 18 
+VarList   - >  _ Id 0 20 
+VarList   - >  _ Id , VarList 0 20 
+Id   - >  _ Letter 0 20 
+Id   - >  _ Letter Id 0 20 
+Letter   - >  _ a 0 20 
+Letter   - >  _ b 0 20 
+Letter   - >  _ c 0 20 
+Letter   - >  _ d 0 20 
+Letter   - >  _ e 0 20 
+Letter   - >  _ f 0 20 
+Letter   - >  _ g 0 20 
+Letter   - >  _ h 0 20 
+Letter   - >  _ i 0 20 
+Letter   - >  _ j 0 20 
+Letter   - >  _ k 0 20 
+Letter   - >  _ l 0 20 
+Letter   - >  _ m 0 20 
+Letter   - >  _ n 0 20 
+Letter   - >  _ o 0 20 
+Letter   - >  _ p 0 20 
+Letter   - >  _ q 0 20 
+Letter   - >  _ r 0 20 
+Letter   - >  _ s 0 20 
+Letter   - >  _ t 0 20 
+Letter   - >  _ u 0 20 
+Letter   - >  _ v 0 20 
+Letter   - >  _ w 0 20 
+Letter   - >  _ x 0 20 
+Letter   - >  _ y 0 20 
+Letter   - >  _ z 0 20 
+Letter   - >  _ A 0 20 
+Letter   - >  _ B 0 20 
+Letter   - >  _ C 0 20 
+Letter   - >  _ D 0 20 
+Letter   - >  _ E 0 20 
+Letter   - >  _ F 0 20 
+Letter   - >  _ G 0 20 
+Letter   - >  _ H 0 20 
+Letter   - >  _ I 0 20 
+Letter   - >  _ J 0 20 
+Letter   - >  _ K 0 20 
+Letter   - >  _ L 0 20 
+Letter   - >  _ M 0 20 
+Letter   - >  _ N 0 20 
+Letter   - >  _ O 0 20 
+Letter   - >  _ P 0 20 
+Letter   - >  _ Q 0 20 
+Letter   - >  _ R 0 20 
+Letter   - >  _ S 0 20 
+Letter   - >  _ T 0 20 
+Letter   - >  _ U 0 20 
+Letter   - >  _ V 0 20 
+Letter   - >  _ W 0 20 
+Letter   - >  _ X 0 20 
+Letter   - >  _ Y 0 20 
+Letter   - >  _ Z 0 20 
+
+21 
+Letter   - >  _ c 1 20 
+Id   - >  _ Letter 1 20 
+Id   - >  _ Letter Id 1 20 
+Id   - >  _ Letter 0 21 
+Id   - >  _ Letter Id 0 21 
+VarList   - >  _ Id 1 20 
+VarList   - >  _ Id , VarList 1 20 
+Letter   - >  _ a 0 21 
+Letter   - >  _ b 0 21 
+Letter   - >  _ c 0 21 
+Letter   - >  _ d 0 21 
+Letter   - >  _ e 0 21 
+Letter   - >  _ f 0 21 
+Letter   - >  _ g 0 21 
+Letter   - >  _ h 0 21 
+Letter   - >  _ i 0 21 
+Letter   - >  _ j 0 21 
+Letter   - >  _ k 0 21 
+Letter   - >  _ l 0 21 
+Letter   - >  _ m 0 21 
+Letter   - >  _ n 0 21 
+Letter   - >  _ o 0 21 
+Letter   - >  _ p 0 21 
+Letter   - >  _ q 0 21 
+Letter   - >  _ r 0 21 
+Letter   - >  _ s 0 21 
+Letter   - >  _ t 0 21 
+Letter   - >  _ u 0 21 
+Letter   - >  _ v 0 21 
+Letter   - >  _ w 0 21 
+Letter   - >  _ x 0 21 
+Letter   - >  _ y 0 21 
+Letter   - >  _ z 0 21 
+Letter   - >  _ A 0 21 
+Letter   - >  _ B 0 21 
+Letter   - >  _ C 0 21 
+Letter   - >  _ D 0 21 
+Letter   - >  _ E 0 21 
+Letter   - >  _ F 0 21 
+Letter   - >  _ G 0 21 
+Letter   - >  _ H 0 21 
+Letter   - >  _ I 0 21 
+Letter   - >  _ J 0 21 
+Letter   - >  _ K 0 21 
+Letter   - >  _ L 0 21 
+Letter   - >  _ M 0 21 
+Letter   - >  _ N 0 21 
+Letter   - >  _ O 0 21 
+Letter   - >  _ P 0 21 
+Letter   - >  _ Q 0 21 
+Letter   - >  _ R 0 21 
+Letter   - >  _ S 0 21 
+Letter   - >  _ T 0 21 
+Letter   - >  _ U 0 21 
+Letter   - >  _ V 0 21 
+Letter   - >  _ W 0 21 
+Letter   - >  _ X 0 21 
+Letter   - >  _ Y 0 21 
+Letter   - >  _ Z 0 21 
+VarList   - >  _ Id , VarList 3 18 
+VarList   - >  _ Id , VarList 3 16 
+Descr   - >  _ VarList : Type ; 1 16 
+
+22 
+Letter   - >  _ a 1 21 
+Id   - >  _ Letter 1 21 
+Id   - >  _ Letter Id 1 21 
+Id   - >  _ Letter 0 22 
+Id   - >  _ Letter Id 0 22 
+Id   - >  _ Letter Id 2 20 
+Letter   - >  _ a 0 22 
+Letter   - >  _ b 0 22 
+Letter   - >  _ c 0 22 
+Letter   - >  _ d 0 22 
+Letter   - >  _ e 0 22 
+Letter   - >  _ f 0 22 
+Letter   - >  _ g 0 22 
+Letter   - >  _ h 0 22 
+Letter   - >  _ i 0 22 
+Letter   - >  _ j 0 22 
+Letter   - >  _ k 0 22 
+Letter   - >  _ l 0 22 
+Letter   - >  _ m 0 22 
+Letter   - >  _ n 0 22 
+Letter   - >  _ o 0 22 
+Letter   - >  _ p 0 22 
+Letter   - >  _ q 0 22 
+Letter   - >  _ r 0 22 
+Letter   - >  _ s 0 22 
+Letter   - >  _ t 0 22 
+Letter   - >  _ u 0 22 
+Letter   - >  _ v 0 22 
+Letter   - >  _ w 0 22 
+Letter   - >  _ x 0 22 
+Letter   - >  _ y 0 22 
+Letter   - >  _ z 0 22 
+Letter   - >  _ A 0 22 
+Letter   - >  _ B 0 22 
+Letter   - >  _ C 0 22 
+Letter   - >  _ D 0 22 
+Letter   - >  _ E 0 22 
+Letter   - >  _ F 0 22 
+Letter   - >  _ G 0 22 
+Letter   - >  _ H 0 22 
+Letter   - >  _ I 0 22 
+Letter   - >  _ J 0 22 
+Letter   - >  _ K 0 22 
+Letter   - >  _ L 0 22 
+Letter   - >  _ M 0 22 
+Letter   - >  _ N 0 22 
+Letter   - >  _ O 0 22 
+Letter   - >  _ P 0 22 
+Letter   - >  _ Q 0 22 
+Letter   - >  _ R 0 22 
+Letter   - >  _ S 0 22 
+Letter   - >  _ T 0 22 
+Letter   - >  _ U 0 22 
+Letter   - >  _ V 0 22 
+Letter   - >  _ W 0 22 
+Letter   - >  _ X 0 22 
+Letter   - >  _ Y 0 22 
+Letter   - >  _ Z 0 22 
+VarList   - >  _ Id 1 20 
+VarList   - >  _ Id , VarList 1 20 
+VarList   - >  _ Id , VarList 3 18 
+VarList   - >  _ Id , VarList 3 16 
+Descr   - >  _ VarList : Type ; 1 16 
+
+23 
+Letter   - >  _ e 1 22 
+Id   - >  _ Letter 1 22 
+Id   - >  _ Letter Id 1 22 
+Id   - >  _ Letter 0 23 
+Id   - >  _ Letter Id 0 23 
+Id   - >  _ Letter Id 2 21 
+Letter   - >  _ a 0 23 
+Letter   - >  _ b 0 23 
+Letter   - >  _ c 0 23 
+Letter   - >  _ d 0 23 
+Letter   - >  _ e 0 23 
+Letter   - >  _ f 0 23 
+Letter   - >  _ g 0 23 
+Letter   - >  _ h 0 23 
+Letter   - >  _ i 0 23 
+Letter   - >  _ j 0 23 
+Letter   - >  _ k 0 23 
+Letter   - >  _ l 0 23 
+Letter   - >  _ m 0 23 
+Letter   - >  _ n 0 23 
+Letter   - >  _ o 0 23 
+Letter   - >  _ p 0 23 
+Letter   - >  _ q 0 23 
+Letter   - >  _ r 0 23 
+Letter   - >  _ s 0 23 
+Letter   - >  _ t 0 23 
+Letter   - >  _ u 0 23 
+Letter   - >  _ v 0 23 
+Letter   - >  _ w 0 23 
+Letter   - >  _ x 0 23 
+Letter   - >  _ y 0 23 
+Letter   - >  _ z 0 23 
+Letter   - >  _ A 0 23 
+Letter   - >  _ B 0 23 
+Letter   - >  _ C 0 23 
+Letter   - >  _ D 0 23 
+Letter   - >  _ E 0 23 
+Letter   - >  _ F 0 23 
+Letter   - >  _ G 0 23 
+Letter   - >  _ H 0 23 
+Letter   - >  _ I 0 23 
+Letter   - >  _ J 0 23 
+Letter   - >  _ K 0 23 
+Letter   - >  _ L 0 23 
+Letter   - >  _ M 0 23 
+Letter   - >  _ N 0 23 
+Letter   - >  _ O 0 23 
+Letter   - >  _ P 0 23 
+Letter   - >  _ Q 0 23 
+Letter   - >  _ R 0 23 
+Letter   - >  _ S 0 23 
+Letter   - >  _ T 0 23 
+Letter   - >  _ U 0 23 
+Letter   - >  _ V 0 23 
+Letter   - >  _ W 0 23 
+Letter   - >  _ X 0 23 
+Letter   - >  _ Y 0 23 
+Letter   - >  _ Z 0 23 
+Id   - >  _ Letter Id 2 20 
+VarList   - >  _ Id 1 20 
+VarList   - >  _ Id , VarList 1 20 
+VarList   - >  _ Id , VarList 3 18 
+VarList   - >  _ Id , VarList 3 16 
+Descr   - >  _ VarList : Type ; 1 16 
+
+24 
+Letter   - >  _ f 1 23 
+Id   - >  _ Letter 1 23 
+Id   - >  _ Letter Id 1 23 
+Id   - >  _ Letter 0 24 
+Id   - >  _ Letter Id 0 24 
+Id   - >  _ Letter Id 2 22 
+Letter   - >  _ a 0 24 
+Letter   - >  _ b 0 24 
+Letter   - >  _ c 0 24 
+Letter   - >  _ d 0 24 
+Letter   - >  _ e 0 24 
+Letter   - >  _ f 0 24 
+Letter   - >  _ g 0 24 
+Letter   - >  _ h 0 24 
+Letter   - >  _ i 0 24 
+Letter   - >  _ j 0 24 
+Letter   - >  _ k 0 24 
+Letter   - >  _ l 0 24 
+Letter   - >  _ m 0 24 
+Letter   - >  _ n 0 24 
+Letter   - >  _ o 0 24 
+Letter   - >  _ p 0 24 
+Letter   - >  _ q 0 24 
+Letter   - >  _ r 0 24 
+Letter   - >  _ s 0 24 
+Letter   - >  _ t 0 24 
+Letter   - >  _ u 0 24 
+Letter   - >  _ v 0 24 
+Letter   - >  _ w 0 24 
+Letter   - >  _ x 0 24 
+Letter   - >  _ y 0 24 
+Letter   - >  _ z 0 24 
+Letter   - >  _ A 0 24 
+Letter   - >  _ B 0 24 
+Letter   - >  _ C 0 24 
+Letter   - >  _ D 0 24 
+Letter   - >  _ E 0 24 
+Letter   - >  _ F 0 24 
+Letter   - >  _ G 0 24 
+Letter   - >  _ H 0 24 
+Letter   - >  _ I 0 24 
+Letter   - >  _ J 0 24 
+Letter   - >  _ K 0 24 
+Letter   - >  _ L 0 24 
+Letter   - >  _ M 0 24 
+Letter   - >  _ N 0 24 
+Letter   - >  _ O 0 24 
+Letter   - >  _ P 0 24 
+Letter   - >  _ Q 0 24 
+Letter   - >  _ R 0 24 
+Letter   - >  _ S 0 24 
+Letter   - >  _ T 0 24 
+Letter   - >  _ U 0 24 
+Letter   - >  _ V 0 24 
+Letter   - >  _ W 0 24 
+Letter   - >  _ X 0 24 
+Letter   - >  _ Y 0 24 
+Letter   - >  _ Z 0 24 
+Id   - >  _ Letter Id 2 21 
+Id   - >  _ Letter Id 2 20 
+VarList   - >  _ Id 1 20 
+VarList   - >  _ Id , VarList 1 20 
+VarList   - >  _ Id , VarList 3 18 
+VarList   - >  _ Id , VarList 3 16 
+Descr   - >  _ VarList : Type ; 1 16 
+
+25 
+Descr   - >  _ VarList : Type ; 2 16 
+Type   - >  _ integer 0 25 
+
+26 
+Type   - >  _ integer 1 25 
+Descr   - >  _ VarList : Type ; 3 16 
+
+27 
+Descr   - >  _ VarList : Type ; 4 16 
+DescrList   - >  _ Descr 1 16 
+DescrList   - >  _ Descr DescrList 1 16 
+DescrList   - >  _ Descr 0 27 
+DescrList   - >  _ Descr DescrList 0 27 
+DescrList   - >  _ Descr DescrList 2 8 
+Descr   - >  _ VarList : Type ; 0 27 
+Descriptions   - >  _ var DescrList 2 7 
+VarList   - >  _ Id 0 27 
+VarList   - >  _ Id , VarList 0 27 
+Procedure   - >  _ Begin Descriptions Operators End 2 0 
+Id   - >  _ Letter 0 27 
+Id   - >  _ Letter Id 0 27 
+Operators   - >  _ Op 0 27 
+Operators   - >  _ Op Operators 0 27 
+Letter   - >  _ a 0 27 
+Letter   - >  _ b 0 27 
+Letter   - >  _ c 0 27 
+Letter   - >  _ d 0 27 
+Letter   - >  _ e 0 27 
+Letter   - >  _ f 0 27 
+Letter   - >  _ g 0 27 
+Letter   - >  _ h 0 27 
+Letter   - >  _ i 0 27 
+Letter   - >  _ j 0 27 
+Letter   - >  _ k 0 27 
+Letter   - >  _ l 0 27 
+Letter   - >  _ m 0 27 
+Letter   - >  _ n 0 27 
+Letter   - >  _ o 0 27 
+Letter   - >  _ p 0 27 
+Letter   - >  _ q 0 27 
+Letter   - >  _ r 0 27 
+Letter   - >  _ s 0 27 
+Letter   - >  _ t 0 27 
+Letter   - >  _ u 0 27 
+Letter   - >  _ v 0 27 
+Letter   - >  _ w 0 27 
+Letter   - >  _ x 0 27 
+Letter   - >  _ y 0 27 
+Letter   - >  _ z 0 27 
+Letter   - >  _ A 0 27 
+Letter   - >  _ B 0 27 
+Letter   - >  _ C 0 27 
+Letter   - >  _ D 0 27 
+Letter   - >  _ E 0 27 
+Letter   - >  _ F 0 27 
+Letter   - >  _ G 0 27 
+Letter   - >  _ H 0 27 
+Letter   - >  _ I 0 27 
+Letter   - >  _ J 0 27 
+Letter   - >  _ K 0 27 
+Letter   - >  _ L 0 27 
+Letter   - >  _ M 0 27 
+Letter   - >  _ N 0 27 
+Letter   - >  _ O 0 27 
+Letter   - >  _ P 0 27 
+Letter   - >  _ Q 0 27 
+Letter   - >  _ R 0 27 
+Letter   - >  _ S 0 27 
+Letter   - >  _ T 0 27 
+Letter   - >  _ U 0 27 
+Letter   - >  _ V 0 27 
+Letter   - >  _ W 0 27 
+Letter   - >  _ X 0 27 
+Letter   - >  _ Y 0 27 
+Letter   - >  _ Z 0 27 
+Op   - >  _ Id := Expr ; 0 27 
+Op   - >  _ case Expr of Options end ; 0 27 
+
+28 
+Letter   - >  _ c 1 27 
+Id   - >  _ Letter 1 27 
+Id   - >  _ Letter Id 1 27 
+Id   - >  _ Letter 0 28 
+Id   - >  _ Letter Id 0 28 
+VarList   - >  _ Id 1 27 
+VarList   - >  _ Id , VarList 1 27 
+Op   - >  _ Id := Expr ; 1 27 
+Letter   - >  _ a 0 28 
+Letter   - >  _ b 0 28 
+Letter   - >  _ c 0 28 
+Letter   - >  _ d 0 28 
+Letter   - >  _ e 0 28 
+Letter   - >  _ f 0 28 
+Letter   - >  _ g 0 28 
+Letter   - >  _ h 0 28 
+Letter   - >  _ i 0 28 
+Letter   - >  _ j 0 28 
+Letter   - >  _ k 0 28 
+Letter   - >  _ l 0 28 
+Letter   - >  _ m 0 28 
+Letter   - >  _ n 0 28 
+Letter   - >  _ o 0 28 
+Letter   - >  _ p 0 28 
+Letter   - >  _ q 0 28 
+Letter   - >  _ r 0 28 
+Letter   - >  _ s 0 28 
+Letter   - >  _ t 0 28 
+Letter   - >  _ u 0 28 
+Letter   - >  _ v 0 28 
+Letter   - >  _ w 0 28 
+Letter   - >  _ x 0 28 
+Letter   - >  _ y 0 28 
+Letter   - >  _ z 0 28 
+Letter   - >  _ A 0 28 
+Letter   - >  _ B 0 28 
+Letter   - >  _ C 0 28 
+Letter   - >  _ D 0 28 
+Letter   - >  _ E 0 28 
+Letter   - >  _ F 0 28 
+Letter   - >  _ G 0 28 
+Letter   - >  _ H 0 28 
+Letter   - >  _ I 0 28 
+Letter   - >  _ J 0 28 
+Letter   - >  _ K 0 28 
+Letter   - >  _ L 0 28 
+Letter   - >  _ M 0 28 
+Letter   - >  _ N 0 28 
+Letter   - >  _ O 0 28 
+Letter   - >  _ P 0 28 
+Letter   - >  _ Q 0 28 
+Letter   - >  _ R 0 28 
+Letter   - >  _ S 0 28 
+Letter   - >  _ T 0 28 
+Letter   - >  _ U 0 28 
+Letter   - >  _ V 0 28 
+Letter   - >  _ W 0 28 
+Letter   - >  _ X 0 28 
+Letter   - >  _ Y 0 28 
+Letter   - >  _ Z 0 28 
+Descr   - >  _ VarList : Type ; 1 27 
+
+29 
+Op   - >  _ Id := Expr ; 2 27 
+Expr   - >  _ SimpleExpr 0 29 
+Expr   - >  _ SimpleExpr + Expr 0 29 
+Expr   - >  _ SimpleExpr - Expr 0 29 
+SimpleExpr   - >  _ Id 0 29 
+SimpleExpr   - >  _ Const 0 29 
+SimpleExpr   - >  _ ( Expr ) 0 29 
+Id   - >  _ Letter 0 29 
+Id   - >  _ Letter Id 0 29 
+Const   - >  _ Digit 0 29 
+Const   - >  _ Digit Const 0 29 
+Letter   - >  _ a 0 29 
+Letter   - >  _ b 0 29 
+Letter   - >  _ c 0 29 
+Letter   - >  _ d 0 29 
+Letter   - >  _ e 0 29 
+Letter   - >  _ f 0 29 
+Letter   - >  _ g 0 29 
+Letter   - >  _ h 0 29 
+Letter   - >  _ i 0 29 
+Letter   - >  _ j 0 29 
+Letter   - >  _ k 0 29 
+Letter   - >  _ l 0 29 
+Letter   - >  _ m 0 29 
+Letter   - >  _ n 0 29 
+Letter   - >  _ o 0 29 
+Letter   - >  _ p 0 29 
+Letter   - >  _ q 0 29 
+Letter   - >  _ r 0 29 
+Letter   - >  _ s 0 29 
+Letter   - >  _ t 0 29 
+Letter   - >  _ u 0 29 
+Letter   - >  _ v 0 29 
+Letter   - >  _ w 0 29 
+Letter   - >  _ x 0 29 
+Letter   - >  _ y 0 29 
+Letter   - >  _ z 0 29 
+Letter   - >  _ A 0 29 
+Letter   - >  _ B 0 29 
+Letter   - >  _ C 0 29 
+Letter   - >  _ D 0 29 
+Letter   - >  _ E 0 29 
+Letter   - >  _ F 0 29 
+Letter   - >  _ G 0 29 
+Letter   - >  _ H 0 29 
+Letter   - >  _ I 0 29 
+Letter   - >  _ J 0 29 
+Letter   - >  _ K 0 29 
+Letter   - >  _ L 0 29 
+Letter   - >  _ M 0 29 
+Letter   - >  _ N 0 29 
+Letter   - >  _ O 0 29 
+Letter   - >  _ P 0 29 
+Letter   - >  _ Q 0 29 
+Letter   - >  _ R 0 29 
+Letter   - >  _ S 0 29 
+Letter   - >  _ T 0 29 
+Letter   - >  _ U 0 29 
+Letter   - >  _ V 0 29 
+Letter   - >  _ W 0 29 
+Letter   - >  _ X 0 29 
+Letter   - >  _ Y 0 29 
+Letter   - >  _ Z 0 29 
+Digit   - >  _ 0 0 29 
+Digit   - >  _ 1 0 29 
+Digit   - >  _ 2 0 29 
+Digit   - >  _ 3 0 29 
+Digit   - >  _ 4 0 29 
+Digit   - >  _ 5 0 29 
+Digit   - >  _ 6 0 29 
+Digit   - >  _ 7 0 29 
+Digit   - >  _ 8 0 29 
+Digit   - >  _ 9 0 29 
+
+30 
+Letter   - >  _ a 1 29 
+Id   - >  _ Letter 1 29 
+Id   - >  _ Letter Id 1 29 
+Id   - >  _ Letter 0 30 
+Id   - >  _ Letter Id 0 30 
+SimpleExpr   - >  _ Id 1 29 
+Letter   - >  _ a 0 30 
+Letter   - >  _ b 0 30 
+Letter   - >  _ c 0 30 
+Letter   - >  _ d 0 30 
+Letter   - >  _ e 0 30 
+Letter   - >  _ f 0 30 
+Letter   - >  _ g 0 30 
+Letter   - >  _ h 0 30 
+Letter   - >  _ i 0 30 
+Letter   - >  _ j 0 30 
+Letter   - >  _ k 0 30 
+Letter   - >  _ l 0 30 
+Letter   - >  _ m 0 30 
+Letter   - >  _ n 0 30 
+Letter   - >  _ o 0 30 
+Letter   - >  _ p 0 30 
+Letter   - >  _ q 0 30 
+Letter   - >  _ r 0 30 
+Letter   - >  _ s 0 30 
+Letter   - >  _ t 0 30 
+Letter   - >  _ u 0 30 
+Letter   - >  _ v 0 30 
+Letter   - >  _ w 0 30 
+Letter   - >  _ x 0 30 
+Letter   - >  _ y 0 30 
+Letter   - >  _ z 0 30 
+Letter   - >  _ A 0 30 
+Letter   - >  _ B 0 30 
+Letter   - >  _ C 0 30 
+Letter   - >  _ D 0 30 
+Letter   - >  _ E 0 30 
+Letter   - >  _ F 0 30 
+Letter   - >  _ G 0 30 
+Letter   - >  _ H 0 30 
+Letter   - >  _ I 0 30 
+Letter   - >  _ J 0 30 
+Letter   - >  _ K 0 30 
+Letter   - >  _ L 0 30 
+Letter   - >  _ M 0 30 
+Letter   - >  _ N 0 30 
+Letter   - >  _ O 0 30 
+Letter   - >  _ P 0 30 
+Letter   - >  _ Q 0 30 
+Letter   - >  _ R 0 30 
+Letter   - >  _ S 0 30 
+Letter   - >  _ T 0 30 
+Letter   - >  _ U 0 30 
+Letter   - >  _ V 0 30 
+Letter   - >  _ W 0 30 
+Letter   - >  _ X 0 30 
+Letter   - >  _ Y 0 30 
+Letter   - >  _ Z 0 30 
+Expr   - >  _ SimpleExpr 1 29 
+Expr   - >  _ SimpleExpr + Expr 1 29 
+Expr   - >  _ SimpleExpr - Expr 1 29 
+Op   - >  _ Id := Expr ; 3 27 
+
+31 
+Expr   - >  _ SimpleExpr + Expr 2 29 
+Expr   - >  _ SimpleExpr 0 31 
+Expr   - >  _ SimpleExpr + Expr 0 31 
+Expr   - >  _ SimpleExpr - Expr 0 31 
+SimpleExpr   - >  _ Id 0 31 
+SimpleExpr   - >  _ Const 0 31 
+SimpleExpr   - >  _ ( Expr ) 0 31 
+Id   - >  _ Letter 0 31 
+Id   - >  _ Letter Id 0 31 
+Const   - >  _ Digit 0 31 
+Const   - >  _ Digit Const 0 31 
+Letter   - >  _ a 0 31 
+Letter   - >  _ b 0 31 
+Letter   - >  _ c 0 31 
+Letter   - >  _ d 0 31 
+Letter   - >  _ e 0 31 
+Letter   - >  _ f 0 31 
+Letter   - >  _ g 0 31 
+Letter   - >  _ h 0 31 
+Letter   - >  _ i 0 31 
+Letter   - >  _ j 0 31 
+Letter   - >  _ k 0 31 
+Letter   - >  _ l 0 31 
+Letter   - >  _ m 0 31 
+Letter   - >  _ n 0 31 
+Letter   - >  _ o 0 31 
+Letter   - >  _ p 0 31 
+Letter   - >  _ q 0 31 
+Letter   - >  _ r 0 31 
+Letter   - >  _ s 0 31 
+Letter   - >  _ t 0 31 
+Letter   - >  _ u 0 31 
+Letter   - >  _ v 0 31 
+Letter   - >  _ w 0 31 
+Letter   - >  _ x 0 31 
+Letter   - >  _ y 0 31 
+Letter   - >  _ z 0 31 
+Letter   - >  _ A 0 31 
+Letter   - >  _ B 0 31 
+Letter   - >  _ C 0 31 
+Letter   - >  _ D 0 31 
+Letter   - >  _ E 0 31 
+Letter   - >  _ F 0 31 
+Letter   - >  _ G 0 31 
+Letter   - >  _ H 0 31 
+Letter   - >  _ I 0 31 
+Letter   - >  _ J 0 31 
+Letter   - >  _ K 0 31 
+Letter   - >  _ L 0 31 
+Letter   - >  _ M 0 31 
+Letter   - >  _ N 0 31 
+Letter   - >  _ O 0 31 
+Letter   - >  _ P 0 31 
+Letter   - >  _ Q 0 31 
+Letter   - >  _ R 0 31 
+Letter   - >  _ S 0 31 
+Letter   - >  _ T 0 31 
+Letter   - >  _ U 0 31 
+Letter   - >  _ V 0 31 
+Letter   - >  _ W 0 31 
+Letter   - >  _ X 0 31 
+Letter   - >  _ Y 0 31 
+Letter   - >  _ Z 0 31 
+Digit   - >  _ 0 0 31 
+Digit   - >  _ 1 0 31 
+Digit   - >  _ 2 0 31 
+Digit   - >  _ 3 0 31 
+Digit   - >  _ 4 0 31 
+Digit   - >  _ 5 0 31 
+Digit   - >  _ 6 0 31 
+Digit   - >  _ 7 0 31 
+Digit   - >  _ 8 0 31 
+Digit   - >  _ 9 0 31 
+
+32 
+Digit   - >  _ 1 1 31 
+Const   - >  _ Digit 1 31 
+Const   - >  _ Digit Const 1 31 
+Const   - >  _ Digit 0 32 
+Const   - >  _ Digit Const 0 32 
+SimpleExpr   - >  _ Const 1 31 
+Digit   - >  _ 0 0 32 
+Digit   - >  _ 1 0 32 
+Digit   - >  _ 2 0 32 
+Digit   - >  _ 3 0 32 
+Digit   - >  _ 4 0 32 
+Digit   - >  _ 5 0 32 
+Digit   - >  _ 6 0 32 
+Digit   - >  _ 7 0 32 
+Digit   - >  _ 8 0 32 
+Digit   - >  _ 9 0 32 
+Expr   - >  _ SimpleExpr 1 31 
+Expr   - >  _ SimpleExpr + Expr 1 31 
+Expr   - >  _ SimpleExpr - Expr 1 31 
+Expr   - >  _ SimpleExpr + Expr 3 29 
+Op   - >  _ Id := Expr ; 3 27 
+
+33 
+Expr   - >  _ SimpleExpr + Expr 2 31 
+Expr   - >  _ SimpleExpr 0 33 
+Expr   - >  _ SimpleExpr + Expr 0 33 
+Expr   - >  _ SimpleExpr - Expr 0 33 
+SimpleExpr   - >  _ Id 0 33 
+SimpleExpr   - >  _ Const 0 33 
+SimpleExpr   - >  _ ( Expr ) 0 33 
+Id   - >  _ Letter 0 33 
+Id   - >  _ Letter Id 0 33 
+Const   - >  _ Digit 0 33 
+Const   - >  _ Digit Const 0 33 
+Letter   - >  _ a 0 33 
+Letter   - >  _ b 0 33 
+Letter   - >  _ c 0 33 
+Letter   - >  _ d 0 33 
+Letter   - >  _ e 0 33 
+Letter   - >  _ f 0 33 
+Letter   - >  _ g 0 33 
+Letter   - >  _ h 0 33 
+Letter   - >  _ i 0 33 
+Letter   - >  _ j 0 33 
+Letter   - >  _ k 0 33 
+Letter   - >  _ l 0 33 
+Letter   - >  _ m 0 33 
+Letter   - >  _ n 0 33 
+Letter   - >  _ o 0 33 
+Letter   - >  _ p 0 33 
+Letter   - >  _ q 0 33 
+Letter   - >  _ r 0 33 
+Letter   - >  _ s 0 33 
+Letter   - >  _ t 0 33 
+Letter   - >  _ u 0 33 
+Letter   - >  _ v 0 33 
+Letter   - >  _ w 0 33 
+Letter   - >  _ x 0 33 
+Letter   - >  _ y 0 33 
+Letter   - >  _ z 0 33 
+Letter   - >  _ A 0 33 
+Letter   - >  _ B 0 33 
+Letter   - >  _ C 0 33 
+Letter   - >  _ D 0 33 
+Letter   - >  _ E 0 33 
+Letter   - >  _ F 0 33 
+Letter   - >  _ G 0 33 
+Letter   - >  _ H 0 33 
+Letter   - >  _ I 0 33 
+Letter   - >  _ J 0 33 
+Letter   - >  _ K 0 33 
+Letter   - >  _ L 0 33 
+Letter   - >  _ M 0 33 
+Letter   - >  _ N 0 33 
+Letter   - >  _ O 0 33 
+Letter   - >  _ P 0 33 
+Letter   - >  _ Q 0 33 
+Letter   - >  _ R 0 33 
+Letter   - >  _ S 0 33 
+Letter   - >  _ T 0 33 
+Letter   - >  _ U 0 33 
+Letter   - >  _ V 0 33 
+Letter   - >  _ W 0 33 
+Letter   - >  _ X 0 33 
+Letter   - >  _ Y 0 33 
+Letter   - >  _ Z 0 33 
+Digit   - >  _ 0 0 33 
+Digit   - >  _ 1 0 33 
+Digit   - >  _ 2 0 33 
+Digit   - >  _ 3 0 33 
+Digit   - >  _ 4 0 33 
+Digit   - >  _ 5 0 33 
+Digit   - >  _ 6 0 33 
+Digit   - >  _ 7 0 33 
+Digit   - >  _ 8 0 33 
+Digit   - >  _ 9 0 33 
+
+34 
+SimpleExpr   - >  _ ( Expr ) 1 33 
+Expr   - >  _ SimpleExpr 0 34 
+Expr   - >  _ SimpleExpr + Expr 0 34 
+Expr   - >  _ SimpleExpr - Expr 0 34 
+SimpleExpr   - >  _ Id 0 34 
+SimpleExpr   - >  _ Const 0 34 
+SimpleExpr   - >  _ ( Expr ) 0 34 
+Id   - >  _ Letter 0 34 
+Id   - >  _ Letter Id 0 34 
+Const   - >  _ Digit 0 34 
+Const   - >  _ Digit Const 0 34 
+Letter   - >  _ a 0 34 
+Letter   - >  _ b 0 34 
+Letter   - >  _ c 0 34 
+Letter   - >  _ d 0 34 
+Letter   - >  _ e 0 34 
+Letter   - >  _ f 0 34 
+Letter   - >  _ g 0 34 
+Letter   - >  _ h 0 34 
+Letter   - >  _ i 0 34 
+Letter   - >  _ j 0 34 
+Letter   - >  _ k 0 34 
+Letter   - >  _ l 0 34 
+Letter   - >  _ m 0 34 
+Letter   - >  _ n 0 34 
+Letter   - >  _ o 0 34 
+Letter   - >  _ p 0 34 
+Letter   - >  _ q 0 34 
+Letter   - >  _ r 0 34 
+Letter   - >  _ s 0 34 
+Letter   - >  _ t 0 34 
+Letter   - >  _ u 0 34 
+Letter   - >  _ v 0 34 
+Letter   - >  _ w 0 34 
+Letter   - >  _ x 0 34 
+Letter   - >  _ y 0 34 
+Letter   - >  _ z 0 34 
+Letter   - >  _ A 0 34 
+Letter   - >  _ B 0 34 
+Letter   - >  _ C 0 34 
+Letter   - >  _ D 0 34 
+Letter   - >  _ E 0 34 
+Letter   - >  _ F 0 34 
+Letter   - >  _ G 0 34 
+Letter   - >  _ H 0 34 
+Letter   - >  _ I 0 34 
+Letter   - >  _ J 0 34 
+Letter   - >  _ K 0 34 
+Letter   - >  _ L 0 34 
+Letter   - >  _ M 0 34 
+Letter   - >  _ N 0 34 
+Letter   - >  _ O 0 34 
+Letter   - >  _ P 0 34 
+Letter   - >  _ Q 0 34 
+Letter   - >  _ R 0 34 
+Letter   - >  _ S 0 34 
+Letter   - >  _ T 0 34 
+Letter   - >  _ U 0 34 
+Letter   - >  _ V 0 34 
+Letter   - >  _ W 0 34 
+Letter   - >  _ X 0 34 
+Letter   - >  _ Y 0 34 
+Letter   - >  _ Z 0 34 
+Digit   - >  _ 0 0 34 
+Digit   - >  _ 1 0 34 
+Digit   - >  _ 2 0 34 
+Digit   - >  _ 3 0 34 
+Digit   - >  _ 4 0 34 
+Digit   - >  _ 5 0 34 
+Digit   - >  _ 6 0 34 
+Digit   - >  _ 7 0 34 
+Digit   - >  _ 8 0 34 
+Digit   - >  _ 9 0 34 
+
+35 
+Digit   - >  _ 2 1 34 
+Const   - >  _ Digit 1 34 
+Const   - >  _ Digit Const 1 34 
+Const   - >  _ Digit 0 35 
+Const   - >  _ Digit Const 0 35 
+SimpleExpr   - >  _ Const 1 34 
+Digit   - >  _ 0 0 35 
+Digit   - >  _ 1 0 35 
+Digit   - >  _ 2 0 35 
+Digit   - >  _ 3 0 35 
+Digit   - >  _ 4 0 35 
+Digit   - >  _ 5 0 35 
+Digit   - >  _ 6 0 35 
+Digit   - >  _ 7 0 35 
+Digit   - >  _ 8 0 35 
+Digit   - >  _ 9 0 35 
+Expr   - >  _ SimpleExpr 1 34 
+Expr   - >  _ SimpleExpr + Expr 1 34 
+Expr   - >  _ SimpleExpr - Expr 1 34 
+SimpleExpr   - >  _ ( Expr ) 2 33 
+
+36 
+Expr   - >  _ SimpleExpr - Expr 2 34 
+Expr   - >  _ SimpleExpr 0 36 
+Expr   - >  _ SimpleExpr + Expr 0 36 
+Expr   - >  _ SimpleExpr - Expr 0 36 
+SimpleExpr   - >  _ Id 0 36 
+SimpleExpr   - >  _ Const 0 36 
+SimpleExpr   - >  _ ( Expr ) 0 36 
+Id   - >  _ Letter 0 36 
+Id   - >  _ Letter Id 0 36 
+Const   - >  _ Digit 0 36 
+Const   - >  _ Digit Const 0 36 
+Letter   - >  _ a 0 36 
+Letter   - >  _ b 0 36 
+Letter   - >  _ c 0 36 
+Letter   - >  _ d 0 36 
+Letter   - >  _ e 0 36 
+Letter   - >  _ f 0 36 
+Letter   - >  _ g 0 36 
+Letter   - >  _ h 0 36 
+Letter   - >  _ i 0 36 
+Letter   - >  _ j 0 36 
+Letter   - >  _ k 0 36 
+Letter   - >  _ l 0 36 
+Letter   - >  _ m 0 36 
+Letter   - >  _ n 0 36 
+Letter   - >  _ o 0 36 
+Letter   - >  _ p 0 36 
+Letter   - >  _ q 0 36 
+Letter   - >  _ r 0 36 
+Letter   - >  _ s 0 36 
+Letter   - >  _ t 0 36 
+Letter   - >  _ u 0 36 
+Letter   - >  _ v 0 36 
+Letter   - >  _ w 0 36 
+Letter   - >  _ x 0 36 
+Letter   - >  _ y 0 36 
+Letter   - >  _ z 0 36 
+Letter   - >  _ A 0 36 
+Letter   - >  _ B 0 36 
+Letter   - >  _ C 0 36 
+Letter   - >  _ D 0 36 
+Letter   - >  _ E 0 36 
+Letter   - >  _ F 0 36 
+Letter   - >  _ G 0 36 
+Letter   - >  _ H 0 36 
+Letter   - >  _ I 0 36 
+Letter   - >  _ J 0 36 
+Letter   - >  _ K 0 36 
+Letter   - >  _ L 0 36 
+Letter   - >  _ M 0 36 
+Letter   - >  _ N 0 36 
+Letter   - >  _ O 0 36 
+Letter   - >  _ P 0 36 
+Letter   - >  _ Q 0 36 
+Letter   - >  _ R 0 36 
+Letter   - >  _ S 0 36 
+Letter   - >  _ T 0 36 
+Letter   - >  _ U 0 36 
+Letter   - >  _ V 0 36 
+Letter   - >  _ W 0 36 
+Letter   - >  _ X 0 36 
+Letter   - >  _ Y 0 36 
+Letter   - >  _ Z 0 36 
+Digit   - >  _ 0 0 36 
+Digit   - >  _ 1 0 36 
+Digit   - >  _ 2 0 36 
+Digit   - >  _ 3 0 36 
+Digit   - >  _ 4 0 36 
+Digit   - >  _ 5 0 36 
+Digit   - >  _ 6 0 36 
+Digit   - >  _ 7 0 36 
+Digit   - >  _ 8 0 36 
+Digit   - >  _ 9 0 36 
+
+37 
+Letter   - >  _ b 1 36 
+Id   - >  _ Letter 1 36 
+Id   - >  _ Letter Id 1 36 
+Id   - >  _ Letter 0 37 
+Id   - >  _ Letter Id 0 37 
+SimpleExpr   - >  _ Id 1 36 
+Letter   - >  _ a 0 37 
+Letter   - >  _ b 0 37 
+Letter   - >  _ c 0 37 
+Letter   - >  _ d 0 37 
+Letter   - >  _ e 0 37 
+Letter   - >  _ f 0 37 
+Letter   - >  _ g 0 37 
+Letter   - >  _ h 0 37 
+Letter   - >  _ i 0 37 
+Letter   - >  _ j 0 37 
+Letter   - >  _ k 0 37 
+Letter   - >  _ l 0 37 
+Letter   - >  _ m 0 37 
+Letter   - >  _ n 0 37 
+Letter   - >  _ o 0 37 
+Letter   - >  _ p 0 37 
+Letter   - >  _ q 0 37 
+Letter   - >  _ r 0 37 
+Letter   - >  _ s 0 37 
+Letter   - >  _ t 0 37 
+Letter   - >  _ u 0 37 
+Letter   - >  _ v 0 37 
+Letter   - >  _ w 0 37 
+Letter   - >  _ x 0 37 
+Letter   - >  _ y 0 37 
+Letter   - >  _ z 0 37 
+Letter   - >  _ A 0 37 
+Letter   - >  _ B 0 37 
+Letter   - >  _ C 0 37 
+Letter   - >  _ D 0 37 
+Letter   - >  _ E 0 37 
+Letter   - >  _ F 0 37 
+Letter   - >  _ G 0 37 
+Letter   - >  _ H 0 37 
+Letter   - >  _ I 0 37 
+Letter   - >  _ J 0 37 
+Letter   - >  _ K 0 37 
+Letter   - >  _ L 0 37 
+Letter   - >  _ M 0 37 
+Letter   - >  _ N 0 37 
+Letter   - >  _ O 0 37 
+Letter   - >  _ P 0 37 
+Letter   - >  _ Q 0 37 
+Letter   - >  _ R 0 37 
+Letter   - >  _ S 0 37 
+Letter   - >  _ T 0 37 
+Letter   - >  _ U 0 37 
+Letter   - >  _ V 0 37 
+Letter   - >  _ W 0 37 
+Letter   - >  _ X 0 37 
+Letter   - >  _ Y 0 37 
+Letter   - >  _ Z 0 37 
+Expr   - >  _ SimpleExpr 1 36 
+Expr   - >  _ SimpleExpr + Expr 1 36 
+Expr   - >  _ SimpleExpr - Expr 1 36 
+Expr   - >  _ SimpleExpr - Expr 3 34 
+SimpleExpr   - >  _ ( Expr ) 2 33 
+
+38 
+Expr   - >  _ SimpleExpr - Expr 2 36 
+Expr   - >  _ SimpleExpr 0 38 
+Expr   - >  _ SimpleExpr + Expr 0 38 
+Expr   - >  _ SimpleExpr - Expr 0 38 
+SimpleExpr   - >  _ Id 0 38 
+SimpleExpr   - >  _ Const 0 38 
+SimpleExpr   - >  _ ( Expr ) 0 38 
+Id   - >  _ Letter 0 38 
+Id   - >  _ Letter Id 0 38 
+Const   - >  _ Digit 0 38 
+Const   - >  _ Digit Const 0 38 
+Letter   - >  _ a 0 38 
+Letter   - >  _ b 0 38 
+Letter   - >  _ c 0 38 
+Letter   - >  _ d 0 38 
+Letter   - >  _ e 0 38 
+Letter   - >  _ f 0 38 
+Letter   - >  _ g 0 38 
+Letter   - >  _ h 0 38 
+Letter   - >  _ i 0 38 
+Letter   - >  _ j 0 38 
+Letter   - >  _ k 0 38 
+Letter   - >  _ l 0 38 
+Letter   - >  _ m 0 38 
+Letter   - >  _ n 0 38 
+Letter   - >  _ o 0 38 
+Letter   - >  _ p 0 38 
+Letter   - >  _ q 0 38 
+Letter   - >  _ r 0 38 
+Letter   - >  _ s 0 38 
+Letter   - >  _ t 0 38 
+Letter   - >  _ u 0 38 
+Letter   - >  _ v 0 38 
+Letter   - >  _ w 0 38 
+Letter   - >  _ x 0 38 
+Letter   - >  _ y 0 38 
+Letter   - >  _ z 0 38 
+Letter   - >  _ A 0 38 
+Letter   - >  _ B 0 38 
+Letter   - >  _ C 0 38 
+Letter   - >  _ D 0 38 
+Letter   - >  _ E 0 38 
+Letter   - >  _ F 0 38 
+Letter   - >  _ G 0 38 
+Letter   - >  _ H 0 38 
+Letter   - >  _ I 0 38 
+Letter   - >  _ J 0 38 
+Letter   - >  _ K 0 38 
+Letter   - >  _ L 0 38 
+Letter   - >  _ M 0 38 
+Letter   - >  _ N 0 38 
+Letter   - >  _ O 0 38 
+Letter   - >  _ P 0 38 
+Letter   - >  _ Q 0 38 
+Letter   - >  _ R 0 38 
+Letter   - >  _ S 0 38 
+Letter   - >  _ T 0 38 
+Letter   - >  _ U 0 38 
+Letter   - >  _ V 0 38 
+Letter   - >  _ W 0 38 
+Letter   - >  _ X 0 38 
+Letter   - >  _ Y 0 38 
+Letter   - >  _ Z 0 38 
+Digit   - >  _ 0 0 38 
+Digit   - >  _ 1 0 38 
+Digit   - >  _ 2 0 38 
+Digit   - >  _ 3 0 38 
+Digit   - >  _ 4 0 38 
+Digit   - >  _ 5 0 38 
+Digit   - >  _ 6 0 38 
+Digit   - >  _ 7 0 38 
+Digit   - >  _ 8 0 38 
+Digit   - >  _ 9 0 38 
+
+39 
+Letter   - >  _ c 1 38 
+Id   - >  _ Letter 1 38 
+Id   - >  _ Letter Id 1 38 
+Id   - >  _ Letter 0 39 
+Id   - >  _ Letter Id 0 39 
+SimpleExpr   - >  _ Id 1 38 
+Letter   - >  _ a 0 39 
+Letter   - >  _ b 0 39 
+Letter   - >  _ c 0 39 
+Letter   - >  _ d 0 39 
+Letter   - >  _ e 0 39 
+Letter   - >  _ f 0 39 
+Letter   - >  _ g 0 39 
+Letter   - >  _ h 0 39 
+Letter   - >  _ i 0 39 
+Letter   - >  _ j 0 39 
+Letter   - >  _ k 0 39 
+Letter   - >  _ l 0 39 
+Letter   - >  _ m 0 39 
+Letter   - >  _ n 0 39 
+Letter   - >  _ o 0 39 
+Letter   - >  _ p 0 39 
+Letter   - >  _ q 0 39 
+Letter   - >  _ r 0 39 
+Letter   - >  _ s 0 39 
+Letter   - >  _ t 0 39 
+Letter   - >  _ u 0 39 
+Letter   - >  _ v 0 39 
+Letter   - >  _ w 0 39 
+Letter   - >  _ x 0 39 
+Letter   - >  _ y 0 39 
+Letter   - >  _ z 0 39 
+Letter   - >  _ A 0 39 
+Letter   - >  _ B 0 39 
+Letter   - >  _ C 0 39 
+Letter   - >  _ D 0 39 
+Letter   - >  _ E 0 39 
+Letter   - >  _ F 0 39 
+Letter   - >  _ G 0 39 
+Letter   - >  _ H 0 39 
+Letter   - >  _ I 0 39 
+Letter   - >  _ J 0 39 
+Letter   - >  _ K 0 39 
+Letter   - >  _ L 0 39 
+Letter   - >  _ M 0 39 
+Letter   - >  _ N 0 39 
+Letter   - >  _ O 0 39 
+Letter   - >  _ P 0 39 
+Letter   - >  _ Q 0 39 
+Letter   - >  _ R 0 39 
+Letter   - >  _ S 0 39 
+Letter   - >  _ T 0 39 
+Letter   - >  _ U 0 39 
+Letter   - >  _ V 0 39 
+Letter   - >  _ W 0 39 
+Letter   - >  _ X 0 39 
+Letter   - >  _ Y 0 39 
+Letter   - >  _ Z 0 39 
+Expr   - >  _ SimpleExpr 1 38 
+Expr   - >  _ SimpleExpr + Expr 1 38 
+Expr   - >  _ SimpleExpr - Expr 1 38 
+Expr   - >  _ SimpleExpr - Expr 3 36 
+Expr   - >  _ SimpleExpr - Expr 3 34 
+SimpleExpr   - >  _ ( Expr ) 2 33 
+
+40 
+SimpleExpr   - >  _ ( Expr ) 3 33 
+Expr   - >  _ SimpleExpr 1 33 
+Expr   - >  _ SimpleExpr + Expr 1 33 
+Expr   - >  _ SimpleExpr - Expr 1 33 
+Expr   - >  _ SimpleExpr + Expr 3 31 
+Expr   - >  _ SimpleExpr + Expr 3 29 
+Op   - >  _ Id := Expr ; 3 27 
+
+41 
+Op   - >  _ Id := Expr ; 4 27 
+Operators   - >  _ Op 1 27 
+Operators   - >  _ Op Operators 1 27 
+Operators   - >  _ Op 0 41 
+Operators   - >  _ Op Operators 0 41 
+Procedure   - >  _ Begin Descriptions Operators End 3 0 
+Op   - >  _ Id := Expr ; 0 41 
+Op   - >  _ case Expr of Options end ; 0 41 
+End   - >  _ end 0 41 
+Id   - >  _ Letter 0 41 
+Id   - >  _ Letter Id 0 41 
+Letter   - >  _ a 0 41 
+Letter   - >  _ b 0 41 
+Letter   - >  _ c 0 41 
+Letter   - >  _ d 0 41 
+Letter   - >  _ e 0 41 
+Letter   - >  _ f 0 41 
+Letter   - >  _ g 0 41 
+Letter   - >  _ h 0 41 
+Letter   - >  _ i 0 41 
+Letter   - >  _ j 0 41 
+Letter   - >  _ k 0 41 
+Letter   - >  _ l 0 41 
+Letter   - >  _ m 0 41 
+Letter   - >  _ n 0 41 
+Letter   - >  _ o 0 41 
+Letter   - >  _ p 0 41 
+Letter   - >  _ q 0 41 
+Letter   - >  _ r 0 41 
+Letter   - >  _ s 0 41 
+Letter   - >  _ t 0 41 
+Letter   - >  _ u 0 41 
+Letter   - >  _ v 0 41 
+Letter   - >  _ w 0 41 
+Letter   - >  _ x 0 41 
+Letter   - >  _ y 0 41 
+Letter   - >  _ z 0 41 
+Letter   - >  _ A 0 41 
+Letter   - >  _ B 0 41 
+Letter   - >  _ C 0 41 
+Letter   - >  _ D 0 41 
+Letter   - >  _ E 0 41 
+Letter   - >  _ F 0 41 
+Letter   - >  _ G 0 41 
+Letter   - >  _ H 0 41 
+Letter   - >  _ I 0 41 
+Letter   - >  _ J 0 41 
+Letter   - >  _ K 0 41 
+Letter   - >  _ L 0 41 
+Letter   - >  _ M 0 41 
+Letter   - >  _ N 0 41 
+Letter   - >  _ O 0 41 
+Letter   - >  _ P 0 41 
+Letter   - >  _ Q 0 41 
+Letter   - >  _ R 0 41 
+Letter   - >  _ S 0 41 
+Letter   - >  _ T 0 41 
+Letter   - >  _ U 0 41 
+Letter   - >  _ V 0 41 
+Letter   - >  _ W 0 41 
+Letter   - >  _ X 0 41 
+Letter   - >  _ Y 0 41 
+Letter   - >  _ Z 0 41 
+
+42 
+Op   - >  _ case Expr of Options end ; 1 41 
+Expr   - >  _ SimpleExpr 0 42 
+Expr   - >  _ SimpleExpr + Expr 0 42 
+Expr   - >  _ SimpleExpr - Expr 0 42 
+SimpleExpr   - >  _ Id 0 42 
+SimpleExpr   - >  _ Const 0 42 
+SimpleExpr   - >  _ ( Expr ) 0 42 
+Id   - >  _ Letter 0 42 
+Id   - >  _ Letter Id 0 42 
+Const   - >  _ Digit 0 42 
+Const   - >  _ Digit Const 0 42 
+Letter   - >  _ a 0 42 
+Letter   - >  _ b 0 42 
+Letter   - >  _ c 0 42 
+Letter   - >  _ d 0 42 
+Letter   - >  _ e 0 42 
+Letter   - >  _ f 0 42 
+Letter   - >  _ g 0 42 
+Letter   - >  _ h 0 42 
+Letter   - >  _ i 0 42 
+Letter   - >  _ j 0 42 
+Letter   - >  _ k 0 42 
+Letter   - >  _ l 0 42 
+Letter   - >  _ m 0 42 
+Letter   - >  _ n 0 42 
+Letter   - >  _ o 0 42 
+Letter   - >  _ p 0 42 
+Letter   - >  _ q 0 42 
+Letter   - >  _ r 0 42 
+Letter   - >  _ s 0 42 
+Letter   - >  _ t 0 42 
+Letter   - >  _ u 0 42 
+Letter   - >  _ v 0 42 
+Letter   - >  _ w 0 42 
+Letter   - >  _ x 0 42 
+Letter   - >  _ y 0 42 
+Letter   - >  _ z 0 42 
+Letter   - >  _ A 0 42 
+Letter   - >  _ B 0 42 
+Letter   - >  _ C 0 42 
+Letter   - >  _ D 0 42 
+Letter   - >  _ E 0 42 
+Letter   - >  _ F 0 42 
+Letter   - >  _ G 0 42 
+Letter   - >  _ H 0 42 
+Letter   - >  _ I 0 42 
+Letter   - >  _ J 0 42 
+Letter   - >  _ K 0 42 
+Letter   - >  _ L 0 42 
+Letter   - >  _ M 0 42 
+Letter   - >  _ N 0 42 
+Letter   - >  _ O 0 42 
+Letter   - >  _ P 0 42 
+Letter   - >  _ Q 0 42 
+Letter   - >  _ R 0 42 
+Letter   - >  _ S 0 42 
+Letter   - >  _ T 0 42 
+Letter   - >  _ U 0 42 
+Letter   - >  _ V 0 42 
+Letter   - >  _ W 0 42 
+Letter   - >  _ X 0 42 
+Letter   - >  _ Y 0 42 
+Letter   - >  _ Z 0 42 
+Digit   - >  _ 0 0 42 
+Digit   - >  _ 1 0 42 
+Digit   - >  _ 2 0 42 
+Digit   - >  _ 3 0 42 
+Digit   - >  _ 4 0 42 
+Digit   - >  _ 5 0 42 
+Digit   - >  _ 6 0 42 
+Digit   - >  _ 7 0 42 
+Digit   - >  _ 8 0 42 
+Digit   - >  _ 9 0 42 
+
+43 
+SimpleExpr   - >  _ ( Expr ) 1 42 
+Expr   - >  _ SimpleExpr 0 43 
+Expr   - >  _ SimpleExpr + Expr 0 43 
+Expr   - >  _ SimpleExpr - Expr 0 43 
+SimpleExpr   - >  _ Id 0 43 
+SimpleExpr   - >  _ Const 0 43 
+SimpleExpr   - >  _ ( Expr ) 0 43 
+Id   - >  _ Letter 0 43 
+Id   - >  _ Letter Id 0 43 
+Const   - >  _ Digit 0 43 
+Const   - >  _ Digit Const 0 43 
+Letter   - >  _ a 0 43 
+Letter   - >  _ b 0 43 
+Letter   - >  _ c 0 43 
+Letter   - >  _ d 0 43 
+Letter   - >  _ e 0 43 
+Letter   - >  _ f 0 43 
+Letter   - >  _ g 0 43 
+Letter   - >  _ h 0 43 
+Letter   - >  _ i 0 43 
+Letter   - >  _ j 0 43 
+Letter   - >  _ k 0 43 
+Letter   - >  _ l 0 43 
+Letter   - >  _ m 0 43 
+Letter   - >  _ n 0 43 
+Letter   - >  _ o 0 43 
+Letter   - >  _ p 0 43 
+Letter   - >  _ q 0 43 
+Letter   - >  _ r 0 43 
+Letter   - >  _ s 0 43 
+Letter   - >  _ t 0 43 
+Letter   - >  _ u 0 43 
+Letter   - >  _ v 0 43 
+Letter   - >  _ w 0 43 
+Letter   - >  _ x 0 43 
+Letter   - >  _ y 0 43 
+Letter   - >  _ z 0 43 
+Letter   - >  _ A 0 43 
+Letter   - >  _ B 0 43 
+Letter   - >  _ C 0 43 
+Letter   - >  _ D 0 43 
+Letter   - >  _ E 0 43 
+Letter   - >  _ F 0 43 
+Letter   - >  _ G 0 43 
+Letter   - >  _ H 0 43 
+Letter   - >  _ I 0 43 
+Letter   - >  _ J 0 43 
+Letter   - >  _ K 0 43 
+Letter   - >  _ L 0 43 
+Letter   - >  _ M 0 43 
+Letter   - >  _ N 0 43 
+Letter   - >  _ O 0 43 
+Letter   - >  _ P 0 43 
+Letter   - >  _ Q 0 43 
+Letter   - >  _ R 0 43 
+Letter   - >  _ S 0 43 
+Letter   - >  _ T 0 43 
+Letter   - >  _ U 0 43 
+Letter   - >  _ V 0 43 
+Letter   - >  _ W 0 43 
+Letter   - >  _ X 0 43 
+Letter   - >  _ Y 0 43 
+Letter   - >  _ Z 0 43 
+Digit   - >  _ 0 0 43 
+Digit   - >  _ 1 0 43 
+Digit   - >  _ 2 0 43 
+Digit   - >  _ 3 0 43 
+Digit   - >  _ 4 0 43 
+Digit   - >  _ 5 0 43 
+Digit   - >  _ 6 0 43 
+Digit   - >  _ 7 0 43 
+Digit   - >  _ 8 0 43 
+Digit   - >  _ 9 0 43 
+
+44 
+Letter   - >  _ a 1 43 
+Id   - >  _ Letter 1 43 
+Id   - >  _ Letter Id 1 43 
+Id   - >  _ Letter 0 44 
+Id   - >  _ Letter Id 0 44 
+SimpleExpr   - >  _ Id 1 43 
+Letter   - >  _ a 0 44 
+Letter   - >  _ b 0 44 
+Letter   - >  _ c 0 44 
+Letter   - >  _ d 0 44 
+Letter   - >  _ e 0 44 
+Letter   - >  _ f 0 44 
+Letter   - >  _ g 0 44 
+Letter   - >  _ h 0 44 
+Letter   - >  _ i 0 44 
+Letter   - >  _ j 0 44 
+Letter   - >  _ k 0 44 
+Letter   - >  _ l 0 44 
+Letter   - >  _ m 0 44 
+Letter   - >  _ n 0 44 
+Letter   - >  _ o 0 44 
+Letter   - >  _ p 0 44 
+Letter   - >  _ q 0 44 
+Letter   - >  _ r 0 44 
+Letter   - >  _ s 0 44 
+Letter   - >  _ t 0 44 
+Letter   - >  _ u 0 44 
+Letter   - >  _ v 0 44 
+Letter   - >  _ w 0 44 
+Letter   - >  _ x 0 44 
+Letter   - >  _ y 0 44 
+Letter   - >  _ z 0 44 
+Letter   - >  _ A 0 44 
+Letter   - >  _ B 0 44 
+Letter   - >  _ C 0 44 
+Letter   - >  _ D 0 44 
+Letter   - >  _ E 0 44 
+Letter   - >  _ F 0 44 
+Letter   - >  _ G 0 44 
+Letter   - >  _ H 0 44 
+Letter   - >  _ I 0 44 
+Letter   - >  _ J 0 44 
+Letter   - >  _ K 0 44 
+Letter   - >  _ L 0 44 
+Letter   - >  _ M 0 44 
+Letter   - >  _ N 0 44 
+Letter   - >  _ O 0 44 
+Letter   - >  _ P 0 44 
+Letter   - >  _ Q 0 44 
+Letter   - >  _ R 0 44 
+Letter   - >  _ S 0 44 
+Letter   - >  _ T 0 44 
+Letter   - >  _ U 0 44 
+Letter   - >  _ V 0 44 
+Letter   - >  _ W 0 44 
+Letter   - >  _ X 0 44 
+Letter   - >  _ Y 0 44 
+Letter   - >  _ Z 0 44 
+Expr   - >  _ SimpleExpr 1 43 
+Expr   - >  _ SimpleExpr + Expr 1 43 
+Expr   - >  _ SimpleExpr - Expr 1 43 
+SimpleExpr   - >  _ ( Expr ) 2 42 
+
+45 
+Expr   - >  _ SimpleExpr + Expr 2 43 
+Expr   - >  _ SimpleExpr 0 45 
+Expr   - >  _ SimpleExpr + Expr 0 45 
+Expr   - >  _ SimpleExpr - Expr 0 45 
+SimpleExpr   - >  _ Id 0 45 
+SimpleExpr   - >  _ Const 0 45 
+SimpleExpr   - >  _ ( Expr ) 0 45 
+Id   - >  _ Letter 0 45 
+Id   - >  _ Letter Id 0 45 
+Const   - >  _ Digit 0 45 
+Const   - >  _ Digit Const 0 45 
+Letter   - >  _ a 0 45 
+Letter   - >  _ b 0 45 
+Letter   - >  _ c 0 45 
+Letter   - >  _ d 0 45 
+Letter   - >  _ e 0 45 
+Letter   - >  _ f 0 45 
+Letter   - >  _ g 0 45 
+Letter   - >  _ h 0 45 
+Letter   - >  _ i 0 45 
+Letter   - >  _ j 0 45 
+Letter   - >  _ k 0 45 
+Letter   - >  _ l 0 45 
+Letter   - >  _ m 0 45 
+Letter   - >  _ n 0 45 
+Letter   - >  _ o 0 45 
+Letter   - >  _ p 0 45 
+Letter   - >  _ q 0 45 
+Letter   - >  _ r 0 45 
+Letter   - >  _ s 0 45 
+Letter   - >  _ t 0 45 
+Letter   - >  _ u 0 45 
+Letter   - >  _ v 0 45 
+Letter   - >  _ w 0 45 
+Letter   - >  _ x 0 45 
+Letter   - >  _ y 0 45 
+Letter   - >  _ z 0 45 
+Letter   - >  _ A 0 45 
+Letter   - >  _ B 0 45 
+Letter   - >  _ C 0 45 
+Letter   - >  _ D 0 45 
+Letter   - >  _ E 0 45 
+Letter   - >  _ F 0 45 
+Letter   - >  _ G 0 45 
+Letter   - >  _ H 0 45 
+Letter   - >  _ I 0 45 
+Letter   - >  _ J 0 45 
+Letter   - >  _ K 0 45 
+Letter   - >  _ L 0 45 
+Letter   - >  _ M 0 45 
+Letter   - >  _ N 0 45 
+Letter   - >  _ O 0 45 
+Letter   - >  _ P 0 45 
+Letter   - >  _ Q 0 45 
+Letter   - >  _ R 0 45 
+Letter   - >  _ S 0 45 
+Letter   - >  _ T 0 45 
+Letter   - >  _ U 0 45 
+Letter   - >  _ V 0 45 
+Letter   - >  _ W 0 45 
+Letter   - >  _ X 0 45 
+Letter   - >  _ Y 0 45 
+Letter   - >  _ Z 0 45 
+Digit   - >  _ 0 0 45 
+Digit   - >  _ 1 0 45 
+Digit   - >  _ 2 0 45 
+Digit   - >  _ 3 0 45 
+Digit   - >  _ 4 0 45 
+Digit   - >  _ 5 0 45 
+Digit   - >  _ 6 0 45 
+Digit   - >  _ 7 0 45 
+Digit   - >  _ 8 0 45 
+Digit   - >  _ 9 0 45 
+
+46 
+Digit   - >  _ 1 1 45 
+Const   - >  _ Digit 1 45 
+Const   - >  _ Digit Const 1 45 
+Const   - >  _ Digit 0 46 
+Const   - >  _ Digit Const 0 46 
+SimpleExpr   - >  _ Const 1 45 
+Digit   - >  _ 0 0 46 
+Digit   - >  _ 1 0 46 
+Digit   - >  _ 2 0 46 
+Digit   - >  _ 3 0 46 
+Digit   - >  _ 4 0 46 
+Digit   - >  _ 5 0 46 
+Digit   - >  _ 6 0 46 
+Digit   - >  _ 7 0 46 
+Digit   - >  _ 8 0 46 
+Digit   - >  _ 9 0 46 
+Expr   - >  _ SimpleExpr 1 45 
+Expr   - >  _ SimpleExpr + Expr 1 45 
+Expr   - >  _ SimpleExpr - Expr 1 45 
+Expr   - >  _ SimpleExpr + Expr 3 43 
+SimpleExpr   - >  _ ( Expr ) 2 42 
+
+47 
+Expr   - >  _ SimpleExpr + Expr 2 45 
+Expr   - >  _ SimpleExpr 0 47 
+Expr   - >  _ SimpleExpr + Expr 0 47 
+Expr   - >  _ SimpleExpr - Expr 0 47 
+SimpleExpr   - >  _ Id 0 47 
+SimpleExpr   - >  _ Const 0 47 
+SimpleExpr   - >  _ ( Expr ) 0 47 
+Id   - >  _ Letter 0 47 
+Id   - >  _ Letter Id 0 47 
+Const   - >  _ Digit 0 47 
+Const   - >  _ Digit Const 0 47 
+Letter   - >  _ a 0 47 
+Letter   - >  _ b 0 47 
+Letter   - >  _ c 0 47 
+Letter   - >  _ d 0 47 
+Letter   - >  _ e 0 47 
+Letter   - >  _ f 0 47 
+Letter   - >  _ g 0 47 
+Letter   - >  _ h 0 47 
+Letter   - >  _ i 0 47 
+Letter   - >  _ j 0 47 
+Letter   - >  _ k 0 47 
+Letter   - >  _ l 0 47 
+Letter   - >  _ m 0 47 
+Letter   - >  _ n 0 47 
+Letter   - >  _ o 0 47 
+Letter   - >  _ p 0 47 
+Letter   - >  _ q 0 47 
+Letter   - >  _ r 0 47 
+Letter   - >  _ s 0 47 
+Letter   - >  _ t 0 47 
+Letter   - >  _ u 0 47 
+Letter   - >  _ v 0 47 
+Letter   - >  _ w 0 47 
+Letter   - >  _ x 0 47 
+Letter   - >  _ y 0 47 
+Letter   - >  _ z 0 47 
+Letter   - >  _ A 0 47 
+Letter   - >  _ B 0 47 
+Letter   - >  _ C 0 47 
+Letter   - >  _ D 0 47 
+Letter   - >  _ E 0 47 
+Letter   - >  _ F 0 47 
+Letter   - >  _ G 0 47 
+Letter   - >  _ H 0 47 
+Letter   - >  _ I 0 47 
+Letter   - >  _ J 0 47 
+Letter   - >  _ K 0 47 
+Letter   - >  _ L 0 47 
+Letter   - >  _ M 0 47 
+Letter   - >  _ N 0 47 
+Letter   - >  _ O 0 47 
+Letter   - >  _ P 0 47 
+Letter   - >  _ Q 0 47 
+Letter   - >  _ R 0 47 
+Letter   - >  _ S 0 47 
+Letter   - >  _ T 0 47 
+Letter   - >  _ U 0 47 
+Letter   - >  _ V 0 47 
+Letter   - >  _ W 0 47 
+Letter   - >  _ X 0 47 
+Letter   - >  _ Y 0 47 
+Letter   - >  _ Z 0 47 
+Digit   - >  _ 0 0 47 
+Digit   - >  _ 1 0 47 
+Digit   - >  _ 2 0 47 
+Digit   - >  _ 3 0 47 
+Digit   - >  _ 4 0 47 
+Digit   - >  _ 5 0 47 
+Digit   - >  _ 6 0 47 
+Digit   - >  _ 7 0 47 
+Digit   - >  _ 8 0 47 
+Digit   - >  _ 9 0 47 
+
+48 
+Digit   - >  _ 2 1 47 
+Const   - >  _ Digit 1 47 
+Const   - >  _ Digit Const 1 47 
+Const   - >  _ Digit 0 48 
+Const   - >  _ Digit Const 0 48 
+SimpleExpr   - >  _ Const 1 47 
+Digit   - >  _ 0 0 48 
+Digit   - >  _ 1 0 48 
+Digit   - >  _ 2 0 48 
+Digit   - >  _ 3 0 48 
+Digit   - >  _ 4 0 48 
+Digit   - >  _ 5 0 48 
+Digit   - >  _ 6 0 48 
+Digit   - >  _ 7 0 48 
+Digit   - >  _ 8 0 48 
+Digit   - >  _ 9 0 48 
+Expr   - >  _ SimpleExpr 1 47 
+Expr   - >  _ SimpleExpr + Expr 1 47 
+Expr   - >  _ SimpleExpr - Expr 1 47 
+Expr   - >  _ SimpleExpr + Expr 3 45 
+Expr   - >  _ SimpleExpr + Expr 3 43 
+SimpleExpr   - >  _ ( Expr ) 2 42 
+
+49 
+Expr   - >  _ SimpleExpr - Expr 2 47 
+Expr   - >  _ SimpleExpr 0 49 
+Expr   - >  _ SimpleExpr + Expr 0 49 
+Expr   - >  _ SimpleExpr - Expr 0 49 
+SimpleExpr   - >  _ Id 0 49 
+SimpleExpr   - >  _ Const 0 49 
+SimpleExpr   - >  _ ( Expr ) 0 49 
+Id   - >  _ Letter 0 49 
+Id   - >  _ Letter Id 0 49 
+Const   - >  _ Digit 0 49 
+Const   - >  _ Digit Const 0 49 
+Letter   - >  _ a 0 49 
+Letter   - >  _ b 0 49 
+Letter   - >  _ c 0 49 
+Letter   - >  _ d 0 49 
+Letter   - >  _ e 0 49 
+Letter   - >  _ f 0 49 
+Letter   - >  _ g 0 49 
+Letter   - >  _ h 0 49 
+Letter   - >  _ i 0 49 
+Letter   - >  _ j 0 49 
+Letter   - >  _ k 0 49 
+Letter   - >  _ l 0 49 
+Letter   - >  _ m 0 49 
+Letter   - >  _ n 0 49 
+Letter   - >  _ o 0 49 
+Letter   - >  _ p 0 49 
+Letter   - >  _ q 0 49 
+Letter   - >  _ r 0 49 
+Letter   - >  _ s 0 49 
+Letter   - >  _ t 0 49 
+Letter   - >  _ u 0 49 
+Letter   - >  _ v 0 49 
+Letter   - >  _ w 0 49 
+Letter   - >  _ x 0 49 
+Letter   - >  _ y 0 49 
+Letter   - >  _ z 0 49 
+Letter   - >  _ A 0 49 
+Letter   - >  _ B 0 49 
+Letter   - >  _ C 0 49 
+Letter   - >  _ D 0 49 
+Letter   - >  _ E 0 49 
+Letter   - >  _ F 0 49 
+Letter   - >  _ G 0 49 
+Letter   - >  _ H 0 49 
+Letter   - >  _ I 0 49 
+Letter   - >  _ J 0 49 
+Letter   - >  _ K 0 49 
+Letter   - >  _ L 0 49 
+Letter   - >  _ M 0 49 
+Letter   - >  _ N 0 49 
+Letter   - >  _ O 0 49 
+Letter   - >  _ P 0 49 
+Letter   - >  _ Q 0 49 
+Letter   - >  _ R 0 49 
+Letter   - >  _ S 0 49 
+Letter   - >  _ T 0 49 
+Letter   - >  _ U 0 49 
+Letter   - >  _ V 0 49 
+Letter   - >  _ W 0 49 
+Letter   - >  _ X 0 49 
+Letter   - >  _ Y 0 49 
+Letter   - >  _ Z 0 49 
+Digit   - >  _ 0 0 49 
+Digit   - >  _ 1 0 49 
+Digit   - >  _ 2 0 49 
+Digit   - >  _ 3 0 49 
+Digit   - >  _ 4 0 49 
+Digit   - >  _ 5 0 49 
+Digit   - >  _ 6 0 49 
+Digit   - >  _ 7 0 49 
+Digit   - >  _ 8 0 49 
+Digit   - >  _ 9 0 49 
+
+50 
+Letter   - >  _ b 1 49 
+Id   - >  _ Letter 1 49 
+Id   - >  _ Letter Id 1 49 
+Id   - >  _ Letter 0 50 
+Id   - >  _ Letter Id 0 50 
+SimpleExpr   - >  _ Id 1 49 
+Letter   - >  _ a 0 50 
+Letter   - >  _ b 0 50 
+Letter   - >  _ c 0 50 
+Letter   - >  _ d 0 50 
+Letter   - >  _ e 0 50 
+Letter   - >  _ f 0 50 
+Letter   - >  _ g 0 50 
+Letter   - >  _ h 0 50 
+Letter   - >  _ i 0 50 
+Letter   - >  _ j 0 50 
+Letter   - >  _ k 0 50 
+Letter   - >  _ l 0 50 
+Letter   - >  _ m 0 50 
+Letter   - >  _ n 0 50 
+Letter   - >  _ o 0 50 
+Letter   - >  _ p 0 50 
+Letter   - >  _ q 0 50 
+Letter   - >  _ r 0 50 
+Letter   - >  _ s 0 50 
+Letter   - >  _ t 0 50 
+Letter   - >  _ u 0 50 
+Letter   - >  _ v 0 50 
+Letter   - >  _ w 0 50 
+Letter   - >  _ x 0 50 
+Letter   - >  _ y 0 50 
+Letter   - >  _ z 0 50 
+Letter   - >  _ A 0 50 
+Letter   - >  _ B 0 50 
+Letter   - >  _ C 0 50 
+Letter   - >  _ D 0 50 
+Letter   - >  _ E 0 50 
+Letter   - >  _ F 0 50 
+Letter   - >  _ G 0 50 
+Letter   - >  _ H 0 50 
+Letter   - >  _ I 0 50 
+Letter   - >  _ J 0 50 
+Letter   - >  _ K 0 50 
+Letter   - >  _ L 0 50 
+Letter   - >  _ M 0 50 
+Letter   - >  _ N 0 50 
+Letter   - >  _ O 0 50 
+Letter   - >  _ P 0 50 
+Letter   - >  _ Q 0 50 
+Letter   - >  _ R 0 50 
+Letter   - >  _ S 0 50 
+Letter   - >  _ T 0 50 
+Letter   - >  _ U 0 50 
+Letter   - >  _ V 0 50 
+Letter   - >  _ W 0 50 
+Letter   - >  _ X 0 50 
+Letter   - >  _ Y 0 50 
+Letter   - >  _ Z 0 50 
+Expr   - >  _ SimpleExpr 1 49 
+Expr   - >  _ SimpleExpr + Expr 1 49 
+Expr   - >  _ SimpleExpr - Expr 1 49 
+Expr   - >  _ SimpleExpr - Expr 3 47 
+Expr   - >  _ SimpleExpr + Expr 3 45 
+Expr   - >  _ SimpleExpr + Expr 3 43 
+SimpleExpr   - >  _ ( Expr ) 2 42 
+
+51 
+SimpleExpr   - >  _ ( Expr ) 3 42 
+Expr   - >  _ SimpleExpr 1 42 
+Expr   - >  _ SimpleExpr + Expr 1 42 
+Expr   - >  _ SimpleExpr - Expr 1 42 
+Op   - >  _ case Expr of Options end ; 2 41 
+
+52 
+Op   - >  _ case Expr of Options end ; 3 41 
+Options   - >  _ Const : Operators Options 0 52 
+Options   - >  _ Const : Operators 0 52 
+Const   - >  _ Digit 0 52 
+Const   - >  _ Digit Const 0 52 
+Digit   - >  _ 0 0 52 
+Digit   - >  _ 1 0 52 
+Digit   - >  _ 2 0 52 
+Digit   - >  _ 3 0 52 
+Digit   - >  _ 4 0 52 
+Digit   - >  _ 5 0 52 
+Digit   - >  _ 6 0 52 
+Digit   - >  _ 7 0 52 
+Digit   - >  _ 8 0 52 
+Digit   - >  _ 9 0 52 
+
+53 
+Digit   - >  _ 1 1 52 
+Const   - >  _ Digit 1 52 
+Const   - >  _ Digit Const 1 52 
+Const   - >  _ Digit 0 53 
+Const   - >  _ Digit Const 0 53 
+Options   - >  _ Const : Operators Options 1 52 
+Options   - >  _ Const : Operators 1 52 
+Digit   - >  _ 0 0 53 
+Digit   - >  _ 1 0 53 
+Digit   - >  _ 2 0 53 
+Digit   - >  _ 3 0 53 
+Digit   - >  _ 4 0 53 
+Digit   - >  _ 5 0 53 
+Digit   - >  _ 6 0 53 
+Digit   - >  _ 7 0 53 
+Digit   - >  _ 8 0 53 
+Digit   - >  _ 9 0 53 
+
+54 
+Options   - >  _ Const : Operators Options 2 52 
+Options   - >  _ Const : Operators 2 52 
+Operators   - >  _ Op 0 54 
+Operators   - >  _ Op Operators 0 54 
+Op   - >  _ Id := Expr ; 0 54 
+Op   - >  _ case Expr of Options end ; 0 54 
+Id   - >  _ Letter 0 54 
+Id   - >  _ Letter Id 0 54 
+Letter   - >  _ a 0 54 
+Letter   - >  _ b 0 54 
+Letter   - >  _ c 0 54 
+Letter   - >  _ d 0 54 
+Letter   - >  _ e 0 54 
+Letter   - >  _ f 0 54 
+Letter   - >  _ g 0 54 
+Letter   - >  _ h 0 54 
+Letter   - >  _ i 0 54 
+Letter   - >  _ j 0 54 
+Letter   - >  _ k 0 54 
+Letter   - >  _ l 0 54 
+Letter   - >  _ m 0 54 
+Letter   - >  _ n 0 54 
+Letter   - >  _ o 0 54 
+Letter   - >  _ p 0 54 
+Letter   - >  _ q 0 54 
+Letter   - >  _ r 0 54 
+Letter   - >  _ s 0 54 
+Letter   - >  _ t 0 54 
+Letter   - >  _ u 0 54 
+Letter   - >  _ v 0 54 
+Letter   - >  _ w 0 54 
+Letter   - >  _ x 0 54 
+Letter   - >  _ y 0 54 
+Letter   - >  _ z 0 54 
+Letter   - >  _ A 0 54 
+Letter   - >  _ B 0 54 
+Letter   - >  _ C 0 54 
+Letter   - >  _ D 0 54 
+Letter   - >  _ E 0 54 
+Letter   - >  _ F 0 54 
+Letter   - >  _ G 0 54 
+Letter   - >  _ H 0 54 
+Letter   - >  _ I 0 54 
+Letter   - >  _ J 0 54 
+Letter   - >  _ K 0 54 
+Letter   - >  _ L 0 54 
+Letter   - >  _ M 0 54 
+Letter   - >  _ N 0 54 
+Letter   - >  _ O 0 54 
+Letter   - >  _ P 0 54 
+Letter   - >  _ Q 0 54 
+Letter   - >  _ R 0 54 
+Letter   - >  _ S 0 54 
+Letter   - >  _ T 0 54 
+Letter   - >  _ U 0 54 
+Letter   - >  _ V 0 54 
+Letter   - >  _ W 0 54 
+Letter   - >  _ X 0 54 
+Letter   - >  _ Y 0 54 
+Letter   - >  _ Z 0 54 
+
+55 
+Letter   - >  _ c 1 54 
+Id   - >  _ Letter 1 54 
+Id   - >  _ Letter Id 1 54 
+Id   - >  _ Letter 0 55 
+Id   - >  _ Letter Id 0 55 
+Op   - >  _ Id := Expr ; 1 54 
+Letter   - >  _ a 0 55 
+Letter   - >  _ b 0 55 
+Letter   - >  _ c 0 55 
+Letter   - >  _ d 0 55 
+Letter   - >  _ e 0 55 
+Letter   - >  _ f 0 55 
+Letter   - >  _ g 0 55 
+Letter   - >  _ h 0 55 
+Letter   - >  _ i 0 55 
+Letter   - >  _ j 0 55 
+Letter   - >  _ k 0 55 
+Letter   - >  _ l 0 55 
+Letter   - >  _ m 0 55 
+Letter   - >  _ n 0 55 
+Letter   - >  _ o 0 55 
+Letter   - >  _ p 0 55 
+Letter   - >  _ q 0 55 
+Letter   - >  _ r 0 55 
+Letter   - >  _ s 0 55 
+Letter   - >  _ t 0 55 
+Letter   - >  _ u 0 55 
+Letter   - >  _ v 0 55 
+Letter   - >  _ w 0 55 
+Letter   - >  _ x 0 55 
+Letter   - >  _ y 0 55 
+Letter   - >  _ z 0 55 
+Letter   - >  _ A 0 55 
+Letter   - >  _ B 0 55 
+Letter   - >  _ C 0 55 
+Letter   - >  _ D 0 55 
+Letter   - >  _ E 0 55 
+Letter   - >  _ F 0 55 
+Letter   - >  _ G 0 55 
+Letter   - >  _ H 0 55 
+Letter   - >  _ I 0 55 
+Letter   - >  _ J 0 55 
+Letter   - >  _ K 0 55 
+Letter   - >  _ L 0 55 
+Letter   - >  _ M 0 55 
+Letter   - >  _ N 0 55 
+Letter   - >  _ O 0 55 
+Letter   - >  _ P 0 55 
+Letter   - >  _ Q 0 55 
+Letter   - >  _ R 0 55 
+Letter   - >  _ S 0 55 
+Letter   - >  _ T 0 55 
+Letter   - >  _ U 0 55 
+Letter   - >  _ V 0 55 
+Letter   - >  _ W 0 55 
+Letter   - >  _ X 0 55 
+Letter   - >  _ Y 0 55 
+Letter   - >  _ Z 0 55 
+
+56 
+Op   - >  _ Id := Expr ; 2 54 
+Expr   - >  _ SimpleExpr 0 56 
+Expr   - >  _ SimpleExpr + Expr 0 56 
+Expr   - >  _ SimpleExpr - Expr 0 56 
+SimpleExpr   - >  _ Id 0 56 
+SimpleExpr   - >  _ Const 0 56 
+SimpleExpr   - >  _ ( Expr ) 0 56 
+Id   - >  _ Letter 0 56 
+Id   - >  _ Letter Id 0 56 
+Const   - >  _ Digit 0 56 
+Const   - >  _ Digit Const 0 56 
+Letter   - >  _ a 0 56 
+Letter   - >  _ b 0 56 
+Letter   - >  _ c 0 56 
+Letter   - >  _ d 0 56 
+Letter   - >  _ e 0 56 
+Letter   - >  _ f 0 56 
+Letter   - >  _ g 0 56 
+Letter   - >  _ h 0 56 
+Letter   - >  _ i 0 56 
+Letter   - >  _ j 0 56 
+Letter   - >  _ k 0 56 
+Letter   - >  _ l 0 56 
+Letter   - >  _ m 0 56 
+Letter   - >  _ n 0 56 
+Letter   - >  _ o 0 56 
+Letter   - >  _ p 0 56 
+Letter   - >  _ q 0 56 
+Letter   - >  _ r 0 56 
+Letter   - >  _ s 0 56 
+Letter   - >  _ t 0 56 
+Letter   - >  _ u 0 56 
+Letter   - >  _ v 0 56 
+Letter   - >  _ w 0 56 
+Letter   - >  _ x 0 56 
+Letter   - >  _ y 0 56 
+Letter   - >  _ z 0 56 
+Letter   - >  _ A 0 56 
+Letter   - >  _ B 0 56 
+Letter   - >  _ C 0 56 
+Letter   - >  _ D 0 56 
+Letter   - >  _ E 0 56 
+Letter   - >  _ F 0 56 
+Letter   - >  _ G 0 56 
+Letter   - >  _ H 0 56 
+Letter   - >  _ I 0 56 
+Letter   - >  _ J 0 56 
+Letter   - >  _ K 0 56 
+Letter   - >  _ L 0 56 
+Letter   - >  _ M 0 56 
+Letter   - >  _ N 0 56 
+Letter   - >  _ O 0 56 
+Letter   - >  _ P 0 56 
+Letter   - >  _ Q 0 56 
+Letter   - >  _ R 0 56 
+Letter   - >  _ S 0 56 
+Letter   - >  _ T 0 56 
+Letter   - >  _ U 0 56 
+Letter   - >  _ V 0 56 
+Letter   - >  _ W 0 56 
+Letter   - >  _ X 0 56 
+Letter   - >  _ Y 0 56 
+Letter   - >  _ Z 0 56 
+Digit   - >  _ 0 0 56 
+Digit   - >  _ 1 0 56 
+Digit   - >  _ 2 0 56 
+Digit   - >  _ 3 0 56 
+Digit   - >  _ 4 0 56 
+Digit   - >  _ 5 0 56 
+Digit   - >  _ 6 0 56 
+Digit   - >  _ 7 0 56 
+Digit   - >  _ 8 0 56 
+Digit   - >  _ 9 0 56 
+
+57 
+SimpleExpr   - >  _ ( Expr ) 1 56 
+Expr   - >  _ SimpleExpr 0 57 
+Expr   - >  _ SimpleExpr + Expr 0 57 
+Expr   - >  _ SimpleExpr - Expr 0 57 
+SimpleExpr   - >  _ Id 0 57 
+SimpleExpr   - >  _ Const 0 57 
+SimpleExpr   - >  _ ( Expr ) 0 57 
+Id   - >  _ Letter 0 57 
+Id   - >  _ Letter Id 0 57 
+Const   - >  _ Digit 0 57 
+Const   - >  _ Digit Const 0 57 
+Letter   - >  _ a 0 57 
+Letter   - >  _ b 0 57 
+Letter   - >  _ c 0 57 
+Letter   - >  _ d 0 57 
+Letter   - >  _ e 0 57 
+Letter   - >  _ f 0 57 
+Letter   - >  _ g 0 57 
+Letter   - >  _ h 0 57 
+Letter   - >  _ i 0 57 
+Letter   - >  _ j 0 57 
+Letter   - >  _ k 0 57 
+Letter   - >  _ l 0 57 
+Letter   - >  _ m 0 57 
+Letter   - >  _ n 0 57 
+Letter   - >  _ o 0 57 
+Letter   - >  _ p 0 57 
+Letter   - >  _ q 0 57 
+Letter   - >  _ r 0 57 
+Letter   - >  _ s 0 57 
+Letter   - >  _ t 0 57 
+Letter   - >  _ u 0 57 
+Letter   - >  _ v 0 57 
+Letter   - >  _ w 0 57 
+Letter   - >  _ x 0 57 
+Letter   - >  _ y 0 57 
+Letter   - >  _ z 0 57 
+Letter   - >  _ A 0 57 
+Letter   - >  _ B 0 57 
+Letter   - >  _ C 0 57 
+Letter   - >  _ D 0 57 
+Letter   - >  _ E 0 57 
+Letter   - >  _ F 0 57 
+Letter   - >  _ G 0 57 
+Letter   - >  _ H 0 57 
+Letter   - >  _ I 0 57 
+Letter   - >  _ J 0 57 
+Letter   - >  _ K 0 57 
+Letter   - >  _ L 0 57 
+Letter   - >  _ M 0 57 
+Letter   - >  _ N 0 57 
+Letter   - >  _ O 0 57 
+Letter   - >  _ P 0 57 
+Letter   - >  _ Q 0 57 
+Letter   - >  _ R 0 57 
+Letter   - >  _ S 0 57 
+Letter   - >  _ T 0 57 
+Letter   - >  _ U 0 57 
+Letter   - >  _ V 0 57 
+Letter   - >  _ W 0 57 
+Letter   - >  _ X 0 57 
+Letter   - >  _ Y 0 57 
+Letter   - >  _ Z 0 57 
+Digit   - >  _ 0 0 57 
+Digit   - >  _ 1 0 57 
+Digit   - >  _ 2 0 57 
+Digit   - >  _ 3 0 57 
+Digit   - >  _ 4 0 57 
+Digit   - >  _ 5 0 57 
+Digit   - >  _ 6 0 57 
+Digit   - >  _ 7 0 57 
+Digit   - >  _ 8 0 57 
+Digit   - >  _ 9 0 57 
+
+58 
+Letter   - >  _ a 1 57 
+Id   - >  _ Letter 1 57 
+Id   - >  _ Letter Id 1 57 
+Id   - >  _ Letter 0 58 
+Id   - >  _ Letter Id 0 58 
+SimpleExpr   - >  _ Id 1 57 
+Letter   - >  _ a 0 58 
+Letter   - >  _ b 0 58 
+Letter   - >  _ c 0 58 
+Letter   - >  _ d 0 58 
+Letter   - >  _ e 0 58 
+Letter   - >  _ f 0 58 
+Letter   - >  _ g 0 58 
+Letter   - >  _ h 0 58 
+Letter   - >  _ i 0 58 
+Letter   - >  _ j 0 58 
+Letter   - >  _ k 0 58 
+Letter   - >  _ l 0 58 
+Letter   - >  _ m 0 58 
+Letter   - >  _ n 0 58 
+Letter   - >  _ o 0 58 
+Letter   - >  _ p 0 58 
+Letter   - >  _ q 0 58 
+Letter   - >  _ r 0 58 
+Letter   - >  _ s 0 58 
+Letter   - >  _ t 0 58 
+Letter   - >  _ u 0 58 
+Letter   - >  _ v 0 58 
+Letter   - >  _ w 0 58 
+Letter   - >  _ x 0 58 
+Letter   - >  _ y 0 58 
+Letter   - >  _ z 0 58 
+Letter   - >  _ A 0 58 
+Letter   - >  _ B 0 58 
+Letter   - >  _ C 0 58 
+Letter   - >  _ D 0 58 
+Letter   - >  _ E 0 58 
+Letter   - >  _ F 0 58 
+Letter   - >  _ G 0 58 
+Letter   - >  _ H 0 58 
+Letter   - >  _ I 0 58 
+Letter   - >  _ J 0 58 
+Letter   - >  _ K 0 58 
+Letter   - >  _ L 0 58 
+Letter   - >  _ M 0 58 
+Letter   - >  _ N 0 58 
+Letter   - >  _ O 0 58 
+Letter   - >  _ P 0 58 
+Letter   - >  _ Q 0 58 
+Letter   - >  _ R 0 58 
+Letter   - >  _ S 0 58 
+Letter   - >  _ T 0 58 
+Letter   - >  _ U 0 58 
+Letter   - >  _ V 0 58 
+Letter   - >  _ W 0 58 
+Letter   - >  _ X 0 58 
+Letter   - >  _ Y 0 58 
+Letter   - >  _ Z 0 58 
+Expr   - >  _ SimpleExpr 1 57 
+Expr   - >  _ SimpleExpr + Expr 1 57 
+Expr   - >  _ SimpleExpr - Expr 1 57 
+SimpleExpr   - >  _ ( Expr ) 2 56 
+
+59 
+Expr   - >  _ SimpleExpr + Expr 2 57 
+Expr   - >  _ SimpleExpr 0 59 
+Expr   - >  _ SimpleExpr + Expr 0 59 
+Expr   - >  _ SimpleExpr - Expr 0 59 
+SimpleExpr   - >  _ Id 0 59 
+SimpleExpr   - >  _ Const 0 59 
+SimpleExpr   - >  _ ( Expr ) 0 59 
+Id   - >  _ Letter 0 59 
+Id   - >  _ Letter Id 0 59 
+Const   - >  _ Digit 0 59 
+Const   - >  _ Digit Const 0 59 
+Letter   - >  _ a 0 59 
+Letter   - >  _ b 0 59 
+Letter   - >  _ c 0 59 
+Letter   - >  _ d 0 59 
+Letter   - >  _ e 0 59 
+Letter   - >  _ f 0 59 
+Letter   - >  _ g 0 59 
+Letter   - >  _ h 0 59 
+Letter   - >  _ i 0 59 
+Letter   - >  _ j 0 59 
+Letter   - >  _ k 0 59 
+Letter   - >  _ l 0 59 
+Letter   - >  _ m 0 59 
+Letter   - >  _ n 0 59 
+Letter   - >  _ o 0 59 
+Letter   - >  _ p 0 59 
+Letter   - >  _ q 0 59 
+Letter   - >  _ r 0 59 
+Letter   - >  _ s 0 59 
+Letter   - >  _ t 0 59 
+Letter   - >  _ u 0 59 
+Letter   - >  _ v 0 59 
+Letter   - >  _ w 0 59 
+Letter   - >  _ x 0 59 
+Letter   - >  _ y 0 59 
+Letter   - >  _ z 0 59 
+Letter   - >  _ A 0 59 
+Letter   - >  _ B 0 59 
+Letter   - >  _ C 0 59 
+Letter   - >  _ D 0 59 
+Letter   - >  _ E 0 59 
+Letter   - >  _ F 0 59 
+Letter   - >  _ G 0 59 
+Letter   - >  _ H 0 59 
+Letter   - >  _ I 0 59 
+Letter   - >  _ J 0 59 
+Letter   - >  _ K 0 59 
+Letter   - >  _ L 0 59 
+Letter   - >  _ M 0 59 
+Letter   - >  _ N 0 59 
+Letter   - >  _ O 0 59 
+Letter   - >  _ P 0 59 
+Letter   - >  _ Q 0 59 
+Letter   - >  _ R 0 59 
+Letter   - >  _ S 0 59 
+Letter   - >  _ T 0 59 
+Letter   - >  _ U 0 59 
+Letter   - >  _ V 0 59 
+Letter   - >  _ W 0 59 
+Letter   - >  _ X 0 59 
+Letter   - >  _ Y 0 59 
+Letter   - >  _ Z 0 59 
+Digit   - >  _ 0 0 59 
+Digit   - >  _ 1 0 59 
+Digit   - >  _ 2 0 59 
+Digit   - >  _ 3 0 59 
+Digit   - >  _ 4 0 59 
+Digit   - >  _ 5 0 59 
+Digit   - >  _ 6 0 59 
+Digit   - >  _ 7 0 59 
+Digit   - >  _ 8 0 59 
+Digit   - >  _ 9 0 59 
+
+60 
+Digit   - >  _ 2 1 59 
+Const   - >  _ Digit 1 59 
+Const   - >  _ Digit Const 1 59 
+Const   - >  _ Digit 0 60 
+Const   - >  _ Digit Const 0 60 
+SimpleExpr   - >  _ Const 1 59 
+Digit   - >  _ 0 0 60 
+Digit   - >  _ 1 0 60 
+Digit   - >  _ 2 0 60 
+Digit   - >  _ 3 0 60 
+Digit   - >  _ 4 0 60 
+Digit   - >  _ 5 0 60 
+Digit   - >  _ 6 0 60 
+Digit   - >  _ 7 0 60 
+Digit   - >  _ 8 0 60 
+Digit   - >  _ 9 0 60 
+Expr   - >  _ SimpleExpr 1 59 
+Expr   - >  _ SimpleExpr + Expr 1 59 
+Expr   - >  _ SimpleExpr - Expr 1 59 
+Expr   - >  _ SimpleExpr + Expr 3 57 
+SimpleExpr   - >  _ ( Expr ) 2 56 
+
+61 
+Expr   - >  _ SimpleExpr - Expr 2 59 
+Expr   - >  _ SimpleExpr 0 61 
+Expr   - >  _ SimpleExpr + Expr 0 61 
+Expr   - >  _ SimpleExpr - Expr 0 61 
+SimpleExpr   - >  _ Id 0 61 
+SimpleExpr   - >  _ Const 0 61 
+SimpleExpr   - >  _ ( Expr ) 0 61 
+Id   - >  _ Letter 0 61 
+Id   - >  _ Letter Id 0 61 
+Const   - >  _ Digit 0 61 
+Const   - >  _ Digit Const 0 61 
+Letter   - >  _ a 0 61 
+Letter   - >  _ b 0 61 
+Letter   - >  _ c 0 61 
+Letter   - >  _ d 0 61 
+Letter   - >  _ e 0 61 
+Letter   - >  _ f 0 61 
+Letter   - >  _ g 0 61 
+Letter   - >  _ h 0 61 
+Letter   - >  _ i 0 61 
+Letter   - >  _ j 0 61 
+Letter   - >  _ k 0 61 
+Letter   - >  _ l 0 61 
+Letter   - >  _ m 0 61 
+Letter   - >  _ n 0 61 
+Letter   - >  _ o 0 61 
+Letter   - >  _ p 0 61 
+Letter   - >  _ q 0 61 
+Letter   - >  _ r 0 61 
+Letter   - >  _ s 0 61 
+Letter   - >  _ t 0 61 
+Letter   - >  _ u 0 61 
+Letter   - >  _ v 0 61 
+Letter   - >  _ w 0 61 
+Letter   - >  _ x 0 61 
+Letter   - >  _ y 0 61 
+Letter   - >  _ z 0 61 
+Letter   - >  _ A 0 61 
+Letter   - >  _ B 0 61 
+Letter   - >  _ C 0 61 
+Letter   - >  _ D 0 61 
+Letter   - >  _ E 0 61 
+Letter   - >  _ F 0 61 
+Letter   - >  _ G 0 61 
+Letter   - >  _ H 0 61 
+Letter   - >  _ I 0 61 
+Letter   - >  _ J 0 61 
+Letter   - >  _ K 0 61 
+Letter   - >  _ L 0 61 
+Letter   - >  _ M 0 61 
+Letter   - >  _ N 0 61 
+Letter   - >  _ O 0 61 
+Letter   - >  _ P 0 61 
+Letter   - >  _ Q 0 61 
+Letter   - >  _ R 0 61 
+Letter   - >  _ S 0 61 
+Letter   - >  _ T 0 61 
+Letter   - >  _ U 0 61 
+Letter   - >  _ V 0 61 
+Letter   - >  _ W 0 61 
+Letter   - >  _ X 0 61 
+Letter   - >  _ Y 0 61 
+Letter   - >  _ Z 0 61 
+Digit   - >  _ 0 0 61 
+Digit   - >  _ 1 0 61 
+Digit   - >  _ 2 0 61 
+Digit   - >  _ 3 0 61 
+Digit   - >  _ 4 0 61 
+Digit   - >  _ 5 0 61 
+Digit   - >  _ 6 0 61 
+Digit   - >  _ 7 0 61 
+Digit   - >  _ 8 0 61 
+Digit   - >  _ 9 0 61 
+
+62 
+SimpleExpr   - >  _ ( Expr ) 1 61 
+Expr   - >  _ SimpleExpr 0 62 
+Expr   - >  _ SimpleExpr + Expr 0 62 
+Expr   - >  _ SimpleExpr - Expr 0 62 
+SimpleExpr   - >  _ Id 0 62 
+SimpleExpr   - >  _ Const 0 62 
+SimpleExpr   - >  _ ( Expr ) 0 62 
+Id   - >  _ Letter 0 62 
+Id   - >  _ Letter Id 0 62 
+Const   - >  _ Digit 0 62 
+Const   - >  _ Digit Const 0 62 
+Letter   - >  _ a 0 62 
+Letter   - >  _ b 0 62 
+Letter   - >  _ c 0 62 
+Letter   - >  _ d 0 62 
+Letter   - >  _ e 0 62 
+Letter   - >  _ f 0 62 
+Letter   - >  _ g 0 62 
+Letter   - >  _ h 0 62 
+Letter   - >  _ i 0 62 
+Letter   - >  _ j 0 62 
+Letter   - >  _ k 0 62 
+Letter   - >  _ l 0 62 
+Letter   - >  _ m 0 62 
+Letter   - >  _ n 0 62 
+Letter   - >  _ o 0 62 
+Letter   - >  _ p 0 62 
+Letter   - >  _ q 0 62 
+Letter   - >  _ r 0 62 
+Letter   - >  _ s 0 62 
+Letter   - >  _ t 0 62 
+Letter   - >  _ u 0 62 
+Letter   - >  _ v 0 62 
+Letter   - >  _ w 0 62 
+Letter   - >  _ x 0 62 
+Letter   - >  _ y 0 62 
+Letter   - >  _ z 0 62 
+Letter   - >  _ A 0 62 
+Letter   - >  _ B 0 62 
+Letter   - >  _ C 0 62 
+Letter   - >  _ D 0 62 
+Letter   - >  _ E 0 62 
+Letter   - >  _ F 0 62 
+Letter   - >  _ G 0 62 
+Letter   - >  _ H 0 62 
+Letter   - >  _ I 0 62 
+Letter   - >  _ J 0 62 
+Letter   - >  _ K 0 62 
+Letter   - >  _ L 0 62 
+Letter   - >  _ M 0 62 
+Letter   - >  _ N 0 62 
+Letter   - >  _ O 0 62 
+Letter   - >  _ P 0 62 
+Letter   - >  _ Q 0 62 
+Letter   - >  _ R 0 62 
+Letter   - >  _ S 0 62 
+Letter   - >  _ T 0 62 
+Letter   - >  _ U 0 62 
+Letter   - >  _ V 0 62 
+Letter   - >  _ W 0 62 
+Letter   - >  _ X 0 62 
+Letter   - >  _ Y 0 62 
+Letter   - >  _ Z 0 62 
+Digit   - >  _ 0 0 62 
+Digit   - >  _ 1 0 62 
+Digit   - >  _ 2 0 62 
+Digit   - >  _ 3 0 62 
+Digit   - >  _ 4 0 62 
+Digit   - >  _ 5 0 62 
+Digit   - >  _ 6 0 62 
+Digit   - >  _ 7 0 62 
+Digit   - >  _ 8 0 62 
+Digit   - >  _ 9 0 62 
+
+63 
+Letter   - >  _ a 1 62 
+Id   - >  _ Letter 1 62 
+Id   - >  _ Letter Id 1 62 
+Id   - >  _ Letter 0 63 
+Id   - >  _ Letter Id 0 63 
+SimpleExpr   - >  _ Id 1 62 
+Letter   - >  _ a 0 63 
+Letter   - >  _ b 0 63 
+Letter   - >  _ c 0 63 
+Letter   - >  _ d 0 63 
+Letter   - >  _ e 0 63 
+Letter   - >  _ f 0 63 
+Letter   - >  _ g 0 63 
+Letter   - >  _ h 0 63 
+Letter   - >  _ i 0 63 
+Letter   - >  _ j 0 63 
+Letter   - >  _ k 0 63 
+Letter   - >  _ l 0 63 
+Letter   - >  _ m 0 63 
+Letter   - >  _ n 0 63 
+Letter   - >  _ o 0 63 
+Letter   - >  _ p 0 63 
+Letter   - >  _ q 0 63 
+Letter   - >  _ r 0 63 
+Letter   - >  _ s 0 63 
+Letter   - >  _ t 0 63 
+Letter   - >  _ u 0 63 
+Letter   - >  _ v 0 63 
+Letter   - >  _ w 0 63 
+Letter   - >  _ x 0 63 
+Letter   - >  _ y 0 63 
+Letter   - >  _ z 0 63 
+Letter   - >  _ A 0 63 
+Letter   - >  _ B 0 63 
+Letter   - >  _ C 0 63 
+Letter   - >  _ D 0 63 
+Letter   - >  _ E 0 63 
+Letter   - >  _ F 0 63 
+Letter   - >  _ G 0 63 
+Letter   - >  _ H 0 63 
+Letter   - >  _ I 0 63 
+Letter   - >  _ J 0 63 
+Letter   - >  _ K 0 63 
+Letter   - >  _ L 0 63 
+Letter   - >  _ M 0 63 
+Letter   - >  _ N 0 63 
+Letter   - >  _ O 0 63 
+Letter   - >  _ P 0 63 
+Letter   - >  _ Q 0 63 
+Letter   - >  _ R 0 63 
+Letter   - >  _ S 0 63 
+Letter   - >  _ T 0 63 
+Letter   - >  _ U 0 63 
+Letter   - >  _ V 0 63 
+Letter   - >  _ W 0 63 
+Letter   - >  _ X 0 63 
+Letter   - >  _ Y 0 63 
+Letter   - >  _ Z 0 63 
+Expr   - >  _ SimpleExpr 1 62 
+Expr   - >  _ SimpleExpr + Expr 1 62 
+Expr   - >  _ SimpleExpr - Expr 1 62 
+SimpleExpr   - >  _ ( Expr ) 2 61 
+
+64 
+Expr   - >  _ SimpleExpr - Expr 2 62 
+Expr   - >  _ SimpleExpr 0 64 
+Expr   - >  _ SimpleExpr + Expr 0 64 
+Expr   - >  _ SimpleExpr - Expr 0 64 
+SimpleExpr   - >  _ Id 0 64 
+SimpleExpr   - >  _ Const 0 64 
+SimpleExpr   - >  _ ( Expr ) 0 64 
+Id   - >  _ Letter 0 64 
+Id   - >  _ Letter Id 0 64 
+Const   - >  _ Digit 0 64 
+Const   - >  _ Digit Const 0 64 
+Letter   - >  _ a 0 64 
+Letter   - >  _ b 0 64 
+Letter   - >  _ c 0 64 
+Letter   - >  _ d 0 64 
+Letter   - >  _ e 0 64 
+Letter   - >  _ f 0 64 
+Letter   - >  _ g 0 64 
+Letter   - >  _ h 0 64 
+Letter   - >  _ i 0 64 
+Letter   - >  _ j 0 64 
+Letter   - >  _ k 0 64 
+Letter   - >  _ l 0 64 
+Letter   - >  _ m 0 64 
+Letter   - >  _ n 0 64 
+Letter   - >  _ o 0 64 
+Letter   - >  _ p 0 64 
+Letter   - >  _ q 0 64 
+Letter   - >  _ r 0 64 
+Letter   - >  _ s 0 64 
+Letter   - >  _ t 0 64 
+Letter   - >  _ u 0 64 
+Letter   - >  _ v 0 64 
+Letter   - >  _ w 0 64 
+Letter   - >  _ x 0 64 
+Letter   - >  _ y 0 64 
+Letter   - >  _ z 0 64 
+Letter   - >  _ A 0 64 
+Letter   - >  _ B 0 64 
+Letter   - >  _ C 0 64 
+Letter   - >  _ D 0 64 
+Letter   - >  _ E 0 64 
+Letter   - >  _ F 0 64 
+Letter   - >  _ G 0 64 
+Letter   - >  _ H 0 64 
+Letter   - >  _ I 0 64 
+Letter   - >  _ J 0 64 
+Letter   - >  _ K 0 64 
+Letter   - >  _ L 0 64 
+Letter   - >  _ M 0 64 
+Letter   - >  _ N 0 64 
+Letter   - >  _ O 0 64 
+Letter   - >  _ P 0 64 
+Letter   - >  _ Q 0 64 
+Letter   - >  _ R 0 64 
+Letter   - >  _ S 0 64 
+Letter   - >  _ T 0 64 
+Letter   - >  _ U 0 64 
+Letter   - >  _ V 0 64 
+Letter   - >  _ W 0 64 
+Letter   - >  _ X 0 64 
+Letter   - >  _ Y 0 64 
+Letter   - >  _ Z 0 64 
+Digit   - >  _ 0 0 64 
+Digit   - >  _ 1 0 64 
+Digit   - >  _ 2 0 64 
+Digit   - >  _ 3 0 64 
+Digit   - >  _ 4 0 64 
+Digit   - >  _ 5 0 64 
+Digit   - >  _ 6 0 64 
+Digit   - >  _ 7 0 64 
+Digit   - >  _ 8 0 64 
+Digit   - >  _ 9 0 64 
+
+65 
+Letter   - >  _ b 1 64 
+Id   - >  _ Letter 1 64 
+Id   - >  _ Letter Id 1 64 
+Id   - >  _ Letter 0 65 
+Id   - >  _ Letter Id 0 65 
+SimpleExpr   - >  _ Id 1 64 
+Letter   - >  _ a 0 65 
+Letter   - >  _ b 0 65 
+Letter   - >  _ c 0 65 
+Letter   - >  _ d 0 65 
+Letter   - >  _ e 0 65 
+Letter   - >  _ f 0 65 
+Letter   - >  _ g 0 65 
+Letter   - >  _ h 0 65 
+Letter   - >  _ i 0 65 
+Letter   - >  _ j 0 65 
+Letter   - >  _ k 0 65 
+Letter   - >  _ l 0 65 
+Letter   - >  _ m 0 65 
+Letter   - >  _ n 0 65 
+Letter   - >  _ o 0 65 
+Letter   - >  _ p 0 65 
+Letter   - >  _ q 0 65 
+Letter   - >  _ r 0 65 
+Letter   - >  _ s 0 65 
+Letter   - >  _ t 0 65 
+Letter   - >  _ u 0 65 
+Letter   - >  _ v 0 65 
+Letter   - >  _ w 0 65 
+Letter   - >  _ x 0 65 
+Letter   - >  _ y 0 65 
+Letter   - >  _ z 0 65 
+Letter   - >  _ A 0 65 
+Letter   - >  _ B 0 65 
+Letter   - >  _ C 0 65 
+Letter   - >  _ D 0 65 
+Letter   - >  _ E 0 65 
+Letter   - >  _ F 0 65 
+Letter   - >  _ G 0 65 
+Letter   - >  _ H 0 65 
+Letter   - >  _ I 0 65 
+Letter   - >  _ J 0 65 
+Letter   - >  _ K 0 65 
+Letter   - >  _ L 0 65 
+Letter   - >  _ M 0 65 
+Letter   - >  _ N 0 65 
+Letter   - >  _ O 0 65 
+Letter   - >  _ P 0 65 
+Letter   - >  _ Q 0 65 
+Letter   - >  _ R 0 65 
+Letter   - >  _ S 0 65 
+Letter   - >  _ T 0 65 
+Letter   - >  _ U 0 65 
+Letter   - >  _ V 0 65 
+Letter   - >  _ W 0 65 
+Letter   - >  _ X 0 65 
+Letter   - >  _ Y 0 65 
+Letter   - >  _ Z 0 65 
+Expr   - >  _ SimpleExpr 1 64 
+Expr   - >  _ SimpleExpr + Expr 1 64 
+Expr   - >  _ SimpleExpr - Expr 1 64 
+Expr   - >  _ SimpleExpr - Expr 3 62 
+SimpleExpr   - >  _ ( Expr ) 2 61 
+
+66 
+SimpleExpr   - >  _ ( Expr ) 3 61 
+Expr   - >  _ SimpleExpr 1 61 
+Expr   - >  _ SimpleExpr + Expr 1 61 
+Expr   - >  _ SimpleExpr - Expr 1 61 
+Expr   - >  _ SimpleExpr - Expr 3 59 
+Expr   - >  _ SimpleExpr + Expr 3 57 
+SimpleExpr   - >  _ ( Expr ) 2 56 
+
+67 
+SimpleExpr   - >  _ ( Expr ) 3 56 
+Expr   - >  _ SimpleExpr 1 56 
+Expr   - >  _ SimpleExpr + Expr 1 56 
+Expr   - >  _ SimpleExpr - Expr 1 56 
+Op   - >  _ Id := Expr ; 3 54 
+
+68 
+Op   - >  _ Id := Expr ; 4 54 
+Operators   - >  _ Op 1 54 
+Operators   - >  _ Op Operators 1 54 
+Operators   - >  _ Op 0 68 
+Operators   - >  _ Op Operators 0 68 
+Options   - >  _ Const : Operators Options 3 52 
+Options   - >  _ Const : Operators 3 52 
+Op   - >  _ Id := Expr ; 0 68 
+Op   - >  _ case Expr of Options end ; 0 68 
+Options   - >  _ Const : Operators Options 0 68 
+Options   - >  _ Const : Operators 0 68 
+Op   - >  _ case Expr of Options end ; 4 41 
+Id   - >  _ Letter 0 68 
+Id   - >  _ Letter Id 0 68 
+Const   - >  _ Digit 0 68 
+Const   - >  _ Digit Const 0 68 
+Letter   - >  _ a 0 68 
+Letter   - >  _ b 0 68 
+Letter   - >  _ c 0 68 
+Letter   - >  _ d 0 68 
+Letter   - >  _ e 0 68 
+Letter   - >  _ f 0 68 
+Letter   - >  _ g 0 68 
+Letter   - >  _ h 0 68 
+Letter   - >  _ i 0 68 
+Letter   - >  _ j 0 68 
+Letter   - >  _ k 0 68 
+Letter   - >  _ l 0 68 
+Letter   - >  _ m 0 68 
+Letter   - >  _ n 0 68 
+Letter   - >  _ o 0 68 
+Letter   - >  _ p 0 68 
+Letter   - >  _ q 0 68 
+Letter   - >  _ r 0 68 
+Letter   - >  _ s 0 68 
+Letter   - >  _ t 0 68 
+Letter   - >  _ u 0 68 
+Letter   - >  _ v 0 68 
+Letter   - >  _ w 0 68 
+Letter   - >  _ x 0 68 
+Letter   - >  _ y 0 68 
+Letter   - >  _ z 0 68 
+Letter   - >  _ A 0 68 
+Letter   - >  _ B 0 68 
+Letter   - >  _ C 0 68 
+Letter   - >  _ D 0 68 
+Letter   - >  _ E 0 68 
+Letter   - >  _ F 0 68 
+Letter   - >  _ G 0 68 
+Letter   - >  _ H 0 68 
+Letter   - >  _ I 0 68 
+Letter   - >  _ J 0 68 
+Letter   - >  _ K 0 68 
+Letter   - >  _ L 0 68 
+Letter   - >  _ M 0 68 
+Letter   - >  _ N 0 68 
+Letter   - >  _ O 0 68 
+Letter   - >  _ P 0 68 
+Letter   - >  _ Q 0 68 
+Letter   - >  _ R 0 68 
+Letter   - >  _ S 0 68 
+Letter   - >  _ T 0 68 
+Letter   - >  _ U 0 68 
+Letter   - >  _ V 0 68 
+Letter   - >  _ W 0 68 
+Letter   - >  _ X 0 68 
+Letter   - >  _ Y 0 68 
+Letter   - >  _ Z 0 68 
+Digit   - >  _ 0 0 68 
+Digit   - >  _ 1 0 68 
+Digit   - >  _ 2 0 68 
+Digit   - >  _ 3 0 68 
+Digit   - >  _ 4 0 68 
+Digit   - >  _ 5 0 68 
+Digit   - >  _ 6 0 68 
+Digit   - >  _ 7 0 68 
+Digit   - >  _ 8 0 68 
+Digit   - >  _ 9 0 68 
+
+69 
+Digit   - >  _ 2 1 68 
+Const   - >  _ Digit 1 68 
+Const   - >  _ Digit Const 1 68 
+Const   - >  _ Digit 0 69 
+Const   - >  _ Digit Const 0 69 
+Options   - >  _ Const : Operators Options 1 68 
+Options   - >  _ Const : Operators 1 68 
+Digit   - >  _ 0 0 69 
+Digit   - >  _ 1 0 69 
+Digit   - >  _ 2 0 69 
+Digit   - >  _ 3 0 69 
+Digit   - >  _ 4 0 69 
+Digit   - >  _ 5 0 69 
+Digit   - >  _ 6 0 69 
+Digit   - >  _ 7 0 69 
+Digit   - >  _ 8 0 69 
+Digit   - >  _ 9 0 69 
+
+70 
+Options   - >  _ Const : Operators Options 2 68 
+Options   - >  _ Const : Operators 2 68 
+Operators   - >  _ Op 0 70 
+Operators   - >  _ Op Operators 0 70 
+Op   - >  _ Id := Expr ; 0 70 
+Op   - >  _ case Expr of Options end ; 0 70 
+Id   - >  _ Letter 0 70 
+Id   - >  _ Letter Id 0 70 
+Letter   - >  _ a 0 70 
+Letter   - >  _ b 0 70 
+Letter   - >  _ c 0 70 
+Letter   - >  _ d 0 70 
+Letter   - >  _ e 0 70 
+Letter   - >  _ f 0 70 
+Letter   - >  _ g 0 70 
+Letter   - >  _ h 0 70 
+Letter   - >  _ i 0 70 
+Letter   - >  _ j 0 70 
+Letter   - >  _ k 0 70 
+Letter   - >  _ l 0 70 
+Letter   - >  _ m 0 70 
+Letter   - >  _ n 0 70 
+Letter   - >  _ o 0 70 
+Letter   - >  _ p 0 70 
+Letter   - >  _ q 0 70 
+Letter   - >  _ r 0 70 
+Letter   - >  _ s 0 70 
+Letter   - >  _ t 0 70 
+Letter   - >  _ u 0 70 
+Letter   - >  _ v 0 70 
+Letter   - >  _ w 0 70 
+Letter   - >  _ x 0 70 
+Letter   - >  _ y 0 70 
+Letter   - >  _ z 0 70 
+Letter   - >  _ A 0 70 
+Letter   - >  _ B 0 70 
+Letter   - >  _ C 0 70 
+Letter   - >  _ D 0 70 
+Letter   - >  _ E 0 70 
+Letter   - >  _ F 0 70 
+Letter   - >  _ G 0 70 
+Letter   - >  _ H 0 70 
+Letter   - >  _ I 0 70 
+Letter   - >  _ J 0 70 
+Letter   - >  _ K 0 70 
+Letter   - >  _ L 0 70 
+Letter   - >  _ M 0 70 
+Letter   - >  _ N 0 70 
+Letter   - >  _ O 0 70 
+Letter   - >  _ P 0 70 
+Letter   - >  _ Q 0 70 
+Letter   - >  _ R 0 70 
+Letter   - >  _ S 0 70 
+Letter   - >  _ T 0 70 
+Letter   - >  _ U 0 70 
+Letter   - >  _ V 0 70 
+Letter   - >  _ W 0 70 
+Letter   - >  _ X 0 70 
+Letter   - >  _ Y 0 70 
+Letter   - >  _ Z 0 70 
+
+71 
+Letter   - >  _ b 1 70 
+Id   - >  _ Letter 1 70 
+Id   - >  _ Letter Id 1 70 
+Id   - >  _ Letter 0 71 
+Id   - >  _ Letter Id 0 71 
+Op   - >  _ Id := Expr ; 1 70 
+Letter   - >  _ a 0 71 
+Letter   - >  _ b 0 71 
+Letter   - >  _ c 0 71 
+Letter   - >  _ d 0 71 
+Letter   - >  _ e 0 71 
+Letter   - >  _ f 0 71 
+Letter   - >  _ g 0 71 
+Letter   - >  _ h 0 71 
+Letter   - >  _ i 0 71 
+Letter   - >  _ j 0 71 
+Letter   - >  _ k 0 71 
+Letter   - >  _ l 0 71 
+Letter   - >  _ m 0 71 
+Letter   - >  _ n 0 71 
+Letter   - >  _ o 0 71 
+Letter   - >  _ p 0 71 
+Letter   - >  _ q 0 71 
+Letter   - >  _ r 0 71 
+Letter   - >  _ s 0 71 
+Letter   - >  _ t 0 71 
+Letter   - >  _ u 0 71 
+Letter   - >  _ v 0 71 
+Letter   - >  _ w 0 71 
+Letter   - >  _ x 0 71 
+Letter   - >  _ y 0 71 
+Letter   - >  _ z 0 71 
+Letter   - >  _ A 0 71 
+Letter   - >  _ B 0 71 
+Letter   - >  _ C 0 71 
+Letter   - >  _ D 0 71 
+Letter   - >  _ E 0 71 
+Letter   - >  _ F 0 71 
+Letter   - >  _ G 0 71 
+Letter   - >  _ H 0 71 
+Letter   - >  _ I 0 71 
+Letter   - >  _ J 0 71 
+Letter   - >  _ K 0 71 
+Letter   - >  _ L 0 71 
+Letter   - >  _ M 0 71 
+Letter   - >  _ N 0 71 
+Letter   - >  _ O 0 71 
+Letter   - >  _ P 0 71 
+Letter   - >  _ Q 0 71 
+Letter   - >  _ R 0 71 
+Letter   - >  _ S 0 71 
+Letter   - >  _ T 0 71 
+Letter   - >  _ U 0 71 
+Letter   - >  _ V 0 71 
+Letter   - >  _ W 0 71 
+Letter   - >  _ X 0 71 
+Letter   - >  _ Y 0 71 
+Letter   - >  _ Z 0 71 
+
+72 
+Op   - >  _ Id := Expr ; 2 70 
+Expr   - >  _ SimpleExpr 0 72 
+Expr   - >  _ SimpleExpr + Expr 0 72 
+Expr   - >  _ SimpleExpr - Expr 0 72 
+SimpleExpr   - >  _ Id 0 72 
+SimpleExpr   - >  _ Const 0 72 
+SimpleExpr   - >  _ ( Expr ) 0 72 
+Id   - >  _ Letter 0 72 
+Id   - >  _ Letter Id 0 72 
+Const   - >  _ Digit 0 72 
+Const   - >  _ Digit Const 0 72 
+Letter   - >  _ a 0 72 
+Letter   - >  _ b 0 72 
+Letter   - >  _ c 0 72 
+Letter   - >  _ d 0 72 
+Letter   - >  _ e 0 72 
+Letter   - >  _ f 0 72 
+Letter   - >  _ g 0 72 
+Letter   - >  _ h 0 72 
+Letter   - >  _ i 0 72 
+Letter   - >  _ j 0 72 
+Letter   - >  _ k 0 72 
+Letter   - >  _ l 0 72 
+Letter   - >  _ m 0 72 
+Letter   - >  _ n 0 72 
+Letter   - >  _ o 0 72 
+Letter   - >  _ p 0 72 
+Letter   - >  _ q 0 72 
+Letter   - >  _ r 0 72 
+Letter   - >  _ s 0 72 
+Letter   - >  _ t 0 72 
+Letter   - >  _ u 0 72 
+Letter   - >  _ v 0 72 
+Letter   - >  _ w 0 72 
+Letter   - >  _ x 0 72 
+Letter   - >  _ y 0 72 
+Letter   - >  _ z 0 72 
+Letter   - >  _ A 0 72 
+Letter   - >  _ B 0 72 
+Letter   - >  _ C 0 72 
+Letter   - >  _ D 0 72 
+Letter   - >  _ E 0 72 
+Letter   - >  _ F 0 72 
+Letter   - >  _ G 0 72 
+Letter   - >  _ H 0 72 
+Letter   - >  _ I 0 72 
+Letter   - >  _ J 0 72 
+Letter   - >  _ K 0 72 
+Letter   - >  _ L 0 72 
+Letter   - >  _ M 0 72 
+Letter   - >  _ N 0 72 
+Letter   - >  _ O 0 72 
+Letter   - >  _ P 0 72 
+Letter   - >  _ Q 0 72 
+Letter   - >  _ R 0 72 
+Letter   - >  _ S 0 72 
+Letter   - >  _ T 0 72 
+Letter   - >  _ U 0 72 
+Letter   - >  _ V 0 72 
+Letter   - >  _ W 0 72 
+Letter   - >  _ X 0 72 
+Letter   - >  _ Y 0 72 
+Letter   - >  _ Z 0 72 
+Digit   - >  _ 0 0 72 
+Digit   - >  _ 1 0 72 
+Digit   - >  _ 2 0 72 
+Digit   - >  _ 3 0 72 
+Digit   - >  _ 4 0 72 
+Digit   - >  _ 5 0 72 
+Digit   - >  _ 6 0 72 
+Digit   - >  _ 7 0 72 
+Digit   - >  _ 8 0 72 
+Digit   - >  _ 9 0 72 
+
+73 
+Digit   - >  _ 2 1 72 
+Const   - >  _ Digit 1 72 
+Const   - >  _ Digit Const 1 72 
+Const   - >  _ Digit 0 73 
+Const   - >  _ Digit Const 0 73 
+SimpleExpr   - >  _ Const 1 72 
+Digit   - >  _ 0 0 73 
+Digit   - >  _ 1 0 73 
+Digit   - >  _ 2 0 73 
+Digit   - >  _ 3 0 73 
+Digit   - >  _ 4 0 73 
+Digit   - >  _ 5 0 73 
+Digit   - >  _ 6 0 73 
+Digit   - >  _ 7 0 73 
+Digit   - >  _ 8 0 73 
+Digit   - >  _ 9 0 73 
+Expr   - >  _ SimpleExpr 1 72 
+Expr   - >  _ SimpleExpr + Expr 1 72 
+Expr   - >  _ SimpleExpr - Expr 1 72 
+Op   - >  _ Id := Expr ; 3 70 
+
+74 
+Expr   - >  _ SimpleExpr + Expr 2 72 
+Expr   - >  _ SimpleExpr 0 74 
+Expr   - >  _ SimpleExpr + Expr 0 74 
+Expr   - >  _ SimpleExpr - Expr 0 74 
+SimpleExpr   - >  _ Id 0 74 
+SimpleExpr   - >  _ Const 0 74 
+SimpleExpr   - >  _ ( Expr ) 0 74 
+Id   - >  _ Letter 0 74 
+Id   - >  _ Letter Id 0 74 
+Const   - >  _ Digit 0 74 
+Const   - >  _ Digit Const 0 74 
+Letter   - >  _ a 0 74 
+Letter   - >  _ b 0 74 
+Letter   - >  _ c 0 74 
+Letter   - >  _ d 0 74 
+Letter   - >  _ e 0 74 
+Letter   - >  _ f 0 74 
+Letter   - >  _ g 0 74 
+Letter   - >  _ h 0 74 
+Letter   - >  _ i 0 74 
+Letter   - >  _ j 0 74 
+Letter   - >  _ k 0 74 
+Letter   - >  _ l 0 74 
+Letter   - >  _ m 0 74 
+Letter   - >  _ n 0 74 
+Letter   - >  _ o 0 74 
+Letter   - >  _ p 0 74 
+Letter   - >  _ q 0 74 
+Letter   - >  _ r 0 74 
+Letter   - >  _ s 0 74 
+Letter   - >  _ t 0 74 
+Letter   - >  _ u 0 74 
+Letter   - >  _ v 0 74 
+Letter   - >  _ w 0 74 
+Letter   - >  _ x 0 74 
+Letter   - >  _ y 0 74 
+Letter   - >  _ z 0 74 
+Letter   - >  _ A 0 74 
+Letter   - >  _ B 0 74 
+Letter   - >  _ C 0 74 
+Letter   - >  _ D 0 74 
+Letter   - >  _ E 0 74 
+Letter   - >  _ F 0 74 
+Letter   - >  _ G 0 74 
+Letter   - >  _ H 0 74 
+Letter   - >  _ I 0 74 
+Letter   - >  _ J 0 74 
+Letter   - >  _ K 0 74 
+Letter   - >  _ L 0 74 
+Letter   - >  _ M 0 74 
+Letter   - >  _ N 0 74 
+Letter   - >  _ O 0 74 
+Letter   - >  _ P 0 74 
+Letter   - >  _ Q 0 74 
+Letter   - >  _ R 0 74 
+Letter   - >  _ S 0 74 
+Letter   - >  _ T 0 74 
+Letter   - >  _ U 0 74 
+Letter   - >  _ V 0 74 
+Letter   - >  _ W 0 74 
+Letter   - >  _ X 0 74 
+Letter   - >  _ Y 0 74 
+Letter   - >  _ Z 0 74 
+Digit   - >  _ 0 0 74 
+Digit   - >  _ 1 0 74 
+Digit   - >  _ 2 0 74 
+Digit   - >  _ 3 0 74 
+Digit   - >  _ 4 0 74 
+Digit   - >  _ 5 0 74 
+Digit   - >  _ 6 0 74 
+Digit   - >  _ 7 0 74 
+Digit   - >  _ 8 0 74 
+Digit   - >  _ 9 0 74 
+
+75 
+Digit   - >  _ 1 1 74 
+Const   - >  _ Digit 1 74 
+Const   - >  _ Digit Const 1 74 
+Const   - >  _ Digit 0 75 
+Const   - >  _ Digit Const 0 75 
+SimpleExpr   - >  _ Const 1 74 
+Digit   - >  _ 0 0 75 
+Digit   - >  _ 1 0 75 
+Digit   - >  _ 2 0 75 
+Digit   - >  _ 3 0 75 
+Digit   - >  _ 4 0 75 
+Digit   - >  _ 5 0 75 
+Digit   - >  _ 6 0 75 
+Digit   - >  _ 7 0 75 
+Digit   - >  _ 8 0 75 
+Digit   - >  _ 9 0 75 
+Expr   - >  _ SimpleExpr 1 74 
+Expr   - >  _ SimpleExpr + Expr 1 74 
+Expr   - >  _ SimpleExpr - Expr 1 74 
+Expr   - >  _ SimpleExpr + Expr 3 72 
+Op   - >  _ Id := Expr ; 3 70 
+
+76 
+Op   - >  _ Id := Expr ; 4 70 
+Operators   - >  _ Op 1 70 
+Operators   - >  _ Op Operators 1 70 
+Operators   - >  _ Op 0 76 
+Operators   - >  _ Op Operators 0 76 
+Options   - >  _ Const : Operators Options 3 68 
+Options   - >  _ Const : Operators 3 68 
+Op   - >  _ Id := Expr ; 0 76 
+Op   - >  _ case Expr of Options end ; 0 76 
+Options   - >  _ Const : Operators Options 0 76 
+Options   - >  _ Const : Operators 0 76 
+Options   - >  _ Const : Operators Options 4 52 
+Id   - >  _ Letter 0 76 
+Id   - >  _ Letter Id 0 76 
+Const   - >  _ Digit 0 76 
+Const   - >  _ Digit Const 0 76 
+Op   - >  _ case Expr of Options end ; 4 41 
+Letter   - >  _ a 0 76 
+Letter   - >  _ b 0 76 
+Letter   - >  _ c 0 76 
+Letter   - >  _ d 0 76 
+Letter   - >  _ e 0 76 
+Letter   - >  _ f 0 76 
+Letter   - >  _ g 0 76 
+Letter   - >  _ h 0 76 
+Letter   - >  _ i 0 76 
+Letter   - >  _ j 0 76 
+Letter   - >  _ k 0 76 
+Letter   - >  _ l 0 76 
+Letter   - >  _ m 0 76 
+Letter   - >  _ n 0 76 
+Letter   - >  _ o 0 76 
+Letter   - >  _ p 0 76 
+Letter   - >  _ q 0 76 
+Letter   - >  _ r 0 76 
+Letter   - >  _ s 0 76 
+Letter   - >  _ t 0 76 
+Letter   - >  _ u 0 76 
+Letter   - >  _ v 0 76 
+Letter   - >  _ w 0 76 
+Letter   - >  _ x 0 76 
+Letter   - >  _ y 0 76 
+Letter   - >  _ z 0 76 
+Letter   - >  _ A 0 76 
+Letter   - >  _ B 0 76 
+Letter   - >  _ C 0 76 
+Letter   - >  _ D 0 76 
+Letter   - >  _ E 0 76 
+Letter   - >  _ F 0 76 
+Letter   - >  _ G 0 76 
+Letter   - >  _ H 0 76 
+Letter   - >  _ I 0 76 
+Letter   - >  _ J 0 76 
+Letter   - >  _ K 0 76 
+Letter   - >  _ L 0 76 
+Letter   - >  _ M 0 76 
+Letter   - >  _ N 0 76 
+Letter   - >  _ O 0 76 
+Letter   - >  _ P 0 76 
+Letter   - >  _ Q 0 76 
+Letter   - >  _ R 0 76 
+Letter   - >  _ S 0 76 
+Letter   - >  _ T 0 76 
+Letter   - >  _ U 0 76 
+Letter   - >  _ V 0 76 
+Letter   - >  _ W 0 76 
+Letter   - >  _ X 0 76 
+Letter   - >  _ Y 0 76 
+Letter   - >  _ Z 0 76 
+Digit   - >  _ 0 0 76 
+Digit   - >  _ 1 0 76 
+Digit   - >  _ 2 0 76 
+Digit   - >  _ 3 0 76 
+Digit   - >  _ 4 0 76 
+Digit   - >  _ 5 0 76 
+Digit   - >  _ 6 0 76 
+Digit   - >  _ 7 0 76 
+Digit   - >  _ 8 0 76 
+Digit   - >  _ 9 0 76 
+
+77 
+Op   - >  _ case Expr of Options end ; 1 76 
+Expr   - >  _ SimpleExpr 0 77 
+Expr   - >  _ SimpleExpr + Expr 0 77 
+Expr   - >  _ SimpleExpr - Expr 0 77 
+SimpleExpr   - >  _ Id 0 77 
+SimpleExpr   - >  _ Const 0 77 
+SimpleExpr   - >  _ ( Expr ) 0 77 
+Id   - >  _ Letter 0 77 
+Id   - >  _ Letter Id 0 77 
+Const   - >  _ Digit 0 77 
+Const   - >  _ Digit Const 0 77 
+Letter   - >  _ a 0 77 
+Letter   - >  _ b 0 77 
+Letter   - >  _ c 0 77 
+Letter   - >  _ d 0 77 
+Letter   - >  _ e 0 77 
+Letter   - >  _ f 0 77 
+Letter   - >  _ g 0 77 
+Letter   - >  _ h 0 77 
+Letter   - >  _ i 0 77 
+Letter   - >  _ j 0 77 
+Letter   - >  _ k 0 77 
+Letter   - >  _ l 0 77 
+Letter   - >  _ m 0 77 
+Letter   - >  _ n 0 77 
+Letter   - >  _ o 0 77 
+Letter   - >  _ p 0 77 
+Letter   - >  _ q 0 77 
+Letter   - >  _ r 0 77 
+Letter   - >  _ s 0 77 
+Letter   - >  _ t 0 77 
+Letter   - >  _ u 0 77 
+Letter   - >  _ v 0 77 
+Letter   - >  _ w 0 77 
+Letter   - >  _ x 0 77 
+Letter   - >  _ y 0 77 
+Letter   - >  _ z 0 77 
+Letter   - >  _ A 0 77 
+Letter   - >  _ B 0 77 
+Letter   - >  _ C 0 77 
+Letter   - >  _ D 0 77 
+Letter   - >  _ E 0 77 
+Letter   - >  _ F 0 77 
+Letter   - >  _ G 0 77 
+Letter   - >  _ H 0 77 
+Letter   - >  _ I 0 77 
+Letter   - >  _ J 0 77 
+Letter   - >  _ K 0 77 
+Letter   - >  _ L 0 77 
+Letter   - >  _ M 0 77 
+Letter   - >  _ N 0 77 
+Letter   - >  _ O 0 77 
+Letter   - >  _ P 0 77 
+Letter   - >  _ Q 0 77 
+Letter   - >  _ R 0 77 
+Letter   - >  _ S 0 77 
+Letter   - >  _ T 0 77 
+Letter   - >  _ U 0 77 
+Letter   - >  _ V 0 77 
+Letter   - >  _ W 0 77 
+Letter   - >  _ X 0 77 
+Letter   - >  _ Y 0 77 
+Letter   - >  _ Z 0 77 
+Digit   - >  _ 0 0 77 
+Digit   - >  _ 1 0 77 
+Digit   - >  _ 2 0 77 
+Digit   - >  _ 3 0 77 
+Digit   - >  _ 4 0 77 
+Digit   - >  _ 5 0 77 
+Digit   - >  _ 6 0 77 
+Digit   - >  _ 7 0 77 
+Digit   - >  _ 8 0 77 
+Digit   - >  _ 9 0 77 
+
+78 
+SimpleExpr   - >  _ ( Expr ) 1 77 
+Expr   - >  _ SimpleExpr 0 78 
+Expr   - >  _ SimpleExpr + Expr 0 78 
+Expr   - >  _ SimpleExpr - Expr 0 78 
+SimpleExpr   - >  _ Id 0 78 
+SimpleExpr   - >  _ Const 0 78 
+SimpleExpr   - >  _ ( Expr ) 0 78 
+Id   - >  _ Letter 0 78 
+Id   - >  _ Letter Id 0 78 
+Const   - >  _ Digit 0 78 
+Const   - >  _ Digit Const 0 78 
+Letter   - >  _ a 0 78 
+Letter   - >  _ b 0 78 
+Letter   - >  _ c 0 78 
+Letter   - >  _ d 0 78 
+Letter   - >  _ e 0 78 
+Letter   - >  _ f 0 78 
+Letter   - >  _ g 0 78 
+Letter   - >  _ h 0 78 
+Letter   - >  _ i 0 78 
+Letter   - >  _ j 0 78 
+Letter   - >  _ k 0 78 
+Letter   - >  _ l 0 78 
+Letter   - >  _ m 0 78 
+Letter   - >  _ n 0 78 
+Letter   - >  _ o 0 78 
+Letter   - >  _ p 0 78 
+Letter   - >  _ q 0 78 
+Letter   - >  _ r 0 78 
+Letter   - >  _ s 0 78 
+Letter   - >  _ t 0 78 
+Letter   - >  _ u 0 78 
+Letter   - >  _ v 0 78 
+Letter   - >  _ w 0 78 
+Letter   - >  _ x 0 78 
+Letter   - >  _ y 0 78 
+Letter   - >  _ z 0 78 
+Letter   - >  _ A 0 78 
+Letter   - >  _ B 0 78 
+Letter   - >  _ C 0 78 
+Letter   - >  _ D 0 78 
+Letter   - >  _ E 0 78 
+Letter   - >  _ F 0 78 
+Letter   - >  _ G 0 78 
+Letter   - >  _ H 0 78 
+Letter   - >  _ I 0 78 
+Letter   - >  _ J 0 78 
+Letter   - >  _ K 0 78 
+Letter   - >  _ L 0 78 
+Letter   - >  _ M 0 78 
+Letter   - >  _ N 0 78 
+Letter   - >  _ O 0 78 
+Letter   - >  _ P 0 78 
+Letter   - >  _ Q 0 78 
+Letter   - >  _ R 0 78 
+Letter   - >  _ S 0 78 
+Letter   - >  _ T 0 78 
+Letter   - >  _ U 0 78 
+Letter   - >  _ V 0 78 
+Letter   - >  _ W 0 78 
+Letter   - >  _ X 0 78 
+Letter   - >  _ Y 0 78 
+Letter   - >  _ Z 0 78 
+Digit   - >  _ 0 0 78 
+Digit   - >  _ 1 0 78 
+Digit   - >  _ 2 0 78 
+Digit   - >  _ 3 0 78 
+Digit   - >  _ 4 0 78 
+Digit   - >  _ 5 0 78 
+Digit   - >  _ 6 0 78 
+Digit   - >  _ 7 0 78 
+Digit   - >  _ 8 0 78 
+Digit   - >  _ 9 0 78 
+
+79 
+Letter   - >  _ b 1 78 
+Id   - >  _ Letter 1 78 
+Id   - >  _ Letter Id 1 78 
+Id   - >  _ Letter 0 79 
+Id   - >  _ Letter Id 0 79 
+SimpleExpr   - >  _ Id 1 78 
+Letter   - >  _ a 0 79 
+Letter   - >  _ b 0 79 
+Letter   - >  _ c 0 79 
+Letter   - >  _ d 0 79 
+Letter   - >  _ e 0 79 
+Letter   - >  _ f 0 79 
+Letter   - >  _ g 0 79 
+Letter   - >  _ h 0 79 
+Letter   - >  _ i 0 79 
+Letter   - >  _ j 0 79 
+Letter   - >  _ k 0 79 
+Letter   - >  _ l 0 79 
+Letter   - >  _ m 0 79 
+Letter   - >  _ n 0 79 
+Letter   - >  _ o 0 79 
+Letter   - >  _ p 0 79 
+Letter   - >  _ q 0 79 
+Letter   - >  _ r 0 79 
+Letter   - >  _ s 0 79 
+Letter   - >  _ t 0 79 
+Letter   - >  _ u 0 79 
+Letter   - >  _ v 0 79 
+Letter   - >  _ w 0 79 
+Letter   - >  _ x 0 79 
+Letter   - >  _ y 0 79 
+Letter   - >  _ z 0 79 
+Letter   - >  _ A 0 79 
+Letter   - >  _ B 0 79 
+Letter   - >  _ C 0 79 
+Letter   - >  _ D 0 79 
+Letter   - >  _ E 0 79 
+Letter   - >  _ F 0 79 
+Letter   - >  _ G 0 79 
+Letter   - >  _ H 0 79 
+Letter   - >  _ I 0 79 
+Letter   - >  _ J 0 79 
+Letter   - >  _ K 0 79 
+Letter   - >  _ L 0 79 
+Letter   - >  _ M 0 79 
+Letter   - >  _ N 0 79 
+Letter   - >  _ O 0 79 
+Letter   - >  _ P 0 79 
+Letter   - >  _ Q 0 79 
+Letter   - >  _ R 0 79 
+Letter   - >  _ S 0 79 
+Letter   - >  _ T 0 79 
+Letter   - >  _ U 0 79 
+Letter   - >  _ V 0 79 
+Letter   - >  _ W 0 79 
+Letter   - >  _ X 0 79 
+Letter   - >  _ Y 0 79 
+Letter   - >  _ Z 0 79 
+Expr   - >  _ SimpleExpr 1 78 
+Expr   - >  _ SimpleExpr + Expr 1 78 
+Expr   - >  _ SimpleExpr - Expr 1 78 
+SimpleExpr   - >  _ ( Expr ) 2 77 
+
+80 
+Expr   - >  _ SimpleExpr + Expr 2 78 
+Expr   - >  _ SimpleExpr 0 80 
+Expr   - >  _ SimpleExpr + Expr 0 80 
+Expr   - >  _ SimpleExpr - Expr 0 80 
+SimpleExpr   - >  _ Id 0 80 
+SimpleExpr   - >  _ Const 0 80 
+SimpleExpr   - >  _ ( Expr ) 0 80 
+Id   - >  _ Letter 0 80 
+Id   - >  _ Letter Id 0 80 
+Const   - >  _ Digit 0 80 
+Const   - >  _ Digit Const 0 80 
+Letter   - >  _ a 0 80 
+Letter   - >  _ b 0 80 
+Letter   - >  _ c 0 80 
+Letter   - >  _ d 0 80 
+Letter   - >  _ e 0 80 
+Letter   - >  _ f 0 80 
+Letter   - >  _ g 0 80 
+Letter   - >  _ h 0 80 
+Letter   - >  _ i 0 80 
+Letter   - >  _ j 0 80 
+Letter   - >  _ k 0 80 
+Letter   - >  _ l 0 80 
+Letter   - >  _ m 0 80 
+Letter   - >  _ n 0 80 
+Letter   - >  _ o 0 80 
+Letter   - >  _ p 0 80 
+Letter   - >  _ q 0 80 
+Letter   - >  _ r 0 80 
+Letter   - >  _ s 0 80 
+Letter   - >  _ t 0 80 
+Letter   - >  _ u 0 80 
+Letter   - >  _ v 0 80 
+Letter   - >  _ w 0 80 
+Letter   - >  _ x 0 80 
+Letter   - >  _ y 0 80 
+Letter   - >  _ z 0 80 
+Letter   - >  _ A 0 80 
+Letter   - >  _ B 0 80 
+Letter   - >  _ C 0 80 
+Letter   - >  _ D 0 80 
+Letter   - >  _ E 0 80 
+Letter   - >  _ F 0 80 
+Letter   - >  _ G 0 80 
+Letter   - >  _ H 0 80 
+Letter   - >  _ I 0 80 
+Letter   - >  _ J 0 80 
+Letter   - >  _ K 0 80 
+Letter   - >  _ L 0 80 
+Letter   - >  _ M 0 80 
+Letter   - >  _ N 0 80 
+Letter   - >  _ O 0 80 
+Letter   - >  _ P 0 80 
+Letter   - >  _ Q 0 80 
+Letter   - >  _ R 0 80 
+Letter   - >  _ S 0 80 
+Letter   - >  _ T 0 80 
+Letter   - >  _ U 0 80 
+Letter   - >  _ V 0 80 
+Letter   - >  _ W 0 80 
+Letter   - >  _ X 0 80 
+Letter   - >  _ Y 0 80 
+Letter   - >  _ Z 0 80 
+Digit   - >  _ 0 0 80 
+Digit   - >  _ 1 0 80 
+Digit   - >  _ 2 0 80 
+Digit   - >  _ 3 0 80 
+Digit   - >  _ 4 0 80 
+Digit   - >  _ 5 0 80 
+Digit   - >  _ 6 0 80 
+Digit   - >  _ 7 0 80 
+Digit   - >  _ 8 0 80 
+Digit   - >  _ 9 0 80 
+
+81 
+Letter   - >  _ c 1 80 
+Id   - >  _ Letter 1 80 
+Id   - >  _ Letter Id 1 80 
+Id   - >  _ Letter 0 81 
+Id   - >  _ Letter Id 0 81 
+SimpleExpr   - >  _ Id 1 80 
+Letter   - >  _ a 0 81 
+Letter   - >  _ b 0 81 
+Letter   - >  _ c 0 81 
+Letter   - >  _ d 0 81 
+Letter   - >  _ e 0 81 
+Letter   - >  _ f 0 81 
+Letter   - >  _ g 0 81 
+Letter   - >  _ h 0 81 
+Letter   - >  _ i 0 81 
+Letter   - >  _ j 0 81 
+Letter   - >  _ k 0 81 
+Letter   - >  _ l 0 81 
+Letter   - >  _ m 0 81 
+Letter   - >  _ n 0 81 
+Letter   - >  _ o 0 81 
+Letter   - >  _ p 0 81 
+Letter   - >  _ q 0 81 
+Letter   - >  _ r 0 81 
+Letter   - >  _ s 0 81 
+Letter   - >  _ t 0 81 
+Letter   - >  _ u 0 81 
+Letter   - >  _ v 0 81 
+Letter   - >  _ w 0 81 
+Letter   - >  _ x 0 81 
+Letter   - >  _ y 0 81 
+Letter   - >  _ z 0 81 
+Letter   - >  _ A 0 81 
+Letter   - >  _ B 0 81 
+Letter   - >  _ C 0 81 
+Letter   - >  _ D 0 81 
+Letter   - >  _ E 0 81 
+Letter   - >  _ F 0 81 
+Letter   - >  _ G 0 81 
+Letter   - >  _ H 0 81 
+Letter   - >  _ I 0 81 
+Letter   - >  _ J 0 81 
+Letter   - >  _ K 0 81 
+Letter   - >  _ L 0 81 
+Letter   - >  _ M 0 81 
+Letter   - >  _ N 0 81 
+Letter   - >  _ O 0 81 
+Letter   - >  _ P 0 81 
+Letter   - >  _ Q 0 81 
+Letter   - >  _ R 0 81 
+Letter   - >  _ S 0 81 
+Letter   - >  _ T 0 81 
+Letter   - >  _ U 0 81 
+Letter   - >  _ V 0 81 
+Letter   - >  _ W 0 81 
+Letter   - >  _ X 0 81 
+Letter   - >  _ Y 0 81 
+Letter   - >  _ Z 0 81 
+Expr   - >  _ SimpleExpr 1 80 
+Expr   - >  _ SimpleExpr + Expr 1 80 
+Expr   - >  _ SimpleExpr - Expr 1 80 
+Expr   - >  _ SimpleExpr + Expr 3 78 
+SimpleExpr   - >  _ ( Expr ) 2 77 
+
+82 
+SimpleExpr   - >  _ ( Expr ) 3 77 
+Expr   - >  _ SimpleExpr 1 77 
+Expr   - >  _ SimpleExpr + Expr 1 77 
+Expr   - >  _ SimpleExpr - Expr 1 77 
+Op   - >  _ case Expr of Options end ; 2 76 
+
+83 
+Op   - >  _ case Expr of Options end ; 3 76 
+Options   - >  _ Const : Operators Options 0 83 
+Options   - >  _ Const : Operators 0 83 
+Const   - >  _ Digit 0 83 
+Const   - >  _ Digit Const 0 83 
+Digit   - >  _ 0 0 83 
+Digit   - >  _ 1 0 83 
+Digit   - >  _ 2 0 83 
+Digit   - >  _ 3 0 83 
+Digit   - >  _ 4 0 83 
+Digit   - >  _ 5 0 83 
+Digit   - >  _ 6 0 83 
+Digit   - >  _ 7 0 83 
+Digit   - >  _ 8 0 83 
+Digit   - >  _ 9 0 83 
+
+84 
+Digit   - >  _ 3 1 83 
+Const   - >  _ Digit 1 83 
+Const   - >  _ Digit Const 1 83 
+Const   - >  _ Digit 0 84 
+Const   - >  _ Digit Const 0 84 
+Options   - >  _ Const : Operators Options 1 83 
+Options   - >  _ Const : Operators 1 83 
+Digit   - >  _ 0 0 84 
+Digit   - >  _ 1 0 84 
+Digit   - >  _ 2 0 84 
+Digit   - >  _ 3 0 84 
+Digit   - >  _ 4 0 84 
+Digit   - >  _ 5 0 84 
+Digit   - >  _ 6 0 84 
+Digit   - >  _ 7 0 84 
+Digit   - >  _ 8 0 84 
+Digit   - >  _ 9 0 84 
+
+85 
+Options   - >  _ Const : Operators Options 2 83 
+Options   - >  _ Const : Operators 2 83 
+Operators   - >  _ Op 0 85 
+Operators   - >  _ Op Operators 0 85 
+Op   - >  _ Id := Expr ; 0 85 
+Op   - >  _ case Expr of Options end ; 0 85 
+Id   - >  _ Letter 0 85 
+Id   - >  _ Letter Id 0 85 
+Letter   - >  _ a 0 85 
+Letter   - >  _ b 0 85 
+Letter   - >  _ c 0 85 
+Letter   - >  _ d 0 85 
+Letter   - >  _ e 0 85 
+Letter   - >  _ f 0 85 
+Letter   - >  _ g 0 85 
+Letter   - >  _ h 0 85 
+Letter   - >  _ i 0 85 
+Letter   - >  _ j 0 85 
+Letter   - >  _ k 0 85 
+Letter   - >  _ l 0 85 
+Letter   - >  _ m 0 85 
+Letter   - >  _ n 0 85 
+Letter   - >  _ o 0 85 
+Letter   - >  _ p 0 85 
+Letter   - >  _ q 0 85 
+Letter   - >  _ r 0 85 
+Letter   - >  _ s 0 85 
+Letter   - >  _ t 0 85 
+Letter   - >  _ u 0 85 
+Letter   - >  _ v 0 85 
+Letter   - >  _ w 0 85 
+Letter   - >  _ x 0 85 
+Letter   - >  _ y 0 85 
+Letter   - >  _ z 0 85 
+Letter   - >  _ A 0 85 
+Letter   - >  _ B 0 85 
+Letter   - >  _ C 0 85 
+Letter   - >  _ D 0 85 
+Letter   - >  _ E 0 85 
+Letter   - >  _ F 0 85 
+Letter   - >  _ G 0 85 
+Letter   - >  _ H 0 85 
+Letter   - >  _ I 0 85 
+Letter   - >  _ J 0 85 
+Letter   - >  _ K 0 85 
+Letter   - >  _ L 0 85 
+Letter   - >  _ M 0 85 
+Letter   - >  _ N 0 85 
+Letter   - >  _ O 0 85 
+Letter   - >  _ P 0 85 
+Letter   - >  _ Q 0 85 
+Letter   - >  _ R 0 85 
+Letter   - >  _ S 0 85 
+Letter   - >  _ T 0 85 
+Letter   - >  _ U 0 85 
+Letter   - >  _ V 0 85 
+Letter   - >  _ W 0 85 
+Letter   - >  _ X 0 85 
+Letter   - >  _ Y 0 85 
+Letter   - >  _ Z 0 85 
+
+86 
+Letter   - >  _ b 1 85 
+Id   - >  _ Letter 1 85 
+Id   - >  _ Letter Id 1 85 
+Id   - >  _ Letter 0 86 
+Id   - >  _ Letter Id 0 86 
+Op   - >  _ Id := Expr ; 1 85 
+Letter   - >  _ a 0 86 
+Letter   - >  _ b 0 86 
+Letter   - >  _ c 0 86 
+Letter   - >  _ d 0 86 
+Letter   - >  _ e 0 86 
+Letter   - >  _ f 0 86 
+Letter   - >  _ g 0 86 
+Letter   - >  _ h 0 86 
+Letter   - >  _ i 0 86 
+Letter   - >  _ j 0 86 
+Letter   - >  _ k 0 86 
+Letter   - >  _ l 0 86 
+Letter   - >  _ m 0 86 
+Letter   - >  _ n 0 86 
+Letter   - >  _ o 0 86 
+Letter   - >  _ p 0 86 
+Letter   - >  _ q 0 86 
+Letter   - >  _ r 0 86 
+Letter   - >  _ s 0 86 
+Letter   - >  _ t 0 86 
+Letter   - >  _ u 0 86 
+Letter   - >  _ v 0 86 
+Letter   - >  _ w 0 86 
+Letter   - >  _ x 0 86 
+Letter   - >  _ y 0 86 
+Letter   - >  _ z 0 86 
+Letter   - >  _ A 0 86 
+Letter   - >  _ B 0 86 
+Letter   - >  _ C 0 86 
+Letter   - >  _ D 0 86 
+Letter   - >  _ E 0 86 
+Letter   - >  _ F 0 86 
+Letter   - >  _ G 0 86 
+Letter   - >  _ H 0 86 
+Letter   - >  _ I 0 86 
+Letter   - >  _ J 0 86 
+Letter   - >  _ K 0 86 
+Letter   - >  _ L 0 86 
+Letter   - >  _ M 0 86 
+Letter   - >  _ N 0 86 
+Letter   - >  _ O 0 86 
+Letter   - >  _ P 0 86 
+Letter   - >  _ Q 0 86 
+Letter   - >  _ R 0 86 
+Letter   - >  _ S 0 86 
+Letter   - >  _ T 0 86 
+Letter   - >  _ U 0 86 
+Letter   - >  _ V 0 86 
+Letter   - >  _ W 0 86 
+Letter   - >  _ X 0 86 
+Letter   - >  _ Y 0 86 
+Letter   - >  _ Z 0 86 
+
+87 
+Op   - >  _ Id := Expr ; 2 85 
+Expr   - >  _ SimpleExpr 0 87 
+Expr   - >  _ SimpleExpr + Expr 0 87 
+Expr   - >  _ SimpleExpr - Expr 0 87 
+SimpleExpr   - >  _ Id 0 87 
+SimpleExpr   - >  _ Const 0 87 
+SimpleExpr   - >  _ ( Expr ) 0 87 
+Id   - >  _ Letter 0 87 
+Id   - >  _ Letter Id 0 87 
+Const   - >  _ Digit 0 87 
+Const   - >  _ Digit Const 0 87 
+Letter   - >  _ a 0 87 
+Letter   - >  _ b 0 87 
+Letter   - >  _ c 0 87 
+Letter   - >  _ d 0 87 
+Letter   - >  _ e 0 87 
+Letter   - >  _ f 0 87 
+Letter   - >  _ g 0 87 
+Letter   - >  _ h 0 87 
+Letter   - >  _ i 0 87 
+Letter   - >  _ j 0 87 
+Letter   - >  _ k 0 87 
+Letter   - >  _ l 0 87 
+Letter   - >  _ m 0 87 
+Letter   - >  _ n 0 87 
+Letter   - >  _ o 0 87 
+Letter   - >  _ p 0 87 
+Letter   - >  _ q 0 87 
+Letter   - >  _ r 0 87 
+Letter   - >  _ s 0 87 
+Letter   - >  _ t 0 87 
+Letter   - >  _ u 0 87 
+Letter   - >  _ v 0 87 
+Letter   - >  _ w 0 87 
+Letter   - >  _ x 0 87 
+Letter   - >  _ y 0 87 
+Letter   - >  _ z 0 87 
+Letter   - >  _ A 0 87 
+Letter   - >  _ B 0 87 
+Letter   - >  _ C 0 87 
+Letter   - >  _ D 0 87 
+Letter   - >  _ E 0 87 
+Letter   - >  _ F 0 87 
+Letter   - >  _ G 0 87 
+Letter   - >  _ H 0 87 
+Letter   - >  _ I 0 87 
+Letter   - >  _ J 0 87 
+Letter   - >  _ K 0 87 
+Letter   - >  _ L 0 87 
+Letter   - >  _ M 0 87 
+Letter   - >  _ N 0 87 
+Letter   - >  _ O 0 87 
+Letter   - >  _ P 0 87 
+Letter   - >  _ Q 0 87 
+Letter   - >  _ R 0 87 
+Letter   - >  _ S 0 87 
+Letter   - >  _ T 0 87 
+Letter   - >  _ U 0 87 
+Letter   - >  _ V 0 87 
+Letter   - >  _ W 0 87 
+Letter   - >  _ X 0 87 
+Letter   - >  _ Y 0 87 
+Letter   - >  _ Z 0 87 
+Digit   - >  _ 0 0 87 
+Digit   - >  _ 1 0 87 
+Digit   - >  _ 2 0 87 
+Digit   - >  _ 3 0 87 
+Digit   - >  _ 4 0 87 
+Digit   - >  _ 5 0 87 
+Digit   - >  _ 6 0 87 
+Digit   - >  _ 7 0 87 
+Digit   - >  _ 8 0 87 
+Digit   - >  _ 9 0 87 
+
+88 
+Letter   - >  _ b 1 87 
+Id   - >  _ Letter 1 87 
+Id   - >  _ Letter Id 1 87 
+Id   - >  _ Letter 0 88 
+Id   - >  _ Letter Id 0 88 
+SimpleExpr   - >  _ Id 1 87 
+Letter   - >  _ a 0 88 
+Letter   - >  _ b 0 88 
+Letter   - >  _ c 0 88 
+Letter   - >  _ d 0 88 
+Letter   - >  _ e 0 88 
+Letter   - >  _ f 0 88 
+Letter   - >  _ g 0 88 
+Letter   - >  _ h 0 88 
+Letter   - >  _ i 0 88 
+Letter   - >  _ j 0 88 
+Letter   - >  _ k 0 88 
+Letter   - >  _ l 0 88 
+Letter   - >  _ m 0 88 
+Letter   - >  _ n 0 88 
+Letter   - >  _ o 0 88 
+Letter   - >  _ p 0 88 
+Letter   - >  _ q 0 88 
+Letter   - >  _ r 0 88 
+Letter   - >  _ s 0 88 
+Letter   - >  _ t 0 88 
+Letter   - >  _ u 0 88 
+Letter   - >  _ v 0 88 
+Letter   - >  _ w 0 88 
+Letter   - >  _ x 0 88 
+Letter   - >  _ y 0 88 
+Letter   - >  _ z 0 88 
+Letter   - >  _ A 0 88 
+Letter   - >  _ B 0 88 
+Letter   - >  _ C 0 88 
+Letter   - >  _ D 0 88 
+Letter   - >  _ E 0 88 
+Letter   - >  _ F 0 88 
+Letter   - >  _ G 0 88 
+Letter   - >  _ H 0 88 
+Letter   - >  _ I 0 88 
+Letter   - >  _ J 0 88 
+Letter   - >  _ K 0 88 
+Letter   - >  _ L 0 88 
+Letter   - >  _ M 0 88 
+Letter   - >  _ N 0 88 
+Letter   - >  _ O 0 88 
+Letter   - >  _ P 0 88 
+Letter   - >  _ Q 0 88 
+Letter   - >  _ R 0 88 
+Letter   - >  _ S 0 88 
+Letter   - >  _ T 0 88 
+Letter   - >  _ U 0 88 
+Letter   - >  _ V 0 88 
+Letter   - >  _ W 0 88 
+Letter   - >  _ X 0 88 
+Letter   - >  _ Y 0 88 
+Letter   - >  _ Z 0 88 
+Expr   - >  _ SimpleExpr 1 87 
+Expr   - >  _ SimpleExpr + Expr 1 87 
+Expr   - >  _ SimpleExpr - Expr 1 87 
+Op   - >  _ Id := Expr ; 3 85 
+
+89 
+Expr   - >  _ SimpleExpr + Expr 2 87 
+Expr   - >  _ SimpleExpr 0 89 
+Expr   - >  _ SimpleExpr + Expr 0 89 
+Expr   - >  _ SimpleExpr - Expr 0 89 
+SimpleExpr   - >  _ Id 0 89 
+SimpleExpr   - >  _ Const 0 89 
+SimpleExpr   - >  _ ( Expr ) 0 89 
+Id   - >  _ Letter 0 89 
+Id   - >  _ Letter Id 0 89 
+Const   - >  _ Digit 0 89 
+Const   - >  _ Digit Const 0 89 
+Letter   - >  _ a 0 89 
+Letter   - >  _ b 0 89 
+Letter   - >  _ c 0 89 
+Letter   - >  _ d 0 89 
+Letter   - >  _ e 0 89 
+Letter   - >  _ f 0 89 
+Letter   - >  _ g 0 89 
+Letter   - >  _ h 0 89 
+Letter   - >  _ i 0 89 
+Letter   - >  _ j 0 89 
+Letter   - >  _ k 0 89 
+Letter   - >  _ l 0 89 
+Letter   - >  _ m 0 89 
+Letter   - >  _ n 0 89 
+Letter   - >  _ o 0 89 
+Letter   - >  _ p 0 89 
+Letter   - >  _ q 0 89 
+Letter   - >  _ r 0 89 
+Letter   - >  _ s 0 89 
+Letter   - >  _ t 0 89 
+Letter   - >  _ u 0 89 
+Letter   - >  _ v 0 89 
+Letter   - >  _ w 0 89 
+Letter   - >  _ x 0 89 
+Letter   - >  _ y 0 89 
+Letter   - >  _ z 0 89 
+Letter   - >  _ A 0 89 
+Letter   - >  _ B 0 89 
+Letter   - >  _ C 0 89 
+Letter   - >  _ D 0 89 
+Letter   - >  _ E 0 89 
+Letter   - >  _ F 0 89 
+Letter   - >  _ G 0 89 
+Letter   - >  _ H 0 89 
+Letter   - >  _ I 0 89 
+Letter   - >  _ J 0 89 
+Letter   - >  _ K 0 89 
+Letter   - >  _ L 0 89 
+Letter   - >  _ M 0 89 
+Letter   - >  _ N 0 89 
+Letter   - >  _ O 0 89 
+Letter   - >  _ P 0 89 
+Letter   - >  _ Q 0 89 
+Letter   - >  _ R 0 89 
+Letter   - >  _ S 0 89 
+Letter   - >  _ T 0 89 
+Letter   - >  _ U 0 89 
+Letter   - >  _ V 0 89 
+Letter   - >  _ W 0 89 
+Letter   - >  _ X 0 89 
+Letter   - >  _ Y 0 89 
+Letter   - >  _ Z 0 89 
+Digit   - >  _ 0 0 89 
+Digit   - >  _ 1 0 89 
+Digit   - >  _ 2 0 89 
+Digit   - >  _ 3 0 89 
+Digit   - >  _ 4 0 89 
+Digit   - >  _ 5 0 89 
+Digit   - >  _ 6 0 89 
+Digit   - >  _ 7 0 89 
+Digit   - >  _ 8 0 89 
+Digit   - >  _ 9 0 89 
+
+90 
+Digit   - >  _ 1 1 89 
+Const   - >  _ Digit 1 89 
+Const   - >  _ Digit Const 1 89 
+Const   - >  _ Digit 0 90 
+Const   - >  _ Digit Const 0 90 
+SimpleExpr   - >  _ Const 1 89 
+Digit   - >  _ 0 0 90 
+Digit   - >  _ 1 0 90 
+Digit   - >  _ 2 0 90 
+Digit   - >  _ 3 0 90 
+Digit   - >  _ 4 0 90 
+Digit   - >  _ 5 0 90 
+Digit   - >  _ 6 0 90 
+Digit   - >  _ 7 0 90 
+Digit   - >  _ 8 0 90 
+Digit   - >  _ 9 0 90 
+Expr   - >  _ SimpleExpr 1 89 
+Expr   - >  _ SimpleExpr + Expr 1 89 
+Expr   - >  _ SimpleExpr - Expr 1 89 
+Expr   - >  _ SimpleExpr + Expr 3 87 
+Op   - >  _ Id := Expr ; 3 85 
+
+91 
+Op   - >  _ Id := Expr ; 4 85 
+Operators   - >  _ Op 1 85 
+Operators   - >  _ Op Operators 1 85 
+Operators   - >  _ Op 0 91 
+Operators   - >  _ Op Operators 0 91 
+Options   - >  _ Const : Operators Options 3 83 
+Options   - >  _ Const : Operators 3 83 
+Op   - >  _ Id := Expr ; 0 91 
+Op   - >  _ case Expr of Options end ; 0 91 
+Options   - >  _ Const : Operators Options 0 91 
+Options   - >  _ Const : Operators 0 91 
+Op   - >  _ case Expr of Options end ; 4 76 
+Id   - >  _ Letter 0 91 
+Id   - >  _ Letter Id 0 91 
+Const   - >  _ Digit 0 91 
+Const   - >  _ Digit Const 0 91 
+Letter   - >  _ a 0 91 
+Letter   - >  _ b 0 91 
+Letter   - >  _ c 0 91 
+Letter   - >  _ d 0 91 
+Letter   - >  _ e 0 91 
+Letter   - >  _ f 0 91 
+Letter   - >  _ g 0 91 
+Letter   - >  _ h 0 91 
+Letter   - >  _ i 0 91 
+Letter   - >  _ j 0 91 
+Letter   - >  _ k 0 91 
+Letter   - >  _ l 0 91 
+Letter   - >  _ m 0 91 
+Letter   - >  _ n 0 91 
+Letter   - >  _ o 0 91 
+Letter   - >  _ p 0 91 
+Letter   - >  _ q 0 91 
+Letter   - >  _ r 0 91 
+Letter   - >  _ s 0 91 
+Letter   - >  _ t 0 91 
+Letter   - >  _ u 0 91 
+Letter   - >  _ v 0 91 
+Letter   - >  _ w 0 91 
+Letter   - >  _ x 0 91 
+Letter   - >  _ y 0 91 
+Letter   - >  _ z 0 91 
+Letter   - >  _ A 0 91 
+Letter   - >  _ B 0 91 
+Letter   - >  _ C 0 91 
+Letter   - >  _ D 0 91 
+Letter   - >  _ E 0 91 
+Letter   - >  _ F 0 91 
+Letter   - >  _ G 0 91 
+Letter   - >  _ H 0 91 
+Letter   - >  _ I 0 91 
+Letter   - >  _ J 0 91 
+Letter   - >  _ K 0 91 
+Letter   - >  _ L 0 91 
+Letter   - >  _ M 0 91 
+Letter   - >  _ N 0 91 
+Letter   - >  _ O 0 91 
+Letter   - >  _ P 0 91 
+Letter   - >  _ Q 0 91 
+Letter   - >  _ R 0 91 
+Letter   - >  _ S 0 91 
+Letter   - >  _ T 0 91 
+Letter   - >  _ U 0 91 
+Letter   - >  _ V 0 91 
+Letter   - >  _ W 0 91 
+Letter   - >  _ X 0 91 
+Letter   - >  _ Y 0 91 
+Letter   - >  _ Z 0 91 
+Digit   - >  _ 0 0 91 
+Digit   - >  _ 1 0 91 
+Digit   - >  _ 2 0 91 
+Digit   - >  _ 3 0 91 
+Digit   - >  _ 4 0 91 
+Digit   - >  _ 5 0 91 
+Digit   - >  _ 6 0 91 
+Digit   - >  _ 7 0 91 
+Digit   - >  _ 8 0 91 
+Digit   - >  _ 9 0 91 
+
+92 
+Digit   - >  _ 4 1 91 
+Const   - >  _ Digit 1 91 
+Const   - >  _ Digit Const 1 91 
+Const   - >  _ Digit 0 92 
+Const   - >  _ Digit Const 0 92 
+Options   - >  _ Const : Operators Options 1 91 
+Options   - >  _ Const : Operators 1 91 
+Digit   - >  _ 0 0 92 
+Digit   - >  _ 1 0 92 
+Digit   - >  _ 2 0 92 
+Digit   - >  _ 3 0 92 
+Digit   - >  _ 4 0 92 
+Digit   - >  _ 5 0 92 
+Digit   - >  _ 6 0 92 
+Digit   - >  _ 7 0 92 
+Digit   - >  _ 8 0 92 
+Digit   - >  _ 9 0 92 
+
+93 
+Options   - >  _ Const : Operators Options 2 91 
+Options   - >  _ Const : Operators 2 91 
+Operators   - >  _ Op 0 93 
+Operators   - >  _ Op Operators 0 93 
+Op   - >  _ Id := Expr ; 0 93 
+Op   - >  _ case Expr of Options end ; 0 93 
+Id   - >  _ Letter 0 93 
+Id   - >  _ Letter Id 0 93 
+Letter   - >  _ a 0 93 
+Letter   - >  _ b 0 93 
+Letter   - >  _ c 0 93 
+Letter   - >  _ d 0 93 
+Letter   - >  _ e 0 93 
+Letter   - >  _ f 0 93 
+Letter   - >  _ g 0 93 
+Letter   - >  _ h 0 93 
+Letter   - >  _ i 0 93 
+Letter   - >  _ j 0 93 
+Letter   - >  _ k 0 93 
+Letter   - >  _ l 0 93 
+Letter   - >  _ m 0 93 
+Letter   - >  _ n 0 93 
+Letter   - >  _ o 0 93 
+Letter   - >  _ p 0 93 
+Letter   - >  _ q 0 93 
+Letter   - >  _ r 0 93 
+Letter   - >  _ s 0 93 
+Letter   - >  _ t 0 93 
+Letter   - >  _ u 0 93 
+Letter   - >  _ v 0 93 
+Letter   - >  _ w 0 93 
+Letter   - >  _ x 0 93 
+Letter   - >  _ y 0 93 
+Letter   - >  _ z 0 93 
+Letter   - >  _ A 0 93 
+Letter   - >  _ B 0 93 
+Letter   - >  _ C 0 93 
+Letter   - >  _ D 0 93 
+Letter   - >  _ E 0 93 
+Letter   - >  _ F 0 93 
+Letter   - >  _ G 0 93 
+Letter   - >  _ H 0 93 
+Letter   - >  _ I 0 93 
+Letter   - >  _ J 0 93 
+Letter   - >  _ K 0 93 
+Letter   - >  _ L 0 93 
+Letter   - >  _ M 0 93 
+Letter   - >  _ N 0 93 
+Letter   - >  _ O 0 93 
+Letter   - >  _ P 0 93 
+Letter   - >  _ Q 0 93 
+Letter   - >  _ R 0 93 
+Letter   - >  _ S 0 93 
+Letter   - >  _ T 0 93 
+Letter   - >  _ U 0 93 
+Letter   - >  _ V 0 93 
+Letter   - >  _ W 0 93 
+Letter   - >  _ X 0 93 
+Letter   - >  _ Y 0 93 
+Letter   - >  _ Z 0 93 
+
+94 
+Letter   - >  _ b 1 93 
+Id   - >  _ Letter 1 93 
+Id   - >  _ Letter Id 1 93 
+Id   - >  _ Letter 0 94 
+Id   - >  _ Letter Id 0 94 
+Op   - >  _ Id := Expr ; 1 93 
+Letter   - >  _ a 0 94 
+Letter   - >  _ b 0 94 
+Letter   - >  _ c 0 94 
+Letter   - >  _ d 0 94 
+Letter   - >  _ e 0 94 
+Letter   - >  _ f 0 94 
+Letter   - >  _ g 0 94 
+Letter   - >  _ h 0 94 
+Letter   - >  _ i 0 94 
+Letter   - >  _ j 0 94 
+Letter   - >  _ k 0 94 
+Letter   - >  _ l 0 94 
+Letter   - >  _ m 0 94 
+Letter   - >  _ n 0 94 
+Letter   - >  _ o 0 94 
+Letter   - >  _ p 0 94 
+Letter   - >  _ q 0 94 
+Letter   - >  _ r 0 94 
+Letter   - >  _ s 0 94 
+Letter   - >  _ t 0 94 
+Letter   - >  _ u 0 94 
+Letter   - >  _ v 0 94 
+Letter   - >  _ w 0 94 
+Letter   - >  _ x 0 94 
+Letter   - >  _ y 0 94 
+Letter   - >  _ z 0 94 
+Letter   - >  _ A 0 94 
+Letter   - >  _ B 0 94 
+Letter   - >  _ C 0 94 
+Letter   - >  _ D 0 94 
+Letter   - >  _ E 0 94 
+Letter   - >  _ F 0 94 
+Letter   - >  _ G 0 94 
+Letter   - >  _ H 0 94 
+Letter   - >  _ I 0 94 
+Letter   - >  _ J 0 94 
+Letter   - >  _ K 0 94 
+Letter   - >  _ L 0 94 
+Letter   - >  _ M 0 94 
+Letter   - >  _ N 0 94 
+Letter   - >  _ O 0 94 
+Letter   - >  _ P 0 94 
+Letter   - >  _ Q 0 94 
+Letter   - >  _ R 0 94 
+Letter   - >  _ S 0 94 
+Letter   - >  _ T 0 94 
+Letter   - >  _ U 0 94 
+Letter   - >  _ V 0 94 
+Letter   - >  _ W 0 94 
+Letter   - >  _ X 0 94 
+Letter   - >  _ Y 0 94 
+Letter   - >  _ Z 0 94 
+
+95 
+Op   - >  _ Id := Expr ; 2 93 
+Expr   - >  _ SimpleExpr 0 95 
+Expr   - >  _ SimpleExpr + Expr 0 95 
+Expr   - >  _ SimpleExpr - Expr 0 95 
+SimpleExpr   - >  _ Id 0 95 
+SimpleExpr   - >  _ Const 0 95 
+SimpleExpr   - >  _ ( Expr ) 0 95 
+Id   - >  _ Letter 0 95 
+Id   - >  _ Letter Id 0 95 
+Const   - >  _ Digit 0 95 
+Const   - >  _ Digit Const 0 95 
+Letter   - >  _ a 0 95 
+Letter   - >  _ b 0 95 
+Letter   - >  _ c 0 95 
+Letter   - >  _ d 0 95 
+Letter   - >  _ e 0 95 
+Letter   - >  _ f 0 95 
+Letter   - >  _ g 0 95 
+Letter   - >  _ h 0 95 
+Letter   - >  _ i 0 95 
+Letter   - >  _ j 0 95 
+Letter   - >  _ k 0 95 
+Letter   - >  _ l 0 95 
+Letter   - >  _ m 0 95 
+Letter   - >  _ n 0 95 
+Letter   - >  _ o 0 95 
+Letter   - >  _ p 0 95 
+Letter   - >  _ q 0 95 
+Letter   - >  _ r 0 95 
+Letter   - >  _ s 0 95 
+Letter   - >  _ t 0 95 
+Letter   - >  _ u 0 95 
+Letter   - >  _ v 0 95 
+Letter   - >  _ w 0 95 
+Letter   - >  _ x 0 95 
+Letter   - >  _ y 0 95 
+Letter   - >  _ z 0 95 
+Letter   - >  _ A 0 95 
+Letter   - >  _ B 0 95 
+Letter   - >  _ C 0 95 
+Letter   - >  _ D 0 95 
+Letter   - >  _ E 0 95 
+Letter   - >  _ F 0 95 
+Letter   - >  _ G 0 95 
+Letter   - >  _ H 0 95 
+Letter   - >  _ I 0 95 
+Letter   - >  _ J 0 95 
+Letter   - >  _ K 0 95 
+Letter   - >  _ L 0 95 
+Letter   - >  _ M 0 95 
+Letter   - >  _ N 0 95 
+Letter   - >  _ O 0 95 
+Letter   - >  _ P 0 95 
+Letter   - >  _ Q 0 95 
+Letter   - >  _ R 0 95 
+Letter   - >  _ S 0 95 
+Letter   - >  _ T 0 95 
+Letter   - >  _ U 0 95 
+Letter   - >  _ V 0 95 
+Letter   - >  _ W 0 95 
+Letter   - >  _ X 0 95 
+Letter   - >  _ Y 0 95 
+Letter   - >  _ Z 0 95 
+Digit   - >  _ 0 0 95 
+Digit   - >  _ 1 0 95 
+Digit   - >  _ 2 0 95 
+Digit   - >  _ 3 0 95 
+Digit   - >  _ 4 0 95 
+Digit   - >  _ 5 0 95 
+Digit   - >  _ 6 0 95 
+Digit   - >  _ 7 0 95 
+Digit   - >  _ 8 0 95 
+Digit   - >  _ 9 0 95 
+
+96 
+Letter   - >  _ b 1 95 
+Id   - >  _ Letter 1 95 
+Id   - >  _ Letter Id 1 95 
+Id   - >  _ Letter 0 96 
+Id   - >  _ Letter Id 0 96 
+SimpleExpr   - >  _ Id 1 95 
+Letter   - >  _ a 0 96 
+Letter   - >  _ b 0 96 
+Letter   - >  _ c 0 96 
+Letter   - >  _ d 0 96 
+Letter   - >  _ e 0 96 
+Letter   - >  _ f 0 96 
+Letter   - >  _ g 0 96 
+Letter   - >  _ h 0 96 
+Letter   - >  _ i 0 96 
+Letter   - >  _ j 0 96 
+Letter   - >  _ k 0 96 
+Letter   - >  _ l 0 96 
+Letter   - >  _ m 0 96 
+Letter   - >  _ n 0 96 
+Letter   - >  _ o 0 96 
+Letter   - >  _ p 0 96 
+Letter   - >  _ q 0 96 
+Letter   - >  _ r 0 96 
+Letter   - >  _ s 0 96 
+Letter   - >  _ t 0 96 
+Letter   - >  _ u 0 96 
+Letter   - >  _ v 0 96 
+Letter   - >  _ w 0 96 
+Letter   - >  _ x 0 96 
+Letter   - >  _ y 0 96 
+Letter   - >  _ z 0 96 
+Letter   - >  _ A 0 96 
+Letter   - >  _ B 0 96 
+Letter   - >  _ C 0 96 
+Letter   - >  _ D 0 96 
+Letter   - >  _ E 0 96 
+Letter   - >  _ F 0 96 
+Letter   - >  _ G 0 96 
+Letter   - >  _ H 0 96 
+Letter   - >  _ I 0 96 
+Letter   - >  _ J 0 96 
+Letter   - >  _ K 0 96 
+Letter   - >  _ L 0 96 
+Letter   - >  _ M 0 96 
+Letter   - >  _ N 0 96 
+Letter   - >  _ O 0 96 
+Letter   - >  _ P 0 96 
+Letter   - >  _ Q 0 96 
+Letter   - >  _ R 0 96 
+Letter   - >  _ S 0 96 
+Letter   - >  _ T 0 96 
+Letter   - >  _ U 0 96 
+Letter   - >  _ V 0 96 
+Letter   - >  _ W 0 96 
+Letter   - >  _ X 0 96 
+Letter   - >  _ Y 0 96 
+Letter   - >  _ Z 0 96 
+Expr   - >  _ SimpleExpr 1 95 
+Expr   - >  _ SimpleExpr + Expr 1 95 
+Expr   - >  _ SimpleExpr - Expr 1 95 
+Op   - >  _ Id := Expr ; 3 93 
+
+97 
+Expr   - >  _ SimpleExpr - Expr 2 95 
+Expr   - >  _ SimpleExpr 0 97 
+Expr   - >  _ SimpleExpr + Expr 0 97 
+Expr   - >  _ SimpleExpr - Expr 0 97 
+SimpleExpr   - >  _ Id 0 97 
+SimpleExpr   - >  _ Const 0 97 
+SimpleExpr   - >  _ ( Expr ) 0 97 
+Id   - >  _ Letter 0 97 
+Id   - >  _ Letter Id 0 97 
+Const   - >  _ Digit 0 97 
+Const   - >  _ Digit Const 0 97 
+Letter   - >  _ a 0 97 
+Letter   - >  _ b 0 97 
+Letter   - >  _ c 0 97 
+Letter   - >  _ d 0 97 
+Letter   - >  _ e 0 97 
+Letter   - >  _ f 0 97 
+Letter   - >  _ g 0 97 
+Letter   - >  _ h 0 97 
+Letter   - >  _ i 0 97 
+Letter   - >  _ j 0 97 
+Letter   - >  _ k 0 97 
+Letter   - >  _ l 0 97 
+Letter   - >  _ m 0 97 
+Letter   - >  _ n 0 97 
+Letter   - >  _ o 0 97 
+Letter   - >  _ p 0 97 
+Letter   - >  _ q 0 97 
+Letter   - >  _ r 0 97 
+Letter   - >  _ s 0 97 
+Letter   - >  _ t 0 97 
+Letter   - >  _ u 0 97 
+Letter   - >  _ v 0 97 
+Letter   - >  _ w 0 97 
+Letter   - >  _ x 0 97 
+Letter   - >  _ y 0 97 
+Letter   - >  _ z 0 97 
+Letter   - >  _ A 0 97 
+Letter   - >  _ B 0 97 
+Letter   - >  _ C 0 97 
+Letter   - >  _ D 0 97 
+Letter   - >  _ E 0 97 
+Letter   - >  _ F 0 97 
+Letter   - >  _ G 0 97 
+Letter   - >  _ H 0 97 
+Letter   - >  _ I 0 97 
+Letter   - >  _ J 0 97 
+Letter   - >  _ K 0 97 
+Letter   - >  _ L 0 97 
+Letter   - >  _ M 0 97 
+Letter   - >  _ N 0 97 
+Letter   - >  _ O 0 97 
+Letter   - >  _ P 0 97 
+Letter   - >  _ Q 0 97 
+Letter   - >  _ R 0 97 
+Letter   - >  _ S 0 97 
+Letter   - >  _ T 0 97 
+Letter   - >  _ U 0 97 
+Letter   - >  _ V 0 97 
+Letter   - >  _ W 0 97 
+Letter   - >  _ X 0 97 
+Letter   - >  _ Y 0 97 
+Letter   - >  _ Z 0 97 
+Digit   - >  _ 0 0 97 
+Digit   - >  _ 1 0 97 
+Digit   - >  _ 2 0 97 
+Digit   - >  _ 3 0 97 
+Digit   - >  _ 4 0 97 
+Digit   - >  _ 5 0 97 
+Digit   - >  _ 6 0 97 
+Digit   - >  _ 7 0 97 
+Digit   - >  _ 8 0 97 
+Digit   - >  _ 9 0 97 
+
+98 
+Digit   - >  _ 2 1 97 
+Const   - >  _ Digit 1 97 
+Const   - >  _ Digit Const 1 97 
+Const   - >  _ Digit 0 98 
+Const   - >  _ Digit Const 0 98 
+SimpleExpr   - >  _ Const 1 97 
+Digit   - >  _ 0 0 98 
+Digit   - >  _ 1 0 98 
+Digit   - >  _ 2 0 98 
+Digit   - >  _ 3 0 98 
+Digit   - >  _ 4 0 98 
+Digit   - >  _ 5 0 98 
+Digit   - >  _ 6 0 98 
+Digit   - >  _ 7 0 98 
+Digit   - >  _ 8 0 98 
+Digit   - >  _ 9 0 98 
+Expr   - >  _ SimpleExpr 1 97 
+Expr   - >  _ SimpleExpr + Expr 1 97 
+Expr   - >  _ SimpleExpr - Expr 1 97 
+Expr   - >  _ SimpleExpr - Expr 3 95 
+Op   - >  _ Id := Expr ; 3 93 
+
+99 
+Op   - >  _ Id := Expr ; 4 93 
+Operators   - >  _ Op 1 93 
+Operators   - >  _ Op Operators 1 93 
+Operators   - >  _ Op 0 99 
+Operators   - >  _ Op Operators 0 99 
+Options   - >  _ Const : Operators Options 3 91 
+Options   - >  _ Const : Operators 3 91 
+Op   - >  _ Id := Expr ; 0 99 
+Op   - >  _ case Expr of Options end ; 0 99 
+Options   - >  _ Const : Operators Options 0 99 
+Options   - >  _ Const : Operators 0 99 
+Options   - >  _ Const : Operators Options 4 83 
+Id   - >  _ Letter 0 99 
+Id   - >  _ Letter Id 0 99 
+Const   - >  _ Digit 0 99 
+Const   - >  _ Digit Const 0 99 
+Op   - >  _ case Expr of Options end ; 4 76 
+Letter   - >  _ a 0 99 
+Letter   - >  _ b 0 99 
+Letter   - >  _ c 0 99 
+Letter   - >  _ d 0 99 
+Letter   - >  _ e 0 99 
+Letter   - >  _ f 0 99 
+Letter   - >  _ g 0 99 
+Letter   - >  _ h 0 99 
+Letter   - >  _ i 0 99 
+Letter   - >  _ j 0 99 
+Letter   - >  _ k 0 99 
+Letter   - >  _ l 0 99 
+Letter   - >  _ m 0 99 
+Letter   - >  _ n 0 99 
+Letter   - >  _ o 0 99 
+Letter   - >  _ p 0 99 
+Letter   - >  _ q 0 99 
+Letter   - >  _ r 0 99 
+Letter   - >  _ s 0 99 
+Letter   - >  _ t 0 99 
+Letter   - >  _ u 0 99 
+Letter   - >  _ v 0 99 
+Letter   - >  _ w 0 99 
+Letter   - >  _ x 0 99 
+Letter   - >  _ y 0 99 
+Letter   - >  _ z 0 99 
+Letter   - >  _ A 0 99 
+Letter   - >  _ B 0 99 
+Letter   - >  _ C 0 99 
+Letter   - >  _ D 0 99 
+Letter   - >  _ E 0 99 
+Letter   - >  _ F 0 99 
+Letter   - >  _ G 0 99 
+Letter   - >  _ H 0 99 
+Letter   - >  _ I 0 99 
+Letter   - >  _ J 0 99 
+Letter   - >  _ K 0 99 
+Letter   - >  _ L 0 99 
+Letter   - >  _ M 0 99 
+Letter   - >  _ N 0 99 
+Letter   - >  _ O 0 99 
+Letter   - >  _ P 0 99 
+Letter   - >  _ Q 0 99 
+Letter   - >  _ R 0 99 
+Letter   - >  _ S 0 99 
+Letter   - >  _ T 0 99 
+Letter   - >  _ U 0 99 
+Letter   - >  _ V 0 99 
+Letter   - >  _ W 0 99 
+Letter   - >  _ X 0 99 
+Letter   - >  _ Y 0 99 
+Letter   - >  _ Z 0 99 
+Digit   - >  _ 0 0 99 
+Digit   - >  _ 1 0 99 
+Digit   - >  _ 2 0 99 
+Digit   - >  _ 3 0 99 
+Digit   - >  _ 4 0 99 
+Digit   - >  _ 5 0 99 
+Digit   - >  _ 6 0 99 
+Digit   - >  _ 7 0 99 
+Digit   - >  _ 8 0 99 
+Digit   - >  _ 9 0 99 
+
+100 
+Op   - >  _ case Expr of Options end ; 5 76 
+
+101 
+Op   - >  _ case Expr of Options end ; 6 76 
+Operators   - >  _ Op 1 76 
+Operators   - >  _ Op Operators 1 76 
+Operators   - >  _ Op 0 101 
+Operators   - >  _ Op Operators 0 101 
+Operators   - >  _ Op Operators 2 70 
+Op   - >  _ Id := Expr ; 0 101 
+Op   - >  _ case Expr of Options end ; 0 101 
+Options   - >  _ Const : Operators Options 3 68 
+Options   - >  _ Const : Operators 3 68 
+Id   - >  _ Letter 0 101 
+Id   - >  _ Letter Id 0 101 
+Options   - >  _ Const : Operators Options 0 101 
+Options   - >  _ Const : Operators 0 101 
+Options   - >  _ Const : Operators Options 4 52 
+Letter   - >  _ a 0 101 
+Letter   - >  _ b 0 101 
+Letter   - >  _ c 0 101 
+Letter   - >  _ d 0 101 
+Letter   - >  _ e 0 101 
+Letter   - >  _ f 0 101 
+Letter   - >  _ g 0 101 
+Letter   - >  _ h 0 101 
+Letter   - >  _ i 0 101 
+Letter   - >  _ j 0 101 
+Letter   - >  _ k 0 101 
+Letter   - >  _ l 0 101 
+Letter   - >  _ m 0 101 
+Letter   - >  _ n 0 101 
+Letter   - >  _ o 0 101 
+Letter   - >  _ p 0 101 
+Letter   - >  _ q 0 101 
+Letter   - >  _ r 0 101 
+Letter   - >  _ s 0 101 
+Letter   - >  _ t 0 101 
+Letter   - >  _ u 0 101 
+Letter   - >  _ v 0 101 
+Letter   - >  _ w 0 101 
+Letter   - >  _ x 0 101 
+Letter   - >  _ y 0 101 
+Letter   - >  _ z 0 101 
+Letter   - >  _ A 0 101 
+Letter   - >  _ B 0 101 
+Letter   - >  _ C 0 101 
+Letter   - >  _ D 0 101 
+Letter   - >  _ E 0 101 
+Letter   - >  _ F 0 101 
+Letter   - >  _ G 0 101 
+Letter   - >  _ H 0 101 
+Letter   - >  _ I 0 101 
+Letter   - >  _ J 0 101 
+Letter   - >  _ K 0 101 
+Letter   - >  _ L 0 101 
+Letter   - >  _ M 0 101 
+Letter   - >  _ N 0 101 
+Letter   - >  _ O 0 101 
+Letter   - >  _ P 0 101 
+Letter   - >  _ Q 0 101 
+Letter   - >  _ R 0 101 
+Letter   - >  _ S 0 101 
+Letter   - >  _ T 0 101 
+Letter   - >  _ U 0 101 
+Letter   - >  _ V 0 101 
+Letter   - >  _ W 0 101 
+Letter   - >  _ X 0 101 
+Letter   - >  _ Y 0 101 
+Letter   - >  _ Z 0 101 
+Const   - >  _ Digit 0 101 
+Const   - >  _ Digit Const 0 101 
+Op   - >  _ case Expr of Options end ; 4 41 
+Digit   - >  _ 0 0 101 
+Digit   - >  _ 1 0 101 
+Digit   - >  _ 2 0 101 
+Digit   - >  _ 3 0 101 
+Digit   - >  _ 4 0 101 
+Digit   - >  _ 5 0 101 
+Digit   - >  _ 6 0 101 
+Digit   - >  _ 7 0 101 
+Digit   - >  _ 8 0 101 
+Digit   - >  _ 9 0 101 
+
+102 
+Letter   - >  _ b 1 101 
+Id   - >  _ Letter 1 101 
+Id   - >  _ Letter Id 1 101 
+Id   - >  _ Letter 0 102 
+Id   - >  _ Letter Id 0 102 
+Op   - >  _ Id := Expr ; 1 101 
+Letter   - >  _ a 0 102 
+Letter   - >  _ b 0 102 
+Letter   - >  _ c 0 102 
+Letter   - >  _ d 0 102 
+Letter   - >  _ e 0 102 
+Letter   - >  _ f 0 102 
+Letter   - >  _ g 0 102 
+Letter   - >  _ h 0 102 
+Letter   - >  _ i 0 102 
+Letter   - >  _ j 0 102 
+Letter   - >  _ k 0 102 
+Letter   - >  _ l 0 102 
+Letter   - >  _ m 0 102 
+Letter   - >  _ n 0 102 
+Letter   - >  _ o 0 102 
+Letter   - >  _ p 0 102 
+Letter   - >  _ q 0 102 
+Letter   - >  _ r 0 102 
+Letter   - >  _ s 0 102 
+Letter   - >  _ t 0 102 
+Letter   - >  _ u 0 102 
+Letter   - >  _ v 0 102 
+Letter   - >  _ w 0 102 
+Letter   - >  _ x 0 102 
+Letter   - >  _ y 0 102 
+Letter   - >  _ z 0 102 
+Letter   - >  _ A 0 102 
+Letter   - >  _ B 0 102 
+Letter   - >  _ C 0 102 
+Letter   - >  _ D 0 102 
+Letter   - >  _ E 0 102 
+Letter   - >  _ F 0 102 
+Letter   - >  _ G 0 102 
+Letter   - >  _ H 0 102 
+Letter   - >  _ I 0 102 
+Letter   - >  _ J 0 102 
+Letter   - >  _ K 0 102 
+Letter   - >  _ L 0 102 
+Letter   - >  _ M 0 102 
+Letter   - >  _ N 0 102 
+Letter   - >  _ O 0 102 
+Letter   - >  _ P 0 102 
+Letter   - >  _ Q 0 102 
+Letter   - >  _ R 0 102 
+Letter   - >  _ S 0 102 
+Letter   - >  _ T 0 102 
+Letter   - >  _ U 0 102 
+Letter   - >  _ V 0 102 
+Letter   - >  _ W 0 102 
+Letter   - >  _ X 0 102 
+Letter   - >  _ Y 0 102 
+Letter   - >  _ Z 0 102 
+
+103 
+Op   - >  _ Id := Expr ; 2 101 
+Expr   - >  _ SimpleExpr 0 103 
+Expr   - >  _ SimpleExpr + Expr 0 103 
+Expr   - >  _ SimpleExpr - Expr 0 103 
+SimpleExpr   - >  _ Id 0 103 
+SimpleExpr   - >  _ Const 0 103 
+SimpleExpr   - >  _ ( Expr ) 0 103 
+Id   - >  _ Letter 0 103 
+Id   - >  _ Letter Id 0 103 
+Const   - >  _ Digit 0 103 
+Const   - >  _ Digit Const 0 103 
+Letter   - >  _ a 0 103 
+Letter   - >  _ b 0 103 
+Letter   - >  _ c 0 103 
+Letter   - >  _ d 0 103 
+Letter   - >  _ e 0 103 
+Letter   - >  _ f 0 103 
+Letter   - >  _ g 0 103 
+Letter   - >  _ h 0 103 
+Letter   - >  _ i 0 103 
+Letter   - >  _ j 0 103 
+Letter   - >  _ k 0 103 
+Letter   - >  _ l 0 103 
+Letter   - >  _ m 0 103 
+Letter   - >  _ n 0 103 
+Letter   - >  _ o 0 103 
+Letter   - >  _ p 0 103 
+Letter   - >  _ q 0 103 
+Letter   - >  _ r 0 103 
+Letter   - >  _ s 0 103 
+Letter   - >  _ t 0 103 
+Letter   - >  _ u 0 103 
+Letter   - >  _ v 0 103 
+Letter   - >  _ w 0 103 
+Letter   - >  _ x 0 103 
+Letter   - >  _ y 0 103 
+Letter   - >  _ z 0 103 
+Letter   - >  _ A 0 103 
+Letter   - >  _ B 0 103 
+Letter   - >  _ C 0 103 
+Letter   - >  _ D 0 103 
+Letter   - >  _ E 0 103 
+Letter   - >  _ F 0 103 
+Letter   - >  _ G 0 103 
+Letter   - >  _ H 0 103 
+Letter   - >  _ I 0 103 
+Letter   - >  _ J 0 103 
+Letter   - >  _ K 0 103 
+Letter   - >  _ L 0 103 
+Letter   - >  _ M 0 103 
+Letter   - >  _ N 0 103 
+Letter   - >  _ O 0 103 
+Letter   - >  _ P 0 103 
+Letter   - >  _ Q 0 103 
+Letter   - >  _ R 0 103 
+Letter   - >  _ S 0 103 
+Letter   - >  _ T 0 103 
+Letter   - >  _ U 0 103 
+Letter   - >  _ V 0 103 
+Letter   - >  _ W 0 103 
+Letter   - >  _ X 0 103 
+Letter   - >  _ Y 0 103 
+Letter   - >  _ Z 0 103 
+Digit   - >  _ 0 0 103 
+Digit   - >  _ 1 0 103 
+Digit   - >  _ 2 0 103 
+Digit   - >  _ 3 0 103 
+Digit   - >  _ 4 0 103 
+Digit   - >  _ 5 0 103 
+Digit   - >  _ 6 0 103 
+Digit   - >  _ 7 0 103 
+Digit   - >  _ 8 0 103 
+Digit   - >  _ 9 0 103 
+
+104 
+Letter   - >  _ b 1 103 
+Id   - >  _ Letter 1 103 
+Id   - >  _ Letter Id 1 103 
+Id   - >  _ Letter 0 104 
+Id   - >  _ Letter Id 0 104 
+SimpleExpr   - >  _ Id 1 103 
+Letter   - >  _ a 0 104 
+Letter   - >  _ b 0 104 
+Letter   - >  _ c 0 104 
+Letter   - >  _ d 0 104 
+Letter   - >  _ e 0 104 
+Letter   - >  _ f 0 104 
+Letter   - >  _ g 0 104 
+Letter   - >  _ h 0 104 
+Letter   - >  _ i 0 104 
+Letter   - >  _ j 0 104 
+Letter   - >  _ k 0 104 
+Letter   - >  _ l 0 104 
+Letter   - >  _ m 0 104 
+Letter   - >  _ n 0 104 
+Letter   - >  _ o 0 104 
+Letter   - >  _ p 0 104 
+Letter   - >  _ q 0 104 
+Letter   - >  _ r 0 104 
+Letter   - >  _ s 0 104 
+Letter   - >  _ t 0 104 
+Letter   - >  _ u 0 104 
+Letter   - >  _ v 0 104 
+Letter   - >  _ w 0 104 
+Letter   - >  _ x 0 104 
+Letter   - >  _ y 0 104 
+Letter   - >  _ z 0 104 
+Letter   - >  _ A 0 104 
+Letter   - >  _ B 0 104 
+Letter   - >  _ C 0 104 
+Letter   - >  _ D 0 104 
+Letter   - >  _ E 0 104 
+Letter   - >  _ F 0 104 
+Letter   - >  _ G 0 104 
+Letter   - >  _ H 0 104 
+Letter   - >  _ I 0 104 
+Letter   - >  _ J 0 104 
+Letter   - >  _ K 0 104 
+Letter   - >  _ L 0 104 
+Letter   - >  _ M 0 104 
+Letter   - >  _ N 0 104 
+Letter   - >  _ O 0 104 
+Letter   - >  _ P 0 104 
+Letter   - >  _ Q 0 104 
+Letter   - >  _ R 0 104 
+Letter   - >  _ S 0 104 
+Letter   - >  _ T 0 104 
+Letter   - >  _ U 0 104 
+Letter   - >  _ V 0 104 
+Letter   - >  _ W 0 104 
+Letter   - >  _ X 0 104 
+Letter   - >  _ Y 0 104 
+Letter   - >  _ Z 0 104 
+Expr   - >  _ SimpleExpr 1 103 
+Expr   - >  _ SimpleExpr + Expr 1 103 
+Expr   - >  _ SimpleExpr - Expr 1 103 
+Op   - >  _ Id := Expr ; 3 101 
+
+105 
+Expr   - >  _ SimpleExpr + Expr 2 103 
+Expr   - >  _ SimpleExpr 0 105 
+Expr   - >  _ SimpleExpr + Expr 0 105 
+Expr   - >  _ SimpleExpr - Expr 0 105 
+SimpleExpr   - >  _ Id 0 105 
+SimpleExpr   - >  _ Const 0 105 
+SimpleExpr   - >  _ ( Expr ) 0 105 
+Id   - >  _ Letter 0 105 
+Id   - >  _ Letter Id 0 105 
+Const   - >  _ Digit 0 105 
+Const   - >  _ Digit Const 0 105 
+Letter   - >  _ a 0 105 
+Letter   - >  _ b 0 105 
+Letter   - >  _ c 0 105 
+Letter   - >  _ d 0 105 
+Letter   - >  _ e 0 105 
+Letter   - >  _ f 0 105 
+Letter   - >  _ g 0 105 
+Letter   - >  _ h 0 105 
+Letter   - >  _ i 0 105 
+Letter   - >  _ j 0 105 
+Letter   - >  _ k 0 105 
+Letter   - >  _ l 0 105 
+Letter   - >  _ m 0 105 
+Letter   - >  _ n 0 105 
+Letter   - >  _ o 0 105 
+Letter   - >  _ p 0 105 
+Letter   - >  _ q 0 105 
+Letter   - >  _ r 0 105 
+Letter   - >  _ s 0 105 
+Letter   - >  _ t 0 105 
+Letter   - >  _ u 0 105 
+Letter   - >  _ v 0 105 
+Letter   - >  _ w 0 105 
+Letter   - >  _ x 0 105 
+Letter   - >  _ y 0 105 
+Letter   - >  _ z 0 105 
+Letter   - >  _ A 0 105 
+Letter   - >  _ B 0 105 
+Letter   - >  _ C 0 105 
+Letter   - >  _ D 0 105 
+Letter   - >  _ E 0 105 
+Letter   - >  _ F 0 105 
+Letter   - >  _ G 0 105 
+Letter   - >  _ H 0 105 
+Letter   - >  _ I 0 105 
+Letter   - >  _ J 0 105 
+Letter   - >  _ K 0 105 
+Letter   - >  _ L 0 105 
+Letter   - >  _ M 0 105 
+Letter   - >  _ N 0 105 
+Letter   - >  _ O 0 105 
+Letter   - >  _ P 0 105 
+Letter   - >  _ Q 0 105 
+Letter   - >  _ R 0 105 
+Letter   - >  _ S 0 105 
+Letter   - >  _ T 0 105 
+Letter   - >  _ U 0 105 
+Letter   - >  _ V 0 105 
+Letter   - >  _ W 0 105 
+Letter   - >  _ X 0 105 
+Letter   - >  _ Y 0 105 
+Letter   - >  _ Z 0 105 
+Digit   - >  _ 0 0 105 
+Digit   - >  _ 1 0 105 
+Digit   - >  _ 2 0 105 
+Digit   - >  _ 3 0 105 
+Digit   - >  _ 4 0 105 
+Digit   - >  _ 5 0 105 
+Digit   - >  _ 6 0 105 
+Digit   - >  _ 7 0 105 
+Digit   - >  _ 8 0 105 
+Digit   - >  _ 9 0 105 
+
+106 
+Digit   - >  _ 2 1 105 
+Const   - >  _ Digit 1 105 
+Const   - >  _ Digit Const 1 105 
+Const   - >  _ Digit 0 106 
+Const   - >  _ Digit Const 0 106 
+SimpleExpr   - >  _ Const 1 105 
+Digit   - >  _ 0 0 106 
+Digit   - >  _ 1 0 106 
+Digit   - >  _ 2 0 106 
+Digit   - >  _ 3 0 106 
+Digit   - >  _ 4 0 106 
+Digit   - >  _ 5 0 106 
+Digit   - >  _ 6 0 106 
+Digit   - >  _ 7 0 106 
+Digit   - >  _ 8 0 106 
+Digit   - >  _ 9 0 106 
+Expr   - >  _ SimpleExpr 1 105 
+Expr   - >  _ SimpleExpr + Expr 1 105 
+Expr   - >  _ SimpleExpr - Expr 1 105 
+Expr   - >  _ SimpleExpr + Expr 3 103 
+Op   - >  _ Id := Expr ; 3 101 
+
+107 
+Expr   - >  _ SimpleExpr + Expr 2 105 
+Expr   - >  _ SimpleExpr 0 107 
+Expr   - >  _ SimpleExpr + Expr 0 107 
+Expr   - >  _ SimpleExpr - Expr 0 107 
+SimpleExpr   - >  _ Id 0 107 
+SimpleExpr   - >  _ Const 0 107 
+SimpleExpr   - >  _ ( Expr ) 0 107 
+Id   - >  _ Letter 0 107 
+Id   - >  _ Letter Id 0 107 
+Const   - >  _ Digit 0 107 
+Const   - >  _ Digit Const 0 107 
+Letter   - >  _ a 0 107 
+Letter   - >  _ b 0 107 
+Letter   - >  _ c 0 107 
+Letter   - >  _ d 0 107 
+Letter   - >  _ e 0 107 
+Letter   - >  _ f 0 107 
+Letter   - >  _ g 0 107 
+Letter   - >  _ h 0 107 
+Letter   - >  _ i 0 107 
+Letter   - >  _ j 0 107 
+Letter   - >  _ k 0 107 
+Letter   - >  _ l 0 107 
+Letter   - >  _ m 0 107 
+Letter   - >  _ n 0 107 
+Letter   - >  _ o 0 107 
+Letter   - >  _ p 0 107 
+Letter   - >  _ q 0 107 
+Letter   - >  _ r 0 107 
+Letter   - >  _ s 0 107 
+Letter   - >  _ t 0 107 
+Letter   - >  _ u 0 107 
+Letter   - >  _ v 0 107 
+Letter   - >  _ w 0 107 
+Letter   - >  _ x 0 107 
+Letter   - >  _ y 0 107 
+Letter   - >  _ z 0 107 
+Letter   - >  _ A 0 107 
+Letter   - >  _ B 0 107 
+Letter   - >  _ C 0 107 
+Letter   - >  _ D 0 107 
+Letter   - >  _ E 0 107 
+Letter   - >  _ F 0 107 
+Letter   - >  _ G 0 107 
+Letter   - >  _ H 0 107 
+Letter   - >  _ I 0 107 
+Letter   - >  _ J 0 107 
+Letter   - >  _ K 0 107 
+Letter   - >  _ L 0 107 
+Letter   - >  _ M 0 107 
+Letter   - >  _ N 0 107 
+Letter   - >  _ O 0 107 
+Letter   - >  _ P 0 107 
+Letter   - >  _ Q 0 107 
+Letter   - >  _ R 0 107 
+Letter   - >  _ S 0 107 
+Letter   - >  _ T 0 107 
+Letter   - >  _ U 0 107 
+Letter   - >  _ V 0 107 
+Letter   - >  _ W 0 107 
+Letter   - >  _ X 0 107 
+Letter   - >  _ Y 0 107 
+Letter   - >  _ Z 0 107 
+Digit   - >  _ 0 0 107 
+Digit   - >  _ 1 0 107 
+Digit   - >  _ 2 0 107 
+Digit   - >  _ 3 0 107 
+Digit   - >  _ 4 0 107 
+Digit   - >  _ 5 0 107 
+Digit   - >  _ 6 0 107 
+Digit   - >  _ 7 0 107 
+Digit   - >  _ 8 0 107 
+Digit   - >  _ 9 0 107 
+
+108 
+Letter   - >  _ c 1 107 
+Id   - >  _ Letter 1 107 
+Id   - >  _ Letter Id 1 107 
+Id   - >  _ Letter 0 108 
+Id   - >  _ Letter Id 0 108 
+SimpleExpr   - >  _ Id 1 107 
+Letter   - >  _ a 0 108 
+Letter   - >  _ b 0 108 
+Letter   - >  _ c 0 108 
+Letter   - >  _ d 0 108 
+Letter   - >  _ e 0 108 
+Letter   - >  _ f 0 108 
+Letter   - >  _ g 0 108 
+Letter   - >  _ h 0 108 
+Letter   - >  _ i 0 108 
+Letter   - >  _ j 0 108 
+Letter   - >  _ k 0 108 
+Letter   - >  _ l 0 108 
+Letter   - >  _ m 0 108 
+Letter   - >  _ n 0 108 
+Letter   - >  _ o 0 108 
+Letter   - >  _ p 0 108 
+Letter   - >  _ q 0 108 
+Letter   - >  _ r 0 108 
+Letter   - >  _ s 0 108 
+Letter   - >  _ t 0 108 
+Letter   - >  _ u 0 108 
+Letter   - >  _ v 0 108 
+Letter   - >  _ w 0 108 
+Letter   - >  _ x 0 108 
+Letter   - >  _ y 0 108 
+Letter   - >  _ z 0 108 
+Letter   - >  _ A 0 108 
+Letter   - >  _ B 0 108 
+Letter   - >  _ C 0 108 
+Letter   - >  _ D 0 108 
+Letter   - >  _ E 0 108 
+Letter   - >  _ F 0 108 
+Letter   - >  _ G 0 108 
+Letter   - >  _ H 0 108 
+Letter   - >  _ I 0 108 
+Letter   - >  _ J 0 108 
+Letter   - >  _ K 0 108 
+Letter   - >  _ L 0 108 
+Letter   - >  _ M 0 108 
+Letter   - >  _ N 0 108 
+Letter   - >  _ O 0 108 
+Letter   - >  _ P 0 108 
+Letter   - >  _ Q 0 108 
+Letter   - >  _ R 0 108 
+Letter   - >  _ S 0 108 
+Letter   - >  _ T 0 108 
+Letter   - >  _ U 0 108 
+Letter   - >  _ V 0 108 
+Letter   - >  _ W 0 108 
+Letter   - >  _ X 0 108 
+Letter   - >  _ Y 0 108 
+Letter   - >  _ Z 0 108 
+Expr   - >  _ SimpleExpr 1 107 
+Expr   - >  _ SimpleExpr + Expr 1 107 
+Expr   - >  _ SimpleExpr - Expr 1 107 
+Expr   - >  _ SimpleExpr + Expr 3 105 
+Expr   - >  _ SimpleExpr + Expr 3 103 
+Op   - >  _ Id := Expr ; 3 101 
+
+109 
+Op   - >  _ Id := Expr ; 4 101 
+Operators   - >  _ Op 1 101 
+Operators   - >  _ Op Operators 1 101 
+Operators   - >  _ Op 0 109 
+Operators   - >  _ Op Operators 0 109 
+Operators   - >  _ Op Operators 2 76 
+Op   - >  _ Id := Expr ; 0 109 
+Op   - >  _ case Expr of Options end ; 0 109 
+Operators   - >  _ Op Operators 2 70 
+Id   - >  _ Letter 0 109 
+Id   - >  _ Letter Id 0 109 
+Options   - >  _ Const : Operators Options 3 68 
+Options   - >  _ Const : Operators 3 68 
+Letter   - >  _ a 0 109 
+Letter   - >  _ b 0 109 
+Letter   - >  _ c 0 109 
+Letter   - >  _ d 0 109 
+Letter   - >  _ e 0 109 
+Letter   - >  _ f 0 109 
+Letter   - >  _ g 0 109 
+Letter   - >  _ h 0 109 
+Letter   - >  _ i 0 109 
+Letter   - >  _ j 0 109 
+Letter   - >  _ k 0 109 
+Letter   - >  _ l 0 109 
+Letter   - >  _ m 0 109 
+Letter   - >  _ n 0 109 
+Letter   - >  _ o 0 109 
+Letter   - >  _ p 0 109 
+Letter   - >  _ q 0 109 
+Letter   - >  _ r 0 109 
+Letter   - >  _ s 0 109 
+Letter   - >  _ t 0 109 
+Letter   - >  _ u 0 109 
+Letter   - >  _ v 0 109 
+Letter   - >  _ w 0 109 
+Letter   - >  _ x 0 109 
+Letter   - >  _ y 0 109 
+Letter   - >  _ z 0 109 
+Letter   - >  _ A 0 109 
+Letter   - >  _ B 0 109 
+Letter   - >  _ C 0 109 
+Letter   - >  _ D 0 109 
+Letter   - >  _ E 0 109 
+Letter   - >  _ F 0 109 
+Letter   - >  _ G 0 109 
+Letter   - >  _ H 0 109 
+Letter   - >  _ I 0 109 
+Letter   - >  _ J 0 109 
+Letter   - >  _ K 0 109 
+Letter   - >  _ L 0 109 
+Letter   - >  _ M 0 109 
+Letter   - >  _ N 0 109 
+Letter   - >  _ O 0 109 
+Letter   - >  _ P 0 109 
+Letter   - >  _ Q 0 109 
+Letter   - >  _ R 0 109 
+Letter   - >  _ S 0 109 
+Letter   - >  _ T 0 109 
+Letter   - >  _ U 0 109 
+Letter   - >  _ V 0 109 
+Letter   - >  _ W 0 109 
+Letter   - >  _ X 0 109 
+Letter   - >  _ Y 0 109 
+Letter   - >  _ Z 0 109 
+Options   - >  _ Const : Operators Options 0 109 
+Options   - >  _ Const : Operators 0 109 
+Options   - >  _ Const : Operators Options 4 52 
+Const   - >  _ Digit 0 109 
+Const   - >  _ Digit Const 0 109 
+Op   - >  _ case Expr of Options end ; 4 41 
+Digit   - >  _ 0 0 109 
+Digit   - >  _ 1 0 109 
+Digit   - >  _ 2 0 109 
+Digit   - >  _ 3 0 109 
+Digit   - >  _ 4 0 109 
+Digit   - >  _ 5 0 109 
+Digit   - >  _ 6 0 109 
+Digit   - >  _ 7 0 109 
+Digit   - >  _ 8 0 109 
+Digit   - >  _ 9 0 109 
+
+110 
+Digit   - >  _ 3 1 109 
+Const   - >  _ Digit 1 109 
+Const   - >  _ Digit Const 1 109 
+Const   - >  _ Digit 0 110 
+Const   - >  _ Digit Const 0 110 
+Options   - >  _ Const : Operators Options 1 109 
+Options   - >  _ Const : Operators 1 109 
+Digit   - >  _ 0 0 110 
+Digit   - >  _ 1 0 110 
+Digit   - >  _ 2 0 110 
+Digit   - >  _ 3 0 110 
+Digit   - >  _ 4 0 110 
+Digit   - >  _ 5 0 110 
+Digit   - >  _ 6 0 110 
+Digit   - >  _ 7 0 110 
+Digit   - >  _ 8 0 110 
+Digit   - >  _ 9 0 110 
+
+111 
+Options   - >  _ Const : Operators Options 2 109 
+Options   - >  _ Const : Operators 2 109 
+Operators   - >  _ Op 0 111 
+Operators   - >  _ Op Operators 0 111 
+Op   - >  _ Id := Expr ; 0 111 
+Op   - >  _ case Expr of Options end ; 0 111 
+Id   - >  _ Letter 0 111 
+Id   - >  _ Letter Id 0 111 
+Letter   - >  _ a 0 111 
+Letter   - >  _ b 0 111 
+Letter   - >  _ c 0 111 
+Letter   - >  _ d 0 111 
+Letter   - >  _ e 0 111 
+Letter   - >  _ f 0 111 
+Letter   - >  _ g 0 111 
+Letter   - >  _ h 0 111 
+Letter   - >  _ i 0 111 
+Letter   - >  _ j 0 111 
+Letter   - >  _ k 0 111 
+Letter   - >  _ l 0 111 
+Letter   - >  _ m 0 111 
+Letter   - >  _ n 0 111 
+Letter   - >  _ o 0 111 
+Letter   - >  _ p 0 111 
+Letter   - >  _ q 0 111 
+Letter   - >  _ r 0 111 
+Letter   - >  _ s 0 111 
+Letter   - >  _ t 0 111 
+Letter   - >  _ u 0 111 
+Letter   - >  _ v 0 111 
+Letter   - >  _ w 0 111 
+Letter   - >  _ x 0 111 
+Letter   - >  _ y 0 111 
+Letter   - >  _ z 0 111 
+Letter   - >  _ A 0 111 
+Letter   - >  _ B 0 111 
+Letter   - >  _ C 0 111 
+Letter   - >  _ D 0 111 
+Letter   - >  _ E 0 111 
+Letter   - >  _ F 0 111 
+Letter   - >  _ G 0 111 
+Letter   - >  _ H 0 111 
+Letter   - >  _ I 0 111 
+Letter   - >  _ J 0 111 
+Letter   - >  _ K 0 111 
+Letter   - >  _ L 0 111 
+Letter   - >  _ M 0 111 
+Letter   - >  _ N 0 111 
+Letter   - >  _ O 0 111 
+Letter   - >  _ P 0 111 
+Letter   - >  _ Q 0 111 
+Letter   - >  _ R 0 111 
+Letter   - >  _ S 0 111 
+Letter   - >  _ T 0 111 
+Letter   - >  _ U 0 111 
+Letter   - >  _ V 0 111 
+Letter   - >  _ W 0 111 
+Letter   - >  _ X 0 111 
+Letter   - >  _ Y 0 111 
+Letter   - >  _ Z 0 111 
+
+112 
+Letter   - >  _ z 1 111 
+Id   - >  _ Letter 1 111 
+Id   - >  _ Letter Id 1 111 
+Id   - >  _ Letter 0 112 
+Id   - >  _ Letter Id 0 112 
+Op   - >  _ Id := Expr ; 1 111 
+Letter   - >  _ a 0 112 
+Letter   - >  _ b 0 112 
+Letter   - >  _ c 0 112 
+Letter   - >  _ d 0 112 
+Letter   - >  _ e 0 112 
+Letter   - >  _ f 0 112 
+Letter   - >  _ g 0 112 
+Letter   - >  _ h 0 112 
+Letter   - >  _ i 0 112 
+Letter   - >  _ j 0 112 
+Letter   - >  _ k 0 112 
+Letter   - >  _ l 0 112 
+Letter   - >  _ m 0 112 
+Letter   - >  _ n 0 112 
+Letter   - >  _ o 0 112 
+Letter   - >  _ p 0 112 
+Letter   - >  _ q 0 112 
+Letter   - >  _ r 0 112 
+Letter   - >  _ s 0 112 
+Letter   - >  _ t 0 112 
+Letter   - >  _ u 0 112 
+Letter   - >  _ v 0 112 
+Letter   - >  _ w 0 112 
+Letter   - >  _ x 0 112 
+Letter   - >  _ y 0 112 
+Letter   - >  _ z 0 112 
+Letter   - >  _ A 0 112 
+Letter   - >  _ B 0 112 
+Letter   - >  _ C 0 112 
+Letter   - >  _ D 0 112 
+Letter   - >  _ E 0 112 
+Letter   - >  _ F 0 112 
+Letter   - >  _ G 0 112 
+Letter   - >  _ H 0 112 
+Letter   - >  _ I 0 112 
+Letter   - >  _ J 0 112 
+Letter   - >  _ K 0 112 
+Letter   - >  _ L 0 112 
+Letter   - >  _ M 0 112 
+Letter   - >  _ N 0 112 
+Letter   - >  _ O 0 112 
+Letter   - >  _ P 0 112 
+Letter   - >  _ Q 0 112 
+Letter   - >  _ R 0 112 
+Letter   - >  _ S 0 112 
+Letter   - >  _ T 0 112 
+Letter   - >  _ U 0 112 
+Letter   - >  _ V 0 112 
+Letter   - >  _ W 0 112 
+Letter   - >  _ X 0 112 
+Letter   - >  _ Y 0 112 
+Letter   - >  _ Z 0 112 
+
+113 
+Op   - >  _ Id := Expr ; 2 111 
+Expr   - >  _ SimpleExpr 0 113 
+Expr   - >  _ SimpleExpr + Expr 0 113 
+Expr   - >  _ SimpleExpr - Expr 0 113 
+SimpleExpr   - >  _ Id 0 113 
+SimpleExpr   - >  _ Const 0 113 
+SimpleExpr   - >  _ ( Expr ) 0 113 
+Id   - >  _ Letter 0 113 
+Id   - >  _ Letter Id 0 113 
+Const   - >  _ Digit 0 113 
+Const   - >  _ Digit Const 0 113 
+Letter   - >  _ a 0 113 
+Letter   - >  _ b 0 113 
+Letter   - >  _ c 0 113 
+Letter   - >  _ d 0 113 
+Letter   - >  _ e 0 113 
+Letter   - >  _ f 0 113 
+Letter   - >  _ g 0 113 
+Letter   - >  _ h 0 113 
+Letter   - >  _ i 0 113 
+Letter   - >  _ j 0 113 
+Letter   - >  _ k 0 113 
+Letter   - >  _ l 0 113 
+Letter   - >  _ m 0 113 
+Letter   - >  _ n 0 113 
+Letter   - >  _ o 0 113 
+Letter   - >  _ p 0 113 
+Letter   - >  _ q 0 113 
+Letter   - >  _ r 0 113 
+Letter   - >  _ s 0 113 
+Letter   - >  _ t 0 113 
+Letter   - >  _ u 0 113 
+Letter   - >  _ v 0 113 
+Letter   - >  _ w 0 113 
+Letter   - >  _ x 0 113 
+Letter   - >  _ y 0 113 
+Letter   - >  _ z 0 113 
+Letter   - >  _ A 0 113 
+Letter   - >  _ B 0 113 
+Letter   - >  _ C 0 113 
+Letter   - >  _ D 0 113 
+Letter   - >  _ E 0 113 
+Letter   - >  _ F 0 113 
+Letter   - >  _ G 0 113 
+Letter   - >  _ H 0 113 
+Letter   - >  _ I 0 113 
+Letter   - >  _ J 0 113 
+Letter   - >  _ K 0 113 
+Letter   - >  _ L 0 113 
+Letter   - >  _ M 0 113 
+Letter   - >  _ N 0 113 
+Letter   - >  _ O 0 113 
+Letter   - >  _ P 0 113 
+Letter   - >  _ Q 0 113 
+Letter   - >  _ R 0 113 
+Letter   - >  _ S 0 113 
+Letter   - >  _ T 0 113 
+Letter   - >  _ U 0 113 
+Letter   - >  _ V 0 113 
+Letter   - >  _ W 0 113 
+Letter   - >  _ X 0 113 
+Letter   - >  _ Y 0 113 
+Letter   - >  _ Z 0 113 
+Digit   - >  _ 0 0 113 
+Digit   - >  _ 1 0 113 
+Digit   - >  _ 2 0 113 
+Digit   - >  _ 3 0 113 
+Digit   - >  _ 4 0 113 
+Digit   - >  _ 5 0 113 
+Digit   - >  _ 6 0 113 
+Digit   - >  _ 7 0 113 
+Digit   - >  _ 8 0 113 
+Digit   - >  _ 9 0 113 
+
+114 
+Digit   - >  _ 1 1 113 
+Const   - >  _ Digit 1 113 
+Const   - >  _ Digit Const 1 113 
+Const   - >  _ Digit 0 114 
+Const   - >  _ Digit Const 0 114 
+SimpleExpr   - >  _ Const 1 113 
+Digit   - >  _ 0 0 114 
+Digit   - >  _ 1 0 114 
+Digit   - >  _ 2 0 114 
+Digit   - >  _ 3 0 114 
+Digit   - >  _ 4 0 114 
+Digit   - >  _ 5 0 114 
+Digit   - >  _ 6 0 114 
+Digit   - >  _ 7 0 114 
+Digit   - >  _ 8 0 114 
+Digit   - >  _ 9 0 114 
+Expr   - >  _ SimpleExpr 1 113 
+Expr   - >  _ SimpleExpr + Expr 1 113 
+Expr   - >  _ SimpleExpr - Expr 1 113 
+Op   - >  _ Id := Expr ; 3 111 
+
+115 
+Op   - >  _ Id := Expr ; 4 111 
+Operators   - >  _ Op 1 111 
+Operators   - >  _ Op Operators 1 111 
+Operators   - >  _ Op 0 115 
+Operators   - >  _ Op Operators 0 115 
+Options   - >  _ Const : Operators Options 3 109 
+Options   - >  _ Const : Operators 3 109 
+Op   - >  _ Id := Expr ; 0 115 
+Op   - >  _ case Expr of Options end ; 0 115 
+Options   - >  _ Const : Operators Options 0 115 
+Options   - >  _ Const : Operators 0 115 
+Options   - >  _ Const : Operators Options 4 68 
+Id   - >  _ Letter 0 115 
+Id   - >  _ Letter Id 0 115 
+Const   - >  _ Digit 0 115 
+Const   - >  _ Digit Const 0 115 
+Options   - >  _ Const : Operators Options 4 52 
+Letter   - >  _ a 0 115 
+Letter   - >  _ b 0 115 
+Letter   - >  _ c 0 115 
+Letter   - >  _ d 0 115 
+Letter   - >  _ e 0 115 
+Letter   - >  _ f 0 115 
+Letter   - >  _ g 0 115 
+Letter   - >  _ h 0 115 
+Letter   - >  _ i 0 115 
+Letter   - >  _ j 0 115 
+Letter   - >  _ k 0 115 
+Letter   - >  _ l 0 115 
+Letter   - >  _ m 0 115 
+Letter   - >  _ n 0 115 
+Letter   - >  _ o 0 115 
+Letter   - >  _ p 0 115 
+Letter   - >  _ q 0 115 
+Letter   - >  _ r 0 115 
+Letter   - >  _ s 0 115 
+Letter   - >  _ t 0 115 
+Letter   - >  _ u 0 115 
+Letter   - >  _ v 0 115 
+Letter   - >  _ w 0 115 
+Letter   - >  _ x 0 115 
+Letter   - >  _ y 0 115 
+Letter   - >  _ z 0 115 
+Letter   - >  _ A 0 115 
+Letter   - >  _ B 0 115 
+Letter   - >  _ C 0 115 
+Letter   - >  _ D 0 115 
+Letter   - >  _ E 0 115 
+Letter   - >  _ F 0 115 
+Letter   - >  _ G 0 115 
+Letter   - >  _ H 0 115 
+Letter   - >  _ I 0 115 
+Letter   - >  _ J 0 115 
+Letter   - >  _ K 0 115 
+Letter   - >  _ L 0 115 
+Letter   - >  _ M 0 115 
+Letter   - >  _ N 0 115 
+Letter   - >  _ O 0 115 
+Letter   - >  _ P 0 115 
+Letter   - >  _ Q 0 115 
+Letter   - >  _ R 0 115 
+Letter   - >  _ S 0 115 
+Letter   - >  _ T 0 115 
+Letter   - >  _ U 0 115 
+Letter   - >  _ V 0 115 
+Letter   - >  _ W 0 115 
+Letter   - >  _ X 0 115 
+Letter   - >  _ Y 0 115 
+Letter   - >  _ Z 0 115 
+Digit   - >  _ 0 0 115 
+Digit   - >  _ 1 0 115 
+Digit   - >  _ 2 0 115 
+Digit   - >  _ 3 0 115 
+Digit   - >  _ 4 0 115 
+Digit   - >  _ 5 0 115 
+Digit   - >  _ 6 0 115 
+Digit   - >  _ 7 0 115 
+Digit   - >  _ 8 0 115 
+Digit   - >  _ 9 0 115 
+Op   - >  _ case Expr of Options end ; 4 41 
+
+116 
+Op   - >  _ case Expr of Options end ; 1 115 
+Expr   - >  _ SimpleExpr 0 116 
+Expr   - >  _ SimpleExpr + Expr 0 116 
+Expr   - >  _ SimpleExpr - Expr 0 116 
+SimpleExpr   - >  _ Id 0 116 
+SimpleExpr   - >  _ Const 0 116 
+SimpleExpr   - >  _ ( Expr ) 0 116 
+Id   - >  _ Letter 0 116 
+Id   - >  _ Letter Id 0 116 
+Const   - >  _ Digit 0 116 
+Const   - >  _ Digit Const 0 116 
+Letter   - >  _ a 0 116 
+Letter   - >  _ b 0 116 
+Letter   - >  _ c 0 116 
+Letter   - >  _ d 0 116 
+Letter   - >  _ e 0 116 
+Letter   - >  _ f 0 116 
+Letter   - >  _ g 0 116 
+Letter   - >  _ h 0 116 
+Letter   - >  _ i 0 116 
+Letter   - >  _ j 0 116 
+Letter   - >  _ k 0 116 
+Letter   - >  _ l 0 116 
+Letter   - >  _ m 0 116 
+Letter   - >  _ n 0 116 
+Letter   - >  _ o 0 116 
+Letter   - >  _ p 0 116 
+Letter   - >  _ q 0 116 
+Letter   - >  _ r 0 116 
+Letter   - >  _ s 0 116 
+Letter   - >  _ t 0 116 
+Letter   - >  _ u 0 116 
+Letter   - >  _ v 0 116 
+Letter   - >  _ w 0 116 
+Letter   - >  _ x 0 116 
+Letter   - >  _ y 0 116 
+Letter   - >  _ z 0 116 
+Letter   - >  _ A 0 116 
+Letter   - >  _ B 0 116 
+Letter   - >  _ C 0 116 
+Letter   - >  _ D 0 116 
+Letter   - >  _ E 0 116 
+Letter   - >  _ F 0 116 
+Letter   - >  _ G 0 116 
+Letter   - >  _ H 0 116 
+Letter   - >  _ I 0 116 
+Letter   - >  _ J 0 116 
+Letter   - >  _ K 0 116 
+Letter   - >  _ L 0 116 
+Letter   - >  _ M 0 116 
+Letter   - >  _ N 0 116 
+Letter   - >  _ O 0 116 
+Letter   - >  _ P 0 116 
+Letter   - >  _ Q 0 116 
+Letter   - >  _ R 0 116 
+Letter   - >  _ S 0 116 
+Letter   - >  _ T 0 116 
+Letter   - >  _ U 0 116 
+Letter   - >  _ V 0 116 
+Letter   - >  _ W 0 116 
+Letter   - >  _ X 0 116 
+Letter   - >  _ Y 0 116 
+Letter   - >  _ Z 0 116 
+Digit   - >  _ 0 0 116 
+Digit   - >  _ 1 0 116 
+Digit   - >  _ 2 0 116 
+Digit   - >  _ 3 0 116 
+Digit   - >  _ 4 0 116 
+Digit   - >  _ 5 0 116 
+Digit   - >  _ 6 0 116 
+Digit   - >  _ 7 0 116 
+Digit   - >  _ 8 0 116 
+Digit   - >  _ 9 0 116 
+
+117 
+Digit   - >  _ 1 1 116 
+Const   - >  _ Digit 1 116 
+Const   - >  _ Digit Const 1 116 
+Const   - >  _ Digit 0 117 
+Const   - >  _ Digit Const 0 117 
+SimpleExpr   - >  _ Const 1 116 
+Digit   - >  _ 0 0 117 
+Digit   - >  _ 1 0 117 
+Digit   - >  _ 2 0 117 
+Digit   - >  _ 3 0 117 
+Digit   - >  _ 4 0 117 
+Digit   - >  _ 5 0 117 
+Digit   - >  _ 6 0 117 
+Digit   - >  _ 7 0 117 
+Digit   - >  _ 8 0 117 
+Digit   - >  _ 9 0 117 
+Expr   - >  _ SimpleExpr 1 116 
+Expr   - >  _ SimpleExpr + Expr 1 116 
+Expr   - >  _ SimpleExpr - Expr 1 116 
+Op   - >  _ case Expr of Options end ; 2 115 
+
+118 
+Digit   - >  _ 0 1 117 
+Const   - >  _ Digit 1 117 
+Const   - >  _ Digit Const 1 117 
+Const   - >  _ Digit 0 118 
+Const   - >  _ Digit Const 0 118 
+Const   - >  _ Digit Const 2 116 
+Digit   - >  _ 0 0 118 
+Digit   - >  _ 1 0 118 
+Digit   - >  _ 2 0 118 
+Digit   - >  _ 3 0 118 
+Digit   - >  _ 4 0 118 
+Digit   - >  _ 5 0 118 
+Digit   - >  _ 6 0 118 
+Digit   - >  _ 7 0 118 
+Digit   - >  _ 8 0 118 
+Digit   - >  _ 9 0 118 
+SimpleExpr   - >  _ Const 1 116 
+Expr   - >  _ SimpleExpr 1 116 
+Expr   - >  _ SimpleExpr + Expr 1 116 
+Expr   - >  _ SimpleExpr - Expr 1 116 
+Op   - >  _ case Expr of Options end ; 2 115 
+
+119 
+Digit   - >  _ 0 1 118 
+Const   - >  _ Digit 1 118 
+Const   - >  _ Digit Const 1 118 
+Const   - >  _ Digit 0 119 
+Const   - >  _ Digit Const 0 119 
+Const   - >  _ Digit Const 2 117 
+Digit   - >  _ 0 0 119 
+Digit   - >  _ 1 0 119 
+Digit   - >  _ 2 0 119 
+Digit   - >  _ 3 0 119 
+Digit   - >  _ 4 0 119 
+Digit   - >  _ 5 0 119 
+Digit   - >  _ 6 0 119 
+Digit   - >  _ 7 0 119 
+Digit   - >  _ 8 0 119 
+Digit   - >  _ 9 0 119 
+Const   - >  _ Digit Const 2 116 
+SimpleExpr   - >  _ Const 1 116 
+Expr   - >  _ SimpleExpr 1 116 
+Expr   - >  _ SimpleExpr + Expr 1 116 
+Expr   - >  _ SimpleExpr - Expr 1 116 
+Op   - >  _ case Expr of Options end ; 2 115 
+
+120 
+Op   - >  _ case Expr of Options end ; 3 115 
+Options   - >  _ Const : Operators Options 0 120 
+Options   - >  _ Const : Operators 0 120 
+Const   - >  _ Digit 0 120 
+Const   - >  _ Digit Const 0 120 
+Digit   - >  _ 0 0 120 
+Digit   - >  _ 1 0 120 
+Digit   - >  _ 2 0 120 
+Digit   - >  _ 3 0 120 
+Digit   - >  _ 4 0 120 
+Digit   - >  _ 5 0 120 
+Digit   - >  _ 6 0 120 
+Digit   - >  _ 7 0 120 
+Digit   - >  _ 8 0 120 
+Digit   - >  _ 9 0 120 
+
+121 
+Digit   - >  _ 1 1 120 
+Const   - >  _ Digit 1 120 
+Const   - >  _ Digit Const 1 120 
+Const   - >  _ Digit 0 121 
+Const   - >  _ Digit Const 0 121 
+Options   - >  _ Const : Operators Options 1 120 
+Options   - >  _ Const : Operators 1 120 
+Digit   - >  _ 0 0 121 
+Digit   - >  _ 1 0 121 
+Digit   - >  _ 2 0 121 
+Digit   - >  _ 3 0 121 
+Digit   - >  _ 4 0 121 
+Digit   - >  _ 5 0 121 
+Digit   - >  _ 6 0 121 
+Digit   - >  _ 7 0 121 
+Digit   - >  _ 8 0 121 
+Digit   - >  _ 9 0 121 
+
+122 
+Digit   - >  _ 0 1 121 
+Const   - >  _ Digit 1 121 
+Const   - >  _ Digit Const 1 121 
+Const   - >  _ Digit 0 122 
+Const   - >  _ Digit Const 0 122 
+Const   - >  _ Digit Const 2 120 
+Digit   - >  _ 0 0 122 
+Digit   - >  _ 1 0 122 
+Digit   - >  _ 2 0 122 
+Digit   - >  _ 3 0 122 
+Digit   - >  _ 4 0 122 
+Digit   - >  _ 5 0 122 
+Digit   - >  _ 6 0 122 
+Digit   - >  _ 7 0 122 
+Digit   - >  _ 8 0 122 
+Digit   - >  _ 9 0 122 
+Options   - >  _ Const : Operators Options 1 120 
+Options   - >  _ Const : Operators 1 120 
+
+123 
+Digit   - >  _ 0 1 122 
+Const   - >  _ Digit 1 122 
+Const   - >  _ Digit Const 1 122 
+Const   - >  _ Digit 0 123 
+Const   - >  _ Digit Const 0 123 
+Const   - >  _ Digit Const 2 121 
+Digit   - >  _ 0 0 123 
+Digit   - >  _ 1 0 123 
+Digit   - >  _ 2 0 123 
+Digit   - >  _ 3 0 123 
+Digit   - >  _ 4 0 123 
+Digit   - >  _ 5 0 123 
+Digit   - >  _ 6 0 123 
+Digit   - >  _ 7 0 123 
+Digit   - >  _ 8 0 123 
+Digit   - >  _ 9 0 123 
+Const   - >  _ Digit Const 2 120 
+Options   - >  _ Const : Operators Options 1 120 
+Options   - >  _ Const : Operators 1 120 
+
+124 
+Options   - >  _ Const : Operators Options 2 120 
+Options   - >  _ Const : Operators 2 120 
+Operators   - >  _ Op 0 124 
+Operators   - >  _ Op Operators 0 124 
+Op   - >  _ Id := Expr ; 0 124 
+Op   - >  _ case Expr of Options end ; 0 124 
+Id   - >  _ Letter 0 124 
+Id   - >  _ Letter Id 0 124 
+Letter   - >  _ a 0 124 
+Letter   - >  _ b 0 124 
+Letter   - >  _ c 0 124 
+Letter   - >  _ d 0 124 
+Letter   - >  _ e 0 124 
+Letter   - >  _ f 0 124 
+Letter   - >  _ g 0 124 
+Letter   - >  _ h 0 124 
+Letter   - >  _ i 0 124 
+Letter   - >  _ j 0 124 
+Letter   - >  _ k 0 124 
+Letter   - >  _ l 0 124 
+Letter   - >  _ m 0 124 
+Letter   - >  _ n 0 124 
+Letter   - >  _ o 0 124 
+Letter   - >  _ p 0 124 
+Letter   - >  _ q 0 124 
+Letter   - >  _ r 0 124 
+Letter   - >  _ s 0 124 
+Letter   - >  _ t 0 124 
+Letter   - >  _ u 0 124 
+Letter   - >  _ v 0 124 
+Letter   - >  _ w 0 124 
+Letter   - >  _ x 0 124 
+Letter   - >  _ y 0 124 
+Letter   - >  _ z 0 124 
+Letter   - >  _ A 0 124 
+Letter   - >  _ B 0 124 
+Letter   - >  _ C 0 124 
+Letter   - >  _ D 0 124 
+Letter   - >  _ E 0 124 
+Letter   - >  _ F 0 124 
+Letter   - >  _ G 0 124 
+Letter   - >  _ H 0 124 
+Letter   - >  _ I 0 124 
+Letter   - >  _ J 0 124 
+Letter   - >  _ K 0 124 
+Letter   - >  _ L 0 124 
+Letter   - >  _ M 0 124 
+Letter   - >  _ N 0 124 
+Letter   - >  _ O 0 124 
+Letter   - >  _ P 0 124 
+Letter   - >  _ Q 0 124 
+Letter   - >  _ R 0 124 
+Letter   - >  _ S 0 124 
+Letter   - >  _ T 0 124 
+Letter   - >  _ U 0 124 
+Letter   - >  _ V 0 124 
+Letter   - >  _ W 0 124 
+Letter   - >  _ X 0 124 
+Letter   - >  _ Y 0 124 
+Letter   - >  _ Z 0 124 
+
+125 
+Letter   - >  _ a 1 124 
+Id   - >  _ Letter 1 124 
+Id   - >  _ Letter Id 1 124 
+Id   - >  _ Letter 0 125 
+Id   - >  _ Letter Id 0 125 
+Op   - >  _ Id := Expr ; 1 124 
+Letter   - >  _ a 0 125 
+Letter   - >  _ b 0 125 
+Letter   - >  _ c 0 125 
+Letter   - >  _ d 0 125 
+Letter   - >  _ e 0 125 
+Letter   - >  _ f 0 125 
+Letter   - >  _ g 0 125 
+Letter   - >  _ h 0 125 
+Letter   - >  _ i 0 125 
+Letter   - >  _ j 0 125 
+Letter   - >  _ k 0 125 
+Letter   - >  _ l 0 125 
+Letter   - >  _ m 0 125 
+Letter   - >  _ n 0 125 
+Letter   - >  _ o 0 125 
+Letter   - >  _ p 0 125 
+Letter   - >  _ q 0 125 
+Letter   - >  _ r 0 125 
+Letter   - >  _ s 0 125 
+Letter   - >  _ t 0 125 
+Letter   - >  _ u 0 125 
+Letter   - >  _ v 0 125 
+Letter   - >  _ w 0 125 
+Letter   - >  _ x 0 125 
+Letter   - >  _ y 0 125 
+Letter   - >  _ z 0 125 
+Letter   - >  _ A 0 125 
+Letter   - >  _ B 0 125 
+Letter   - >  _ C 0 125 
+Letter   - >  _ D 0 125 
+Letter   - >  _ E 0 125 
+Letter   - >  _ F 0 125 
+Letter   - >  _ G 0 125 
+Letter   - >  _ H 0 125 
+Letter   - >  _ I 0 125 
+Letter   - >  _ J 0 125 
+Letter   - >  _ K 0 125 
+Letter   - >  _ L 0 125 
+Letter   - >  _ M 0 125 
+Letter   - >  _ N 0 125 
+Letter   - >  _ O 0 125 
+Letter   - >  _ P 0 125 
+Letter   - >  _ Q 0 125 
+Letter   - >  _ R 0 125 
+Letter   - >  _ S 0 125 
+Letter   - >  _ T 0 125 
+Letter   - >  _ U 0 125 
+Letter   - >  _ V 0 125 
+Letter   - >  _ W 0 125 
+Letter   - >  _ X 0 125 
+Letter   - >  _ Y 0 125 
+Letter   - >  _ Z 0 125 
+
+126 
+Op   - >  _ Id := Expr ; 2 124 
+Expr   - >  _ SimpleExpr 0 126 
+Expr   - >  _ SimpleExpr + Expr 0 126 
+Expr   - >  _ SimpleExpr - Expr 0 126 
+SimpleExpr   - >  _ Id 0 126 
+SimpleExpr   - >  _ Const 0 126 
+SimpleExpr   - >  _ ( Expr ) 0 126 
+Id   - >  _ Letter 0 126 
+Id   - >  _ Letter Id 0 126 
+Const   - >  _ Digit 0 126 
+Const   - >  _ Digit Const 0 126 
+Letter   - >  _ a 0 126 
+Letter   - >  _ b 0 126 
+Letter   - >  _ c 0 126 
+Letter   - >  _ d 0 126 
+Letter   - >  _ e 0 126 
+Letter   - >  _ f 0 126 
+Letter   - >  _ g 0 126 
+Letter   - >  _ h 0 126 
+Letter   - >  _ i 0 126 
+Letter   - >  _ j 0 126 
+Letter   - >  _ k 0 126 
+Letter   - >  _ l 0 126 
+Letter   - >  _ m 0 126 
+Letter   - >  _ n 0 126 
+Letter   - >  _ o 0 126 
+Letter   - >  _ p 0 126 
+Letter   - >  _ q 0 126 
+Letter   - >  _ r 0 126 
+Letter   - >  _ s 0 126 
+Letter   - >  _ t 0 126 
+Letter   - >  _ u 0 126 
+Letter   - >  _ v 0 126 
+Letter   - >  _ w 0 126 
+Letter   - >  _ x 0 126 
+Letter   - >  _ y 0 126 
+Letter   - >  _ z 0 126 
+Letter   - >  _ A 0 126 
+Letter   - >  _ B 0 126 
+Letter   - >  _ C 0 126 
+Letter   - >  _ D 0 126 
+Letter   - >  _ E 0 126 
+Letter   - >  _ F 0 126 
+Letter   - >  _ G 0 126 
+Letter   - >  _ H 0 126 
+Letter   - >  _ I 0 126 
+Letter   - >  _ J 0 126 
+Letter   - >  _ K 0 126 
+Letter   - >  _ L 0 126 
+Letter   - >  _ M 0 126 
+Letter   - >  _ N 0 126 
+Letter   - >  _ O 0 126 
+Letter   - >  _ P 0 126 
+Letter   - >  _ Q 0 126 
+Letter   - >  _ R 0 126 
+Letter   - >  _ S 0 126 
+Letter   - >  _ T 0 126 
+Letter   - >  _ U 0 126 
+Letter   - >  _ V 0 126 
+Letter   - >  _ W 0 126 
+Letter   - >  _ X 0 126 
+Letter   - >  _ Y 0 126 
+Letter   - >  _ Z 0 126 
+Digit   - >  _ 0 0 126 
+Digit   - >  _ 1 0 126 
+Digit   - >  _ 2 0 126 
+Digit   - >  _ 3 0 126 
+Digit   - >  _ 4 0 126 
+Digit   - >  _ 5 0 126 
+Digit   - >  _ 6 0 126 
+Digit   - >  _ 7 0 126 
+Digit   - >  _ 8 0 126 
+Digit   - >  _ 9 0 126 
+
+127 
+Digit   - >  _ 1 1 126 
+Const   - >  _ Digit 1 126 
+Const   - >  _ Digit Const 1 126 
+Const   - >  _ Digit 0 127 
+Const   - >  _ Digit Const 0 127 
+SimpleExpr   - >  _ Const 1 126 
+Digit   - >  _ 0 0 127 
+Digit   - >  _ 1 0 127 
+Digit   - >  _ 2 0 127 
+Digit   - >  _ 3 0 127 
+Digit   - >  _ 4 0 127 
+Digit   - >  _ 5 0 127 
+Digit   - >  _ 6 0 127 
+Digit   - >  _ 7 0 127 
+Digit   - >  _ 8 0 127 
+Digit   - >  _ 9 0 127 
+Expr   - >  _ SimpleExpr 1 126 
+Expr   - >  _ SimpleExpr + Expr 1 126 
+Expr   - >  _ SimpleExpr - Expr 1 126 
+Op   - >  _ Id := Expr ; 3 124 
+
+128 
+Op   - >  _ Id := Expr ; 4 124 
+Operators   - >  _ Op 1 124 
+Operators   - >  _ Op Operators 1 124 
+Operators   - >  _ Op 0 128 
+Operators   - >  _ Op Operators 0 128 
+Options   - >  _ Const : Operators Options 3 120 
+Options   - >  _ Const : Operators 3 120 
+Op   - >  _ Id := Expr ; 0 128 
+Op   - >  _ case Expr of Options end ; 0 128 
+Options   - >  _ Const : Operators Options 0 128 
+Options   - >  _ Const : Operators 0 128 
+Op   - >  _ case Expr of Options end ; 4 115 
+Id   - >  _ Letter 0 128 
+Id   - >  _ Letter Id 0 128 
+Const   - >  _ Digit 0 128 
+Const   - >  _ Digit Const 0 128 
+Letter   - >  _ a 0 128 
+Letter   - >  _ b 0 128 
+Letter   - >  _ c 0 128 
+Letter   - >  _ d 0 128 
+Letter   - >  _ e 0 128 
+Letter   - >  _ f 0 128 
+Letter   - >  _ g 0 128 
+Letter   - >  _ h 0 128 
+Letter   - >  _ i 0 128 
+Letter   - >  _ j 0 128 
+Letter   - >  _ k 0 128 
+Letter   - >  _ l 0 128 
+Letter   - >  _ m 0 128 
+Letter   - >  _ n 0 128 
+Letter   - >  _ o 0 128 
+Letter   - >  _ p 0 128 
+Letter   - >  _ q 0 128 
+Letter   - >  _ r 0 128 
+Letter   - >  _ s 0 128 
+Letter   - >  _ t 0 128 
+Letter   - >  _ u 0 128 
+Letter   - >  _ v 0 128 
+Letter   - >  _ w 0 128 
+Letter   - >  _ x 0 128 
+Letter   - >  _ y 0 128 
+Letter   - >  _ z 0 128 
+Letter   - >  _ A 0 128 
+Letter   - >  _ B 0 128 
+Letter   - >  _ C 0 128 
+Letter   - >  _ D 0 128 
+Letter   - >  _ E 0 128 
+Letter   - >  _ F 0 128 
+Letter   - >  _ G 0 128 
+Letter   - >  _ H 0 128 
+Letter   - >  _ I 0 128 
+Letter   - >  _ J 0 128 
+Letter   - >  _ K 0 128 
+Letter   - >  _ L 0 128 
+Letter   - >  _ M 0 128 
+Letter   - >  _ N 0 128 
+Letter   - >  _ O 0 128 
+Letter   - >  _ P 0 128 
+Letter   - >  _ Q 0 128 
+Letter   - >  _ R 0 128 
+Letter   - >  _ S 0 128 
+Letter   - >  _ T 0 128 
+Letter   - >  _ U 0 128 
+Letter   - >  _ V 0 128 
+Letter   - >  _ W 0 128 
+Letter   - >  _ X 0 128 
+Letter   - >  _ Y 0 128 
+Letter   - >  _ Z 0 128 
+Digit   - >  _ 0 0 128 
+Digit   - >  _ 1 0 128 
+Digit   - >  _ 2 0 128 
+Digit   - >  _ 3 0 128 
+Digit   - >  _ 4 0 128 
+Digit   - >  _ 5 0 128 
+Digit   - >  _ 6 0 128 
+Digit   - >  _ 7 0 128 
+Digit   - >  _ 8 0 128 
+Digit   - >  _ 9 0 128 
+
+129 
+Digit   - >  _ 1 1 128 
+Const   - >  _ Digit 1 128 
+Const   - >  _ Digit Const 1 128 
+Const   - >  _ Digit 0 129 
+Const   - >  _ Digit Const 0 129 
+Options   - >  _ Const : Operators Options 1 128 
+Options   - >  _ Const : Operators 1 128 
+Digit   - >  _ 0 0 129 
+Digit   - >  _ 1 0 129 
+Digit   - >  _ 2 0 129 
+Digit   - >  _ 3 0 129 
+Digit   - >  _ 4 0 129 
+Digit   - >  _ 5 0 129 
+Digit   - >  _ 6 0 129 
+Digit   - >  _ 7 0 129 
+Digit   - >  _ 8 0 129 
+Digit   - >  _ 9 0 129 
+
+130 
+Options   - >  _ Const : Operators Options 2 128 
+Options   - >  _ Const : Operators 2 128 
+Operators   - >  _ Op 0 130 
+Operators   - >  _ Op Operators 0 130 
+Op   - >  _ Id := Expr ; 0 130 
+Op   - >  _ case Expr of Options end ; 0 130 
+Id   - >  _ Letter 0 130 
+Id   - >  _ Letter Id 0 130 
+Letter   - >  _ a 0 130 
+Letter   - >  _ b 0 130 
+Letter   - >  _ c 0 130 
+Letter   - >  _ d 0 130 
+Letter   - >  _ e 0 130 
+Letter   - >  _ f 0 130 
+Letter   - >  _ g 0 130 
+Letter   - >  _ h 0 130 
+Letter   - >  _ i 0 130 
+Letter   - >  _ j 0 130 
+Letter   - >  _ k 0 130 
+Letter   - >  _ l 0 130 
+Letter   - >  _ m 0 130 
+Letter   - >  _ n 0 130 
+Letter   - >  _ o 0 130 
+Letter   - >  _ p 0 130 
+Letter   - >  _ q 0 130 
+Letter   - >  _ r 0 130 
+Letter   - >  _ s 0 130 
+Letter   - >  _ t 0 130 
+Letter   - >  _ u 0 130 
+Letter   - >  _ v 0 130 
+Letter   - >  _ w 0 130 
+Letter   - >  _ x 0 130 
+Letter   - >  _ y 0 130 
+Letter   - >  _ z 0 130 
+Letter   - >  _ A 0 130 
+Letter   - >  _ B 0 130 
+Letter   - >  _ C 0 130 
+Letter   - >  _ D 0 130 
+Letter   - >  _ E 0 130 
+Letter   - >  _ F 0 130 
+Letter   - >  _ G 0 130 
+Letter   - >  _ H 0 130 
+Letter   - >  _ I 0 130 
+Letter   - >  _ J 0 130 
+Letter   - >  _ K 0 130 
+Letter   - >  _ L 0 130 
+Letter   - >  _ M 0 130 
+Letter   - >  _ N 0 130 
+Letter   - >  _ O 0 130 
+Letter   - >  _ P 0 130 
+Letter   - >  _ Q 0 130 
+Letter   - >  _ R 0 130 
+Letter   - >  _ S 0 130 
+Letter   - >  _ T 0 130 
+Letter   - >  _ U 0 130 
+Letter   - >  _ V 0 130 
+Letter   - >  _ W 0 130 
+Letter   - >  _ X 0 130 
+Letter   - >  _ Y 0 130 
+Letter   - >  _ Z 0 130 
+
+131 
+Letter   - >  _ b 1 130 
+Id   - >  _ Letter 1 130 
+Id   - >  _ Letter Id 1 130 
+Id   - >  _ Letter 0 131 
+Id   - >  _ Letter Id 0 131 
+Op   - >  _ Id := Expr ; 1 130 
+Letter   - >  _ a 0 131 
+Letter   - >  _ b 0 131 
+Letter   - >  _ c 0 131 
+Letter   - >  _ d 0 131 
+Letter   - >  _ e 0 131 
+Letter   - >  _ f 0 131 
+Letter   - >  _ g 0 131 
+Letter   - >  _ h 0 131 
+Letter   - >  _ i 0 131 
+Letter   - >  _ j 0 131 
+Letter   - >  _ k 0 131 
+Letter   - >  _ l 0 131 
+Letter   - >  _ m 0 131 
+Letter   - >  _ n 0 131 
+Letter   - >  _ o 0 131 
+Letter   - >  _ p 0 131 
+Letter   - >  _ q 0 131 
+Letter   - >  _ r 0 131 
+Letter   - >  _ s 0 131 
+Letter   - >  _ t 0 131 
+Letter   - >  _ u 0 131 
+Letter   - >  _ v 0 131 
+Letter   - >  _ w 0 131 
+Letter   - >  _ x 0 131 
+Letter   - >  _ y 0 131 
+Letter   - >  _ z 0 131 
+Letter   - >  _ A 0 131 
+Letter   - >  _ B 0 131 
+Letter   - >  _ C 0 131 
+Letter   - >  _ D 0 131 
+Letter   - >  _ E 0 131 
+Letter   - >  _ F 0 131 
+Letter   - >  _ G 0 131 
+Letter   - >  _ H 0 131 
+Letter   - >  _ I 0 131 
+Letter   - >  _ J 0 131 
+Letter   - >  _ K 0 131 
+Letter   - >  _ L 0 131 
+Letter   - >  _ M 0 131 
+Letter   - >  _ N 0 131 
+Letter   - >  _ O 0 131 
+Letter   - >  _ P 0 131 
+Letter   - >  _ Q 0 131 
+Letter   - >  _ R 0 131 
+Letter   - >  _ S 0 131 
+Letter   - >  _ T 0 131 
+Letter   - >  _ U 0 131 
+Letter   - >  _ V 0 131 
+Letter   - >  _ W 0 131 
+Letter   - >  _ X 0 131 
+Letter   - >  _ Y 0 131 
+Letter   - >  _ Z 0 131 
+
+132 
+Op   - >  _ Id := Expr ; 2 130 
+Expr   - >  _ SimpleExpr 0 132 
+Expr   - >  _ SimpleExpr + Expr 0 132 
+Expr   - >  _ SimpleExpr - Expr 0 132 
+SimpleExpr   - >  _ Id 0 132 
+SimpleExpr   - >  _ Const 0 132 
+SimpleExpr   - >  _ ( Expr ) 0 132 
+Id   - >  _ Letter 0 132 
+Id   - >  _ Letter Id 0 132 
+Const   - >  _ Digit 0 132 
+Const   - >  _ Digit Const 0 132 
+Letter   - >  _ a 0 132 
+Letter   - >  _ b 0 132 
+Letter   - >  _ c 0 132 
+Letter   - >  _ d 0 132 
+Letter   - >  _ e 0 132 
+Letter   - >  _ f 0 132 
+Letter   - >  _ g 0 132 
+Letter   - >  _ h 0 132 
+Letter   - >  _ i 0 132 
+Letter   - >  _ j 0 132 
+Letter   - >  _ k 0 132 
+Letter   - >  _ l 0 132 
+Letter   - >  _ m 0 132 
+Letter   - >  _ n 0 132 
+Letter   - >  _ o 0 132 
+Letter   - >  _ p 0 132 
+Letter   - >  _ q 0 132 
+Letter   - >  _ r 0 132 
+Letter   - >  _ s 0 132 
+Letter   - >  _ t 0 132 
+Letter   - >  _ u 0 132 
+Letter   - >  _ v 0 132 
+Letter   - >  _ w 0 132 
+Letter   - >  _ x 0 132 
+Letter   - >  _ y 0 132 
+Letter   - >  _ z 0 132 
+Letter   - >  _ A 0 132 
+Letter   - >  _ B 0 132 
+Letter   - >  _ C 0 132 
+Letter   - >  _ D 0 132 
+Letter   - >  _ E 0 132 
+Letter   - >  _ F 0 132 
+Letter   - >  _ G 0 132 
+Letter   - >  _ H 0 132 
+Letter   - >  _ I 0 132 
+Letter   - >  _ J 0 132 
+Letter   - >  _ K 0 132 
+Letter   - >  _ L 0 132 
+Letter   - >  _ M 0 132 
+Letter   - >  _ N 0 132 
+Letter   - >  _ O 0 132 
+Letter   - >  _ P 0 132 
+Letter   - >  _ Q 0 132 
+Letter   - >  _ R 0 132 
+Letter   - >  _ S 0 132 
+Letter   - >  _ T 0 132 
+Letter   - >  _ U 0 132 
+Letter   - >  _ V 0 132 
+Letter   - >  _ W 0 132 
+Letter   - >  _ X 0 132 
+Letter   - >  _ Y 0 132 
+Letter   - >  _ Z 0 132 
+Digit   - >  _ 0 0 132 
+Digit   - >  _ 1 0 132 
+Digit   - >  _ 2 0 132 
+Digit   - >  _ 3 0 132 
+Digit   - >  _ 4 0 132 
+Digit   - >  _ 5 0 132 
+Digit   - >  _ 6 0 132 
+Digit   - >  _ 7 0 132 
+Digit   - >  _ 8 0 132 
+Digit   - >  _ 9 0 132 
+
+133 
+Digit   - >  _ 2 1 132 
+Const   - >  _ Digit 1 132 
+Const   - >  _ Digit Const 1 132 
+Const   - >  _ Digit 0 133 
+Const   - >  _ Digit Const 0 133 
+SimpleExpr   - >  _ Const 1 132 
+Digit   - >  _ 0 0 133 
+Digit   - >  _ 1 0 133 
+Digit   - >  _ 2 0 133 
+Digit   - >  _ 3 0 133 
+Digit   - >  _ 4 0 133 
+Digit   - >  _ 5 0 133 
+Digit   - >  _ 6 0 133 
+Digit   - >  _ 7 0 133 
+Digit   - >  _ 8 0 133 
+Digit   - >  _ 9 0 133 
+Expr   - >  _ SimpleExpr 1 132 
+Expr   - >  _ SimpleExpr + Expr 1 132 
+Expr   - >  _ SimpleExpr - Expr 1 132 
+Op   - >  _ Id := Expr ; 3 130 
+
+134 
+Op   - >  _ Id := Expr ; 4 130 
+Operators   - >  _ Op 1 130 
+Operators   - >  _ Op Operators 1 130 
+Operators   - >  _ Op 0 134 
+Operators   - >  _ Op Operators 0 134 
+Options   - >  _ Const : Operators Options 3 128 
+Options   - >  _ Const : Operators 3 128 
+Op   - >  _ Id := Expr ; 0 134 
+Op   - >  _ case Expr of Options end ; 0 134 
+Options   - >  _ Const : Operators Options 0 134 
+Options   - >  _ Const : Operators 0 134 
+Options   - >  _ Const : Operators Options 4 120 
+Id   - >  _ Letter 0 134 
+Id   - >  _ Letter Id 0 134 
+Const   - >  _ Digit 0 134 
+Const   - >  _ Digit Const 0 134 
+Op   - >  _ case Expr of Options end ; 4 115 
+Letter   - >  _ a 0 134 
+Letter   - >  _ b 0 134 
+Letter   - >  _ c 0 134 
+Letter   - >  _ d 0 134 
+Letter   - >  _ e 0 134 
+Letter   - >  _ f 0 134 
+Letter   - >  _ g 0 134 
+Letter   - >  _ h 0 134 
+Letter   - >  _ i 0 134 
+Letter   - >  _ j 0 134 
+Letter   - >  _ k 0 134 
+Letter   - >  _ l 0 134 
+Letter   - >  _ m 0 134 
+Letter   - >  _ n 0 134 
+Letter   - >  _ o 0 134 
+Letter   - >  _ p 0 134 
+Letter   - >  _ q 0 134 
+Letter   - >  _ r 0 134 
+Letter   - >  _ s 0 134 
+Letter   - >  _ t 0 134 
+Letter   - >  _ u 0 134 
+Letter   - >  _ v 0 134 
+Letter   - >  _ w 0 134 
+Letter   - >  _ x 0 134 
+Letter   - >  _ y 0 134 
+Letter   - >  _ z 0 134 
+Letter   - >  _ A 0 134 
+Letter   - >  _ B 0 134 
+Letter   - >  _ C 0 134 
+Letter   - >  _ D 0 134 
+Letter   - >  _ E 0 134 
+Letter   - >  _ F 0 134 
+Letter   - >  _ G 0 134 
+Letter   - >  _ H 0 134 
+Letter   - >  _ I 0 134 
+Letter   - >  _ J 0 134 
+Letter   - >  _ K 0 134 
+Letter   - >  _ L 0 134 
+Letter   - >  _ M 0 134 
+Letter   - >  _ N 0 134 
+Letter   - >  _ O 0 134 
+Letter   - >  _ P 0 134 
+Letter   - >  _ Q 0 134 
+Letter   - >  _ R 0 134 
+Letter   - >  _ S 0 134 
+Letter   - >  _ T 0 134 
+Letter   - >  _ U 0 134 
+Letter   - >  _ V 0 134 
+Letter   - >  _ W 0 134 
+Letter   - >  _ X 0 134 
+Letter   - >  _ Y 0 134 
+Letter   - >  _ Z 0 134 
+Digit   - >  _ 0 0 134 
+Digit   - >  _ 1 0 134 
+Digit   - >  _ 2 0 134 
+Digit   - >  _ 3 0 134 
+Digit   - >  _ 4 0 134 
+Digit   - >  _ 5 0 134 
+Digit   - >  _ 6 0 134 
+Digit   - >  _ 7 0 134 
+Digit   - >  _ 8 0 134 
+Digit   - >  _ 9 0 134 
+
+135 
+Op   - >  _ case Expr of Options end ; 5 115 
+
+136 
+Op   - >  _ case Expr of Options end ; 6 115 
+Operators   - >  _ Op 1 115 
+Operators   - >  _ Op Operators 1 115 
+Operators   - >  _ Op 0 136 
+Operators   - >  _ Op Operators 0 136 
+Operators   - >  _ Op Operators 2 111 
+Op   - >  _ Id := Expr ; 0 136 
+Op   - >  _ case Expr of Options end ; 0 136 
+Options   - >  _ Const : Operators Options 3 109 
+Options   - >  _ Const : Operators 3 109 
+Id   - >  _ Letter 0 136 
+Id   - >  _ Letter Id 0 136 
+Options   - >  _ Const : Operators Options 0 136 
+Options   - >  _ Const : Operators 0 136 
+Options   - >  _ Const : Operators Options 4 68 
+Letter   - >  _ a 0 136 
+Letter   - >  _ b 0 136 
+Letter   - >  _ c 0 136 
+Letter   - >  _ d 0 136 
+Letter   - >  _ e 0 136 
+Letter   - >  _ f 0 136 
+Letter   - >  _ g 0 136 
+Letter   - >  _ h 0 136 
+Letter   - >  _ i 0 136 
+Letter   - >  _ j 0 136 
+Letter   - >  _ k 0 136 
+Letter   - >  _ l 0 136 
+Letter   - >  _ m 0 136 
+Letter   - >  _ n 0 136 
+Letter   - >  _ o 0 136 
+Letter   - >  _ p 0 136 
+Letter   - >  _ q 0 136 
+Letter   - >  _ r 0 136 
+Letter   - >  _ s 0 136 
+Letter   - >  _ t 0 136 
+Letter   - >  _ u 0 136 
+Letter   - >  _ v 0 136 
+Letter   - >  _ w 0 136 
+Letter   - >  _ x 0 136 
+Letter   - >  _ y 0 136 
+Letter   - >  _ z 0 136 
+Letter   - >  _ A 0 136 
+Letter   - >  _ B 0 136 
+Letter   - >  _ C 0 136 
+Letter   - >  _ D 0 136 
+Letter   - >  _ E 0 136 
+Letter   - >  _ F 0 136 
+Letter   - >  _ G 0 136 
+Letter   - >  _ H 0 136 
+Letter   - >  _ I 0 136 
+Letter   - >  _ J 0 136 
+Letter   - >  _ K 0 136 
+Letter   - >  _ L 0 136 
+Letter   - >  _ M 0 136 
+Letter   - >  _ N 0 136 
+Letter   - >  _ O 0 136 
+Letter   - >  _ P 0 136 
+Letter   - >  _ Q 0 136 
+Letter   - >  _ R 0 136 
+Letter   - >  _ S 0 136 
+Letter   - >  _ T 0 136 
+Letter   - >  _ U 0 136 
+Letter   - >  _ V 0 136 
+Letter   - >  _ W 0 136 
+Letter   - >  _ X 0 136 
+Letter   - >  _ Y 0 136 
+Letter   - >  _ Z 0 136 
+Const   - >  _ Digit 0 136 
+Const   - >  _ Digit Const 0 136 
+Options   - >  _ Const : Operators Options 4 52 
+Digit   - >  _ 0 0 136 
+Digit   - >  _ 1 0 136 
+Digit   - >  _ 2 0 136 
+Digit   - >  _ 3 0 136 
+Digit   - >  _ 4 0 136 
+Digit   - >  _ 5 0 136 
+Digit   - >  _ 6 0 136 
+Digit   - >  _ 7 0 136 
+Digit   - >  _ 8 0 136 
+Digit   - >  _ 9 0 136 
+Op   - >  _ case Expr of Options end ; 4 41 
+
+137 
+Op   - >  _ case Expr of Options end ; 5 41 
+
+138 
+Op   - >  _ case Expr of Options end ; 6 41 
+Operators   - >  _ Op 1 41 
+Operators   - >  _ Op Operators 1 41 
+Operators   - >  _ Op 0 138 
+Operators   - >  _ Op Operators 0 138 
+Operators   - >  _ Op Operators 2 27 
+Op   - >  _ Id := Expr ; 0 138 
+Op   - >  _ case Expr of Options end ; 0 138 
+Procedure   - >  _ Begin Descriptions Operators End 3 0 
+Id   - >  _ Letter 0 138 
+Id   - >  _ Letter Id 0 138 
+End   - >  _ end 0 138 
+Letter   - >  _ a 0 138 
+Letter   - >  _ b 0 138 
+Letter   - >  _ c 0 138 
+Letter   - >  _ d 0 138 
+Letter   - >  _ e 0 138 
+Letter   - >  _ f 0 138 
+Letter   - >  _ g 0 138 
+Letter   - >  _ h 0 138 
+Letter   - >  _ i 0 138 
+Letter   - >  _ j 0 138 
+Letter   - >  _ k 0 138 
+Letter   - >  _ l 0 138 
+Letter   - >  _ m 0 138 
+Letter   - >  _ n 0 138 
+Letter   - >  _ o 0 138 
+Letter   - >  _ p 0 138 
+Letter   - >  _ q 0 138 
+Letter   - >  _ r 0 138 
+Letter   - >  _ s 0 138 
+Letter   - >  _ t 0 138 
+Letter   - >  _ u 0 138 
+Letter   - >  _ v 0 138 
+Letter   - >  _ w 0 138 
+Letter   - >  _ x 0 138 
+Letter   - >  _ y 0 138 
+Letter   - >  _ z 0 138 
+Letter   - >  _ A 0 138 
+Letter   - >  _ B 0 138 
+Letter   - >  _ C 0 138 
+Letter   - >  _ D 0 138 
+Letter   - >  _ E 0 138 
+Letter   - >  _ F 0 138 
+Letter   - >  _ G 0 138 
+Letter   - >  _ H 0 138 
+Letter   - >  _ I 0 138 
+Letter   - >  _ J 0 138 
+Letter   - >  _ K 0 138 
+Letter   - >  _ L 0 138 
+Letter   - >  _ M 0 138 
+Letter   - >  _ N 0 138 
+Letter   - >  _ O 0 138 
+Letter   - >  _ P 0 138 
+Letter   - >  _ Q 0 138 
+Letter   - >  _ R 0 138 
+Letter   - >  _ S 0 138 
+Letter   - >  _ T 0 138 
+Letter   - >  _ U 0 138 
+Letter   - >  _ V 0 138 
+Letter   - >  _ W 0 138 
+Letter   - >  _ X 0 138 
+Letter   - >  _ Y 0 138 
+Letter   - >  _ Z 0 138 
+
+139 
+End   - >  _ end 1 138 
+Procedure   - >  _ Begin Descriptions Operators End 4 0 
